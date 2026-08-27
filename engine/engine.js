@@ -23,6 +23,15 @@ const WMO = {
   95: ['orage', 'pluie'], 96: ['orage', 'pluie'], 99: ['orage', 'pluie'],
 };
 
+export const WMO_LABELS_EN = {
+  0: 'Clear sky', 1: 'Mostly clear', 2: 'Partly cloudy', 3: 'Overcast',
+  45: 'Fog', 48: 'Freezing fog',
+  51: 'Light drizzle', 53: 'Drizzle', 55: 'Heavy drizzle', 56: 'Freezing drizzle', 57: 'Freezing drizzle',
+  61: 'Light rain', 63: 'Rain', 65: 'Heavy rain', 66: 'Freezing rain', 67: 'Freezing rain',
+  71: 'Light snow', 73: 'Snow', 75: 'Heavy snow', 77: 'Snow grains',
+  80: 'Light showers', 81: 'Showers', 82: 'Violent showers', 85: 'Snow showers', 86: 'Snow showers',
+  95: 'Thunderstorm', 96: 'Thunderstorm with hail', 99: 'Thunderstorm with hail',
+};
 export const WMO_LABELS_FR = {
   0: 'Ciel dégagé', 1: 'Plutôt dégagé', 2: 'Partiellement nuageux', 3: 'Couvert',
   45: 'Brouillard', 48: 'Brouillard givrant',
@@ -233,13 +242,26 @@ const ECHOS_GENERIQUES = {
   brouillard: v => `Dans le brouillard de ${v}, ce tableau paraît plus proche que jamais.`,
   orage: v => `Sous le ciel d'orage de ${v}, cette œuvre a quelque chose d'électrique.`,
 };
+const ECHOS_GENERIQUES_EN = {
+  pluie: v => `Today, under the rain over ${v}, this work takes on a different light.`,
+  neige: v => `With snow falling on ${v}, this work feels chosen for the day.`,
+  soleil: v => `In today's sunshine over ${v}, its colours seem brighter.`,
+  nuages: v => `The overcast sky above ${v} lends this work a softer tone today.`,
+  vent: v => `The wind blowing through ${v} echoes what stirs within this image.`,
+  froid: v => `In this cold over ${v}, the work reads differently.`,
+  chaleur: v => `In today's heat in ${v}, this image feels in season.`,
+  brouillard: v => `In the fog over ${v}, this work feels closer than ever.`,
+  orage: v => `Under the stormy sky of ${v}, there is something electric about this work.`,
+};
 const PRIORITE = ['orage', 'neige', 'canicule', 'brouillard', 'pluie', 'averse', 'bruine', 'gel', 'vent', 'chaleur', 'froid', 'coucher_soleil', 'nuit', 'humide', 'douceur', 'soleil', 'beau_temps', 'clair', 'nuages', 'variable', 'calme', 'printemps', 'été', 'automne', 'hiver'];
 
-export function phraseEcho(oeuvre, profil, ville) {
+export function phraseEcho(oeuvre, profil, ville, lang = 'fr') {
+  const src = lang === 'en' ? (oeuvre.echos_meteo_en ?? oeuvre.echos_meteo) : oeuvre.echos_meteo;
+  const GEN = lang === 'en' ? ECHOS_GENERIQUES_EN : ECHOS_GENERIQUES;
   const ordre = PRIORITE.filter(l => profil.labels.includes(l));
-  for (const l of ordre) if (oeuvre.echos_meteo?.[l]) return oeuvre.echos_meteo[l];
-  for (const l of ordre) if (ECHOS_GENERIQUES[l]) return ECHOS_GENERIQUES[l](ville);
-  return `Aujourd'hui à ${ville}, cette œuvre vous attendait.`;
+  for (const l of ordre) if (src?.[l]) return src[l];
+  for (const l of ordre) if (GEN[l]) return GEN[l](ville);
+  return lang === 'en' ? `Today in ${ville}, this work was waiting for you.` : `Aujourd'hui à ${ville}, cette œuvre vous attendait.`;
 }
 
 // ---------- 5. Mémoire ville + date ----------
