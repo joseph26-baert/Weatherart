@@ -1,6 +1,7 @@
 // Copie locale des images (domaine public) : téléchargement + réduction, exécuté par GitHub Actions.
 import fs from 'node:fs';
 import sharp from 'sharp';
+import { fileURLToPath } from 'node:url';
 const oeuvres = JSON.parse(fs.readFileSync(new URL('../data/oeuvres.json', import.meta.url))).oeuvres;
 const dir = new URL('../images/', import.meta.url); fs.mkdirSync(dir, { recursive: true });
 const manifestPath = new URL('../images/manifest.json', import.meta.url);
@@ -19,7 +20,7 @@ for (const o of oeuvres) {
       const buf = Buffer.from(await r.arrayBuffer());
       const img = sharp(buf, { failOn: 'none' }).rotate();
       const meta = await img.metadata(); if (!meta.width) throw new Error('image illisible');
-      await img.resize({ width: 1400, height: 1400, fit: 'inside', withoutEnlargement: true }).jpeg({ quality: 82, mozjpeg: true }).toFile(new URL(o.id + '.jpg', dir));
+      await img.resize({ width: 1400, height: 1400, fit: 'inside', withoutEnlargement: true }).jpeg({ quality: 82, mozjpeg: true }).toFile(fileURLToPath(new URL(o.id + '.jpg', dir)));
       manifest[o.id] = { source: u, largeur: Math.min(meta.width, 1400), date: new Date().toISOString().slice(0, 10) };
       ok++; done = true; break;
     } catch (e) { const msg = 'échec ' + o.id + ' ' + u.slice(0, 90) + ' → ' + (e && e.message); console.log(msg); rapport.push(msg); }
