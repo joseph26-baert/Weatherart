@@ -1,0 +1,25 @@
+name: Copie des images
+on:
+  workflow_dispatch:
+  push:
+    paths: ['data/oeuvres.json']
+permissions:
+  contents: write
+concurrency: images
+jobs:
+  copier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: npm install --no-save sharp@0.33
+      - run: node scripts/images.mjs
+      - name: Enregistrer
+        run: |
+          git config user.name "weather-art-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase -q origin main || true
+          git add images
+          git diff --cached --quiet || git commit -m "Copie des images ($(date -u +%Y-%m-%d))"
+          git push
