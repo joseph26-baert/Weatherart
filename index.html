@@ -7468,7 +7468,12 @@ function choisirOeuvre(oeuvres, profil, ctx) {
     p = profilSaisonnier(ctx.dateISO, ctx.latitude);
   }
 
-  let scores = valides.map(o => scoreOeuvre(o, p, ctx.historique ?? [])).sort((a, b) => b.score - a.score);
+  const dejaAilleurs = new Set(ctx.dejaAujourdhui ?? []);   // œuvres déjà attribuées à d'autres villes le même jour
+  let scores = valides.map(o => {
+    const r = scoreOeuvre(o, p, ctx.historique ?? []);
+    if (dejaAilleurs.has(o.id)) r.score *= 0.35;
+    return r;
+  }).sort((a, b) => b.score - a.score);
   let candidats = scores.slice(0, topN).filter(s => s.score > 0);
 
   if (candidats.length === 0) {    // Niveau 3 : aléatoire contrôlé parmi les œuvres compatibles avec la saison
@@ -7535,7 +7540,8 @@ async function oeuvreDuJour({ oeuvres, ville, dateISO, latitude, meteo, store, t
 
   const profil = meteo ? profilMeteo(meteo, dateISO, latitude) : null;
   const historique = await store.historique(ville, dateISO, 60);
-  const res = choisirOeuvre(oeuvres, profil, { ville, dateISO, latitude, historique, topN });
+  const dejaAujourdhui = store.dejaAujourdhui ? await store.dejaAujourdhui(ville, dateISO) : [];
+  const res = choisirOeuvre(oeuvres, profil, { ville, dateISO, latitude, historique, topN, dejaAujourdhui });
   const enregistrement = {
     cle, ville, dateISO, oeuvre_id: res.oeuvre.id, artiste: res.oeuvre.artiste, categorie: res.oeuvre.categorie,
     niveau: res.niveau, profil: res.profil, meteo_brute: meteo ?? null,
@@ -7560,6 +7566,12 @@ function storeMemoire(initial = {}) {
         const e = data[`${ville.toUpperCase()}+${d}`];
         if (e) out.push({ id: e.oeuvre_id, artiste: e.artiste, categorie: e.categorie, jours: j });
       }
+      return out;
+    },
+    async dejaAujourdhui(ville, dateISO) {   // œuvres des autres villes à J-1, J, J+1 (fuseaux horaires)
+      const d0 = new Date(dateISO + 'T00:00:00Z'); const out = [];
+      for (const j of [-1, 0, 1]) { const d = new Date(d0.getTime() + j * 86400000).toISOString().slice(0, 10);
+        for (const [k, e] of Object.entries(data)) if (k.endsWith('+' + d) && !k.startsWith(ville.toUpperCase() + '+')) out.push(e.oeuvre_id); }
       return out;
     },
     dump() { return data; },
@@ -7617,11 +7629,15 @@ let typo = LS.get('adj.typo','serif');
 
 // mémoire ville+date (prototype : navigateur ; site final : serveur)
 const store = {
-  data: LS.get('adj.memoire.v2',{}),
+  data: LS.get('adj.memoire.v3',{}),
   async get(k){ return this.data[k] ?? null; },
-  async set(k,v){ this.data[k]=v; LS.set('adj.memoire.v2',this.data); },
+  async set(k,v){ this.data[k]=v; LS.set('adj.memoire.v3',this.data); },
   async historique(v, dateISO, n){ const out=[]; const d0=new Date(dateISO+'T00:00:00Z');
     for(let j=1;j<=n;j++){ const d=new Date(d0.getTime()-j*86400000).toISOString().slice(0,10); const e=this.data[`${v.toUpperCase()}+${d}`]; if(e) out.push({id:e.oeuvre_id,artiste:e.artiste,categorie:e.categorie,jours:j}); }
+    return out; },
+  async dejaAujourdhui(v, dateISO){ const d0=new Date(dateISO+'T00:00:00Z'); const out=[];
+    for(const j of [-1,0,1]){ const d=new Date(d0.getTime()+j*86400000).toISOString().slice(0,10);
+      for(const [k,e] of Object.entries(this.data)) if(k.endsWith('+'+d) && !k.startsWith(v.toUpperCase()+'+')) out.push(e.oeuvre_id); }
     return out; }
 };
 const byId = Object.fromEntries(OEUVRES.map(o=>[o.id,o]));
