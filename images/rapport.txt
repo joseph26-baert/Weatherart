@@ -44,120 +44,22 @@
 échec mondrian-etude-pour-composition https://www.artic.edu/iiif/2/7942129f-6b16-3b82-d727-14b71165b050/full/843,/0/default.jpg → HTTP 403
 échec kandinsky-maisons-a-murnau https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/1686,/0/default.jpg → HTTP 403
 échec kandinsky-maisons-a-murnau https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/843,/0/default.jpg → HTTP 403
-échec hammershoi-soleil-sur-le-plancher https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi8 → terminated
 échec marc-le-taureau https://www.artic.edu/iiif/2/66011122-fd4f-6110-0b83-01a26d9cff2e/full/1686,/0/default.jpg → HTTP 403
 échec marc-le-taureau https://www.artic.edu/iiif/2/66011122-fd4f-6110-0b83-01a26d9cff2e/full/843,/0/default.jpg → HTTP 403
-échec malevitch-croix-noire https://upload.wikimedia.org/wikipedia/commons/a/a5/Kazimir_Malevich_Black_Cross.jpg → HTTP 429
-échec malevitch-croix-noire https://commons.wikimedia.org/wiki/Special:FilePath/Kazimir_Malevich_Black_Cross.jpg?width → HTTP 429
-échec malevitch-carre-noir-et-carre-rouge https://upload.wikimedia.org/wikipedia/commons/2/22/Black_Square_and_Red_Square_%28Malevic → HTTP 429
-échec malevitch-carre-noir-et-carre-rouge https://commons.wikimedia.org/wiki/Special:FilePath/Black_Square_and_Red_Square_%28Malevic → HTTP 429
-échec malevitch-matin-au-village https://upload.wikimedia.org/wikipedia/commons/1/1b/Morning_in_the_Village_after_Snowstorm → HTTP 429
-échec malevitch-matin-au-village https://commons.wikimedia.org/wiki/Special:FilePath/Morning_in_the_Village_after_Snowstorm → HTTP 429
-échec af-klint-dix-plus-grands-7 https://upload.wikimedia.org/wikipedia/commons/6/62/Hilma_af_Klint_-_The_Ten_Largest_No._7 → HTTP 429
-échec af-klint-dix-plus-grands-7 https://commons.wikimedia.org/wiki/Special:FilePath/Hilma_af_Klint_-_The_Ten_Largest_No._7 → HTTP 429
-échec af-klint-dix-plus-grands-1 https://upload.wikimedia.org/wikipedia/commons/3/34/Hilma_af_Klint_-_The_Ten_Largest_No._1 → HTTP 429
-échec af-klint-dix-plus-grands-1 https://commons.wikimedia.org/wiki/Special:FilePath/Hilma_af_Klint_-_The_Ten_Largest_No._1 → HTTP 429
-échec af-klint-le-cygne-17 https://upload.wikimedia.org/wikipedia/commons/0/00/Hilma_af_Klint%2C_1915%2C_Svanen%2C_No → HTTP 429
-échec af-klint-le-cygne-17 https://commons.wikimedia.org/wiki/Special:FilePath/Hilma_af_Klint%2C_1915%2C_Svanen%2C_No → HTTP 429
-échec af-klint-retable-1 https://upload.wikimedia.org/wikipedia/commons/d/d5/Hilma_af_Klint_-_1907_-_Altarpiece_-_N → HTTP 429
-échec af-klint-chaos-primordial-16 https://upload.wikimedia.org/wikipedia/commons/3/3e/Hilma_af_Klint%2C_1906-07%2C_Primordia → HTTP 429
-échec af-klint-chaos-primordial-16 https://commons.wikimedia.org/wiki/Special:FilePath/Hilma_af_Klint%2C_1906-07%2C_Primordia → HTTP 429
-échec kandinsky-composition-viii https://upload.wikimedia.org/wikipedia/commons/4/47/Vassily_Kandinsky%2C_1923_-_Compositio → HTTP 429
-échec kandinsky-composition-viii https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1923_-_Compositio → HTTP 429
-échec kandinsky-cercles-dans-un-cercle https://upload.wikimedia.org/wikipedia/commons/f/f0/Vassily_Kandinsky%2C_1923_-_Circles_in → HTTP 429
-échec kandinsky-cercles-dans-un-cercle https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1923_-_Circles_in → HTTP 429
-échec mondrian-composition-ii-rouge-bleu-jaune https://upload.wikimedia.org/wikipedia/commons/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Comp → HTTP 429
-échec mondrian-composition-ii-rouge-bleu-jaune https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondriaan%2C_1930_-_Mondrian_Comp → HTTP 429
-échec mondrian-broadway-boogie-woogie https://upload.wikimedia.org/wikipedia/commons/3/30/Piet_Mondrian%2C_1942_-_Broadway_Boogi → HTTP 429
-échec mondrian-broadway-boogie-woogie https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondrian%2C_1942_-_Broadway_Boogi → HTTP 429
-échec mondrian-tableau-i https://upload.wikimedia.org/wikipedia/commons/d/d6/Piet_mondrian%2C_tableau_I%2C_1921.jpg → HTTP 429
-échec mondrian-tableau-i https://commons.wikimedia.org/wiki/Special:FilePath/Piet_mondrian%2C_tableau_I%2C_1921.jpg → HTTP 429
-échec mondrian-composition-10-jetee-et-ocean https://upload.wikimedia.org/wikipedia/commons/2/29/Mondrian_-_Composition_10_in_Black_and → HTTP 429
-échec mondrian-composition-10-jetee-et-ocean https://commons.wikimedia.org/wiki/Special:FilePath/Mondrian_-_Composition_10_in_Black_and → HTTP 429
-échec mondrian-arbre-rouge https://upload.wikimedia.org/wikipedia/commons/6/64/Piet_Mondrian%2C_1908-10%2C_Evening%3B → HTTP 429
-échec mondrian-arbre-rouge https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondrian%2C_1908-10%2C_Evening%3B → HTTP 429
-échec klee-senecio https://upload.wikimedia.org/wikipedia/commons/3/3f/Paul_Klee%2C_1922%2C_Senecio%2C_oil_on → HTTP 429
-échec klee-senecio https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee%2C_1922%2C_Senecio%2C_oil_on → HTTP 429
-échec klee-ad-parnassum https://upload.wikimedia.org/wikipedia/commons/6/66/Ad_Parnassum%2C_Paul_Klee_%281932%29.p → HTTP 429
-échec klee-ad-parnassum https://commons.wikimedia.org/wiki/Special:FilePath/Ad_Parnassum%2C_Paul_Klee_%281932%29.p → HTTP 429
-échec klee-magie-des-poissons https://upload.wikimedia.org/wikipedia/commons/9/9e/Paul_Klee%2C_Swiss_-_Fish_Magic_-_Goog → HTTP 429
-échec klee-magie-des-poissons https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee%2C_Swiss_-_Fish_Magic_-_Goog → HTTP 429
-échec klee-grand-chemin-et-chemins-de-traverse https://upload.wikimedia.org/wikipedia/commons/6/6c/Paul_Klee%2C_Hauptweg_und_Nebenwege%2C → HTTP 429
-échec klee-grand-chemin-et-chemins-de-traverse https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee%2C_Hauptweg_und_Nebenwege%2C → HTTP 429
-échec klee-insula-dulcamara https://upload.wikimedia.org/wikipedia/commons/1/1c/Paul_Klee%2C_Insula_dulcamara.jpg → HTTP 429
-échec klee-insula-dulcamara https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee%2C_Insula_dulcamara.jpg?widt → HTTP 429
-échec klee-ballon-rouge https://upload.wikimedia.org/wikipedia/commons/9/9c/Paul_Klee%2C_1922%2C_Red_Balloon%2C_oi → HTTP 429
-échec klee-ballon-rouge https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee%2C_1922%2C_Red_Balloon%2C_oi → HTTP 429
-échec delaunay-rythme-n1 https://upload.wikimedia.org/wikipedia/commons/c/cb/Robert_Delaunay%2C_1938%2C_Rythme_n%C2 → HTTP 429
-échec delaunay-rythme-n1 https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Delaunay%2C_1938%2C_Rythme_n%C2 → HTTP 429
-échec delaunay-hommage-a-bleriot https://upload.wikimedia.org/wikipedia/commons/5/54/Robert_Delaunay%2C_Hommage_%C3%A0_Bl%C → HTTP 429
-échec delaunay-hommage-a-bleriot https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Delaunay%2C_Hommage_%C3%A0_Bl%C → HTTP 429
-échec delaunay-tour-eiffel-1911 https://upload.wikimedia.org/wikipedia/commons/c/c4/Robert_Delaunay_-_Eiffel_Tower_-_1911_ → HTTP 429
-échec delaunay-tour-eiffel-1911 https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Delaunay_-_Eiffel_Tower_-_1911_ → HTTP 429
-échec popova-architectonique-picturale https://upload.wikimedia.org/wikipedia/commons/b/bb/Painterly_Architectonic_-_1918.jpg → HTTP 429
-échec popova-architectonique-picturale https://commons.wikimedia.org/wiki/Special:FilePath/Painterly_Architectonic_-_1918.jpg?wid → HTTP 429
-échec popova-construction-force-spatiale https://upload.wikimedia.org/wikipedia/commons/d/d4/Liubov_Popova%2C_Spatial_Force_Constru → HTTP 429
-échec popova-construction-force-spatiale https://commons.wikimedia.org/wiki/Special:FilePath/Liubov_Popova%2C_Spatial_Force_Constru → HTTP 429
-échec rozanova-bande-verte https://upload.wikimedia.org/wikipedia/commons/3/3c/Green_Stripe_%28Rozanova%2C_1917%29.jp → HTTP 429
-échec rozanova-bande-verte https://commons.wikimedia.org/wiki/Special:FilePath/Green_Stripe_%28Rozanova%2C_1917%29.jp → HTTP 429
-échec rozanova-composition-non-objective https://upload.wikimedia.org/wikipedia/commons/8/86/Non-Objective_Composition_%28Supremati → HTTP 429
-échec rozanova-composition-non-objective https://commons.wikimedia.org/wiki/Special:FilePath/Non-Objective_Composition_%28Supremati → HTTP 429
-échec lissitzky-proun-19d https://upload.wikimedia.org/wikipedia/commons/7/75/NY_Moma_lissitsky_19D.JPG → HTTP 429
-échec lissitzky-proun-19d https://commons.wikimedia.org/wiki/Special:FilePath/NY_Moma_lissitsky_19D.JPG?width=1200 → HTTP 429
-échec kliun-suprematisme-1915 https://upload.wikimedia.org/wikipedia/commons/2/2c/Ivan_Kliun%2C_Suprematism%2C_1915.jpg → HTTP 429
-échec kliun-suprematisme-1915 https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Kliun%2C_Suprematism%2C_1915.jpg? → HTTP 429
-échec van-doesburg-rythme-danse-russe https://upload.wikimedia.org/wikipedia/commons/6/65/Theo_van_Doesburg-Rhythmus_eines_russi → HTTP 429
-échec van-doesburg-rythme-danse-russe https://commons.wikimedia.org/wiki/Special:FilePath/Theo_van_Doesburg-Rhythmus_eines_russi → HTTP 429
-échec van-doesburg-composition-viii-la-vache https://upload.wikimedia.org/wikipedia/commons/f/ff/Theo_van_doesburg_de_koe.jpg → HTTP 429
-échec van-doesburg-composition-viii-la-vache https://commons.wikimedia.org/wiki/Special:FilePath/Theo_van_doesburg_de_koe.jpg?width=120 → HTTP 429
-échec moholy-nagy-a-ii https://upload.wikimedia.org/wikipedia/commons/2/24/A_II_%28Construction_A_II%29_by_L%C3%A → HTTP 429
-échec moholy-nagy-a-ii https://commons.wikimedia.org/wiki/Special:FilePath/A_II_%28Construction_A_II%29_by_L%C3%A → HTTP 429
-échec moholy-nagy-composition-a-xx https://upload.wikimedia.org/wikipedia/commons/2/21/Laszlo_moholy-nagy%2C_composizione_A.X → HTTP 429
-échec moholy-nagy-composition-a-xx https://commons.wikimedia.org/wiki/Special:FilePath/Laszlo_moholy-nagy%2C_composizione_A.X → HTTP 429
-échec schwitters-das-undbild https://upload.wikimedia.org/wikipedia/commons/f/fc/DasUndbild.jpg → HTTP 429
-échec schwitters-das-undbild https://commons.wikimedia.org/wiki/Special:FilePath/DasUndbild.jpg?width=1200 → HTTP 429
-échec taeuber-arp-composition-verticale-horizontale https://upload.wikimedia.org/wikipedia/commons/c/cf/Sophie_Taeuber-Arp_Vertical-Horizontal → HTTP 429
-échec taeuber-arp-composition-verticale-horizontale https://commons.wikimedia.org/wiki/Special:FilePath/Sophie_Taeuber-Arp_Vertical-Horizontal → HTTP 429
-échec taeuber-arp-composition-dada https://upload.wikimedia.org/wikipedia/commons/3/3c/Sophie_Taeuber-Arp_Composition_Dada_19 → HTTP 429
-échec taeuber-arp-composition-dada https://commons.wikimedia.org/wiki/Special:FilePath/Sophie_Taeuber-Arp_Composition_Dada_19 → HTTP 429
-échec marc-formes-en-lutte https://upload.wikimedia.org/wikipedia/commons/4/4e/Marc_-_K%C3%A4mpfende_Formen_PA291382. → HTTP 429
-échec marc-formes-en-lutte https://commons.wikimedia.org/wiki/Special:FilePath/Marc_-_K%C3%A4mpfende_Formen_PA291382. → HTTP 429
-échec marc-cheval-bleu-i https://upload.wikimedia.org/wikipedia/commons/5/58/Franz_Marc_-_Blaues_Pferd_I_-_G_13324_ → HTTP 429
-échec marc-cheval-bleu-i https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc_-_Blaues_Pferd_I_-_G_13324_ → HTTP 429
-échec marc-destins-d-animaux https://upload.wikimedia.org/wikipedia/commons/3/32/Franz_Marc-The_fate_of_the_animals-191 → HTTP 429
-échec marc-destins-d-animaux https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc-The_fate_of_the_animals-191 → HTTP 429
-échec marc-la-vache-jaune https://upload.wikimedia.org/wikipedia/commons/f/fd/Franz_Marc-The_Yellow_Cow-1911.jpg → HTTP 429
-échec marc-la-vache-jaune https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc-The_Yellow_Cow-1911.jpg?wid → HTTP 429
-échec macke-formes-colorees-i https://upload.wikimedia.org/wikipedia/commons/9/96/Macke_-_Farbige_Formen.jpg → HTTP 429
-échec macke-formes-colorees-i https://commons.wikimedia.org/wiki/Special:FilePath/Macke_-_Farbige_Formen.jpg?width=1200 → HTTP 429
-échec picabia-edtaonisl https://upload.wikimedia.org/wikipedia/commons/d/de/Francis_Picabia%2C_1913%2C_Edtaonisl_% → HTTP 429
-échec picabia-edtaonisl https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Picabia%2C_1913%2C_Edtaonisl_% → HTTP 429
-échec leger-la-ville https://upload.wikimedia.org/wikipedia/commons/8/8a/Fernand_L%C3%A9ger%2C_1919%2C_The_City → HTTP 429
-échec leger-la-ville https://commons.wikimedia.org/wiki/Special:FilePath/Fernand_L%C3%A9ger%2C_1919%2C_The_City → HTTP 429
-échec boccioni-la-ville-se-leve https://upload.wikimedia.org/wikipedia/commons/b/b4/The_City_Rises_by_Umberto_Boccioni_191 → HTTP 429
-échec boccioni-la-ville-se-leve https://commons.wikimedia.org/wiki/Special:FilePath/The_City_Rises_by_Umberto_Boccioni_191 → HTTP 429
-échec boccioni-dynamisme-d-un-cycliste https://upload.wikimedia.org/wikipedia/commons/0/03/Umberto_Boccioni%2C_1913%2C_Dynamism_o → HTTP 429
-échec boccioni-dynamisme-d-un-cycliste https://commons.wikimedia.org/wiki/Special:FilePath/Umberto_Boccioni%2C_1913%2C_Dynamism_o → HTTP 429
-échec dove-nature-symbolisee-2 https://upload.wikimedia.org/wikipedia/commons/d/d1/Dove_Arthur_Nature_Symbolized_1911.jpg → HTTP 429
-échec dove-nature-symbolisee-2 https://commons.wikimedia.org/wiki/Special:FilePath/Dove_Arthur_Nature_Symbolized_1911.jpg → HTTP 429
-échec hartley-portrait-d-un-officier-allemand https://upload.wikimedia.org/wikipedia/commons/c/cf/Portrait_of_a_German_Officer_MET_DP236 → HTTP 429
-échec hartley-portrait-d-un-officier-allemand https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_a_German_Officer_MET_DP236 → HTTP 429
-échec morgner-composition-astrale-xi https://upload.wikimedia.org/wikipedia/commons/2/27/Astrale_Komposition_XI_MORGNER_Wilhelm → HTTP 429
-échec morgner-composition-astrale-xi https://commons.wikimedia.org/wiki/Special:FilePath/Astrale_Komposition_XI_MORGNER_Wilhelm → HTTP 429
-échec vangogh-oliviers-mia https://api.artsmia.org/images/1218/large.jpg → fetch failed
-échec vangogh-oliviers-mia https://api.artsmia.org/images/1218/medium.jpg → fetch failed
-échec monet-meule-soleil-dans-la-brume https://api.artsmia.org/images/10436/large.jpg → fetch failed
-échec monet-meule-soleil-dans-la-brume https://api.artsmia.org/images/10436/medium.jpg → fetch failed
-échec rembrandt-lucrece https://api.artsmia.org/images/529/large.jpg → fetch failed
-échec rembrandt-lucrece https://api.artsmia.org/images/529/medium.jpg → fetch failed
-échec bonnard-salle-a-manger-a-la-campagne https://api.artsmia.org/images/1240/large.jpg → fetch failed
-échec bonnard-salle-a-manger-a-la-campagne https://api.artsmia.org/images/1240/medium.jpg → fetch failed
-échec goya-autoportrait-avec-le-docteur-arrieta https://api.artsmia.org/images/1226/large.jpg → fetch failed
-échec goya-autoportrait-avec-le-docteur-arrieta https://api.artsmia.org/images/1226/medium.jpg → fetch failed
-échec poussin-la-mort-de-germanicus https://api.artsmia.org/images/1348/large.jpg → fetch failed
-échec poussin-la-mort-de-germanicus https://api.artsmia.org/images/1348/medium.jpg → fetch failed
-échec hokusai-grande-vague-mia https://api.artsmia.org/images/8747/large.jpg → fetch failed
-échec hokusai-grande-vague-mia https://api.artsmia.org/images/8747/medium.jpg → fetch failed
+échec vangogh-oliviers-mia https://api.artsmia.org/images/1218/large.jpg → HTTP réseau: fetch failed
+échec vangogh-oliviers-mia https://api.artsmia.org/images/1218/medium.jpg → HTTP réseau: fetch failed
+échec monet-meule-soleil-dans-la-brume https://api.artsmia.org/images/10436/large.jpg → HTTP réseau: fetch failed
+échec monet-meule-soleil-dans-la-brume https://api.artsmia.org/images/10436/medium.jpg → HTTP réseau: fetch failed
+échec rembrandt-lucrece https://api.artsmia.org/images/529/large.jpg → HTTP réseau: fetch failed
+échec rembrandt-lucrece https://api.artsmia.org/images/529/medium.jpg → HTTP réseau: fetch failed
+échec bonnard-salle-a-manger-a-la-campagne https://api.artsmia.org/images/1240/large.jpg → HTTP réseau: fetch failed
+échec bonnard-salle-a-manger-a-la-campagne https://api.artsmia.org/images/1240/medium.jpg → HTTP réseau: fetch failed
+échec goya-autoportrait-avec-le-docteur-arrieta https://api.artsmia.org/images/1226/large.jpg → HTTP réseau: fetch failed
+échec goya-autoportrait-avec-le-docteur-arrieta https://api.artsmia.org/images/1226/medium.jpg → HTTP réseau: fetch failed
+échec poussin-la-mort-de-germanicus https://api.artsmia.org/images/1348/large.jpg → HTTP réseau: fetch failed
+échec poussin-la-mort-de-germanicus https://api.artsmia.org/images/1348/medium.jpg → HTTP réseau: fetch failed
+échec hokusai-grande-vague-mia https://api.artsmia.org/images/8747/large.jpg → HTTP réseau: fetch failed
+échec hokusai-grande-vague-mia https://api.artsmia.org/images/8747/medium.jpg → HTTP réseau: fetch failed
 échec whistler-nocturne-southampton https://www.artic.edu/iiif/2/50034c7f-ce51-00f1-430e-a6f7efc233fc/full/1686,/0/default.jpg → HTTP 403
 échec whistler-nocturne-southampton https://www.artic.edu/iiif/2/50034c7f-ce51-00f1-430e-a6f7efc233fc/full/843,/0/default.jpg → HTTP 403
 échec grimshaw-chemin-la-nuit https://www.artic.edu/iiif/2/cf36b3c1-c792-8529-822e-ddcacfcc26e2/full/1686,/0/default.jpg → HTTP 403
@@ -168,4 +70,4 @@
 échec monet-charing-cross-bridge https://www.artic.edu/iiif/2/e9179922-f68d-34c5-481d-abf49e046863/full/843,/0/default.jpg → HTTP 403
 échec cassatt-le-bain-de-l-enfant https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/1686,/0/default.jpg → HTTP 403
 échec cassatt-le-bain-de-l-enfant https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/843,/0/default.jpg → HTTP 403
-bilan: 152 ok, 86 échecs, 152 total
+bilan: 48 ok, 38 échecs, 200 total
