@@ -24,7 +24,13 @@ async function telecharger(u) {
 let ok = 0, ko = 0;
 for (const o of oeuvres) {
   if (manifest[o.id]) continue;
-  const cand = [o.image.url, o.image.url_petite].filter(u => u && /^https?:/.test(u) && !/rijksmuseum\.nl\/en\/collection/.test(u));
+  let cand = [o.image.url, o.image.url_petite].filter(u => u && /^https?:/.test(u) && !/rijksmuseum\.nl\/en\/collection/.test(u));
+  const replis = [];
+  for (const u of cand) {
+    if (/artic\.edu/.test(u)) replis.push('https://images.weserv.nl/?url=' + encodeURIComponent(u.replace(/^https?:\/\//, '')));
+    if (/api\.artsmia\.org\/images/.test(u)) replis.push(u.replace('api.artsmia.org/images', 'iiif.artsmia.org') .replace('/large.jpg', '.jpg/full/1400,/0/default.jpg'), 'https://images.weserv.nl/?url=' + encodeURIComponent(u.replace(/^https?:\/\//, '')));
+  }
+  cand = [...cand, ...replis];
   let done = false;
   for (const u of cand) {
     try {
