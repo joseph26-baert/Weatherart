@@ -17702,7 +17702,7 @@ const VILLES_DEFAUT = [
   {nom:'Rome',lat:41.9028,lon:12.4964},{nom:'Tokyo',lat:35.6762,lon:139.6503},{nom:'New York',lat:40.7128,lon:-74.006},{nom:'Amsterdam',lat:52.3676,lon:4.9041}
 ];
 const LS = { get(k,d){ try{ const v=localStorage.getItem(k); return v?JSON.parse(v):d; }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch(e){} } };
-let villes = [...VILLES_DEFAUT, ...LS.get('adj.villes.perso',[])];
+let villes = [...VILLES_DEFAUT];   // les villes cherchées ne sont pas ajoutées à la liste
 let ville = LS.get('adj.ville', null);
 let typo = LS.get('adj.typo','serif');
 
@@ -17741,13 +17741,14 @@ const etat = (t, on=true) => { const e=document.getElementById('etat'); e.textCo
 
 function renderMenu(){
   const m=document.getElementById('menu');
-  m.innerHTML = villes.map(v=>`<button class="cap ${v.nom===ville.nom?'cur':''}" data-v="${v.nom}">${v.nom}</button>`).join('')
+  const liste = (ville && !villes.find(v=>v.nom===ville.nom)) ? [ville, ...villes] : villes;
+  m.innerHTML = liste.map(v=>`<button class="cap ${ville&&v.nom===ville.nom?'cur':''}" data-v="${v.nom}">${v.nom}</button>`).join('')
     + `<div class="sep"></div><input class="cap" id="rech" placeholder="Autre ville…" autocomplete="off"><div class="res" id="res"></div>`;
-  m.querySelectorAll('button[data-v]').forEach(b=>b.onclick=()=>{ choisir(villes.find(v=>v.nom===b.dataset.v)); });
+  m.querySelectorAll('button[data-v]').forEach(b=>b.onclick=()=>{ choisir(liste.find(v=>v.nom===b.dataset.v)); });
   const inp=m.querySelector('#rech'); let t;
   inp.oninput=()=>{ clearTimeout(t); const q=inp.value.trim(); if(q.length<2){document.getElementById('res').innerHTML='';return;}
     t=setTimeout(async()=>{ try{ const r=await chercherVille(q); document.getElementById('res').innerHTML=r.slice(0,5).map((v,i)=>`<button class="cap" data-i="${i}">${v.nom}${v.pays?' · '+v.pays:''}</button>`).join('')||'<button class="cap" disabled>Aucune ville trouvée</button>';
-      document.getElementById('res').querySelectorAll('button[data-i]').forEach(b=>b.onclick=()=>{ const v=r[+b.dataset.i]; const nv={nom:v.nom,lat:v.lat,lon:v.lon}; if(!villes.find(x=>x.nom===nv.nom)){ villes.push(nv); LS.set('adj.villes.perso',villes.slice(VILLES_DEFAUT.length)); } choisir(nv); });
+      document.getElementById('res').querySelectorAll('button[data-i]').forEach(b=>b.onclick=()=>{ const v=r[+b.dataset.i]; const nv={nom:v.nom,lat:v.lat,lon:v.lon}; choisir(nv); });
     }catch(e){ document.getElementById('res').innerHTML='<button class="cap" disabled>Recherche indisponible</button>'; } },350); };
 }
 function toggleMenu(on){ const m=document.getElementById('menu'); const b=document.getElementById('villeBtn'); const v=on??!m.classList.contains('on'); m.classList.toggle('on',v); b.setAttribute('aria-expanded',v); if(v){ renderMenu(); setTimeout(()=>m.querySelector('#rech')?.focus(),50);} }
@@ -17783,12 +17784,13 @@ async function afficher(){
 function setTypo(t){ typo=t; LS.set('adj.typo',t); document.body.classList.toggle('sans',t==='sans'); document.querySelectorAll('.switch button').forEach(b=>b.classList.toggle('on',(b.id==='tSans')===(t==='sans'))); }
 function accueil(){
   const a=document.getElementById('accueil');
-  document.getElementById('accVilles').innerHTML=villes.map(v=>`<button data-v="${v.nom}">${v.nom}</button>`).join('');
-  document.getElementById('accVilles').querySelectorAll('button').forEach(b=>b.onclick=()=>{ choisir(villes.find(v=>v.nom===b.dataset.v)); a.classList.add('off'); });
+  document.getElementById('accVilles').innerHTML=VILLES_DEFAUT.map(v=>`<button data-v="${v.nom}">${v.nom}</button>`).join('');
+  document.getElementById('accVilles').querySelectorAll('button').forEach(b=>b.onclick=()=>{ choisir(VILLES_DEFAUT.find(v=>v.nom===b.dataset.v)); a.classList.add('off'); });
+  if (ville && !VILLES_DEFAUT.find(v=>v.nom===ville.nom)) { const r=document.getElementById('accRes'); r.innerHTML=`<button data-last="1">${ville.nom}</button>`; r.querySelector('button').onclick=()=>{ choisir(ville); a.classList.add('off'); }; }
   const inp=document.getElementById('accRech'); let t;
   inp.oninput=()=>{ clearTimeout(t); const q=inp.value.trim(); const res=document.getElementById('accRes'); if(q.length<2){res.innerHTML='';return;}
     t=setTimeout(async()=>{ try{ const r=await chercherVille(q); res.innerHTML=r.slice(0,5).map((v,i)=>`<button data-i="${i}">${v.nom}${v.pays?' · '+v.pays:''}</button>`).join('')||'<button disabled>Aucune ville trouvée</button>';
-      res.querySelectorAll('button[data-i]').forEach(b=>b.onclick=()=>{ const v=r[+b.dataset.i]; const nv={nom:v.nom,lat:v.lat,lon:v.lon}; if(!villes.find(x=>x.nom===nv.nom)){ villes.push(nv); LS.set('adj.villes.perso',villes.slice(VILLES_DEFAUT.length)); } choisir(nv); a.classList.add('off'); });
+      res.querySelectorAll('button[data-i]').forEach(b=>b.onclick=()=>{ const v=r[+b.dataset.i]; const nv={nom:v.nom,lat:v.lat,lon:v.lon}; choisir(nv); a.classList.add('off'); });
     }catch(e){ res.innerHTML='<button disabled>Recherche indisponible</button>'; } },350); };
   a.classList.remove('off');
 }
