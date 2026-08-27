@@ -7666,14 +7666,14 @@ async function afficher(){
   const res=await oeuvreDuJour({oeuvres:OEUVRES, ville:ville.nom, dateISO, latitude:ville.lat, meteo:m, store});
   const o=byId[res.oeuvre_id]; const mm=res.meteo_brute??m;
   const fond=fondSombre(o.fond_couleur); document.body.style.background=fond; document.body.classList.toggle('dark',lum(fond)<.3);
-  const meteoTxt = mm ? `<b>${Math.round(mm.temp)}°</b> · ${(WMO_LABELS_FR[mm.code_wmo_actuel??mm.code_wmo]||'').toLowerCase()}` : `<span title="${err||''}">météo indisponible · choix de saison</span>`;
+  const meteoTxt = mm ? `<b>${Math.round(mm.temp)}°</b> · ${(WMO_LABELS_FR[mm.code_wmo_actuel??mm.code_wmo]||'').toLowerCase()}` : `<span>météo indisponible · choix de saison</span><br><span style="opacity:.6;font-size:.8em;letter-spacing:.04em">(${(err||'raison inconnue').replace(/</g,'&lt;')})</span>`;
   document.getElementById('scene').innerHTML=`
     <div class="art"><img id="img" src="${imgSrc(o)}" alt="${o.titre} — ${o.artiste}"></div>
     <div class="titre"><h1>${o.titre}</h1><p class="meta">${o.artiste}, ${o.annee}</p></div>
     <div class="cap meteo">${ville.nom} · ${dateFR(dateISO)} · ${meteoTxt}</div>
     <a class="down" href="#lire" aria-label="Lire"></a>`;
   const img=document.getElementById('img'); const on=()=>img.classList.add('on'); img.onload=on; if(img.complete) on();
-  img.onerror=()=>{ img.replaceWith(Object.assign(document.createElement('div'),{className:'ph'})); };
+  img.onerror=()=>{ const d=document.createElement('div'); d.className='ph'; d.style.display='flex'; d.style.alignItems='center'; d.style.justifyContent='center'; d.style.padding='20px'; d.innerHTML='<span class="cap" style="font-size:.8rem">image du musée non chargée<br>'+img.src.replace(/^https?:\/\/([^/]+).*$/,'$1')+'</span>'; img.replaceWith(d); };
   const liens=[]; if(o.wikipedia_oeuvre) liens.push(`<a href="${o.wikipedia_oeuvre}" target="_blank" rel="noopener">Découvrir l’œuvre sur Wikipédia</a>`); if(o.wikipedia_artiste) liens.push(`<a href="${o.wikipedia_artiste}" target="_blank" rel="noopener">Découvrir l’artiste sur Wikipédia</a>`);
   document.getElementById('lire').innerHTML=`<div class="texte"><p>${o.texte}</p><p class="echo">${res.echo}</p></div><div class="cap liens">${liens.join('')}</div>`;
   document.getElementById('foot').innerHTML=`${o.musee} · Image : ${o.image.source}, ${o.image.licence} (<a href="${o.image.page_source}" target="_blank" rel="noopener">notice du musée</a>) · Météo : Open-Meteo`;
