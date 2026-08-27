@@ -1,1 +1,142 @@
-{}
+{
+ "GENÈVE+2026-08-27": {
+  "id": "bonnard-salle-a-manger-a-la-campagne",
+  "artiste": "Pierre Bonnard",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on ouvrirait porte et fenêtre comme chez Bonnard.",
+  "meteo": {
+   "temp": 26,
+   "temp_ressentie": 28,
+   "temp_max": 31,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-27T20:29:33.131Z"
+ },
+ "PARIS+2026-08-27": {
+  "id": "rembrandt-enlevement-d-europe",
+  "artiste": "Rembrandt",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel changeant, l'enlèvement d'Europe se joue au bord de l'eau.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 25,
+   "temp_max": 27,
+   "temp_min": 20,
+   "precip_mm": 17,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-27T20:29:33.131Z"
+ },
+ "LONDRES+2026-08-27": {
+  "id": "krishna-dompte-le-serpent-kaliya",
+  "artiste": "Anonyme (royaume de Mewar, Rajasthan)",
+  "categorie": "figuratif",
+  "echo": "Sous cette pluie, les eaux de la Yamuna montent et Krishna danse.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 23,
+   "temp_max": 25,
+   "temp_min": 19,
+   "precip_mm": 4,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-27T20:29:33.131Z"
+ },
+ "ROME+2026-08-27": {
+  "id": "klee-senecio",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, ces rouges et ces orange sont de saison.",
+  "meteo": {
+   "temp": 31,
+   "temp_ressentie": 34,
+   "temp_max": 36,
+   "temp_min": 23,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-27T20:29:33.131Z"
+ },
+ "TOKYO+2026-08-28": {
+  "id": "bruegel-moisson",
+  "artiste": "Pieter Bruegel l'Ancien",
+  "categorie": "figuratif",
+  "echo": "Par cette canicule, on comprend le paysan endormi sous l'arbre.",
+  "meteo": {
+   "temp": 28,
+   "temp_ressentie": 34,
+   "temp_max": 32,
+   "temp_min": 23,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 0,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-27T20:29:33.131Z"
+ },
+ "NEW YORK+2026-08-27": {
+  "id": "ensor-entree-du-christ-a-bruxelles",
+  "artiste": "James Ensor",
+  "categorie": "figuratif",
+  "echo": "Par ce temps d'orage, la foule d'Ensor défile sous les masques.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 26,
+   "temp_max": 25,
+   "temp_min": 21,
+   "precip_mm": 57,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 82,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-27T20:29:33.131Z"
+ },
+ "AMSTERDAM+2026-08-27": {
+  "id": "gentileschi-esther-devant-assuerus",
+  "artiste": "Artemisia Gentileschi",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend le malaise de la reine.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 23,
+   "temp_max": 28,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-27T20:29:33.131Z"
+ }
+}
