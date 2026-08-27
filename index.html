@@ -17,6 +17,8 @@ a{color:inherit}
 header{position:fixed;inset:0 0 auto 0;display:flex;justify-content:space-between;align-items:center;padding:22px 28px;z-index:5;pointer-events:none}
 header>*{pointer-events:auto}
 .brand{color:var(--ink)}
+.hlangs button{background:none;border:0;padding:0;cursor:pointer;color:var(--soft);font:inherit;font-size:.78rem;letter-spacing:.1em;border-bottom:1px solid transparent}
+.hlangs button.on{color:var(--ink);border-color:var(--ink)}
 .ville-wrap{position:relative}
 .ville-btn{background:none;border:0;padding:4px 0;cursor:pointer;color:var(--ink);font:inherit;border-bottom:1px solid transparent;transition:border-color .3s}
 .ville-btn:hover{border-color:var(--line)}
@@ -82,7 +84,7 @@ footer a{color:inherit;text-decoration:none;border-bottom:1px solid var(--line)}
   <div class="cap langs" id="accLangs" style="margin-top:44px"><button data-l="fr">Français</button><span style="opacity:.4;margin:0 10px">·</span><button data-l="en">English</button></div>
 </div>
 <header>
-  <span class="cap brand" id="brand">Weather Art</span>
+  <span style="display:flex;align-items:baseline;gap:18px"><span class="cap brand" id="brand">Weather Art</span><span class="cap hlangs" id="hLangs"><button data-l="fr">FR</button><span style="opacity:.4;margin:0 6px">·</span><button data-l="en">EN</button></span></span>
   <div class="ville-wrap">
     <button class="cap ville-btn" id="villeBtn" aria-haspopup="true" aria-expanded="false">Genève</button>
     <div class="menu" id="menu" role="menu"></div>
@@ -19616,6 +19618,7 @@ async function afficher(){
   const autre='';
   document.getElementById('lire').innerHTML=`<div class="texte"><p>${texte(o)}</p><p class="echo">${echo}</p></div><div class="cap liens">${liens.join('')}</div>${autre}`;
   document.getElementById('foot').innerHTML=`${o.musee} · ${T[lang].image} : ${o.image.source}, ${o.image.licence} (<a href="${o.image.page_source}" target="_blank" rel="noopener">${T[lang].notice}</a>) · ${T[lang].meteoSrc} : Open-Meteo`;
+  document.querySelectorAll('#hLangs button').forEach(b=>{ b.classList.toggle('on', b.dataset.l===lang); b.onclick=()=>{ if(lang!==b.dataset.l){ lang=b.dataset.l; LS.set('adj.lang',lang); afficher(); } }; });
   etat('',false);
   document.title=`${titre(o)} — Weather Art`;
 }
