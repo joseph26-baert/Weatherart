@@ -7617,9 +7617,9 @@ let typo = LS.get('adj.typo','serif');
 
 // mémoire ville+date (prototype : navigateur ; site final : serveur)
 const store = {
-  data: LS.get('adj.memoire',{}),
+  data: LS.get('adj.memoire.v2',{}),
   async get(k){ return this.data[k] ?? null; },
-  async set(k,v){ this.data[k]=v; LS.set('adj.memoire',this.data); },
+  async set(k,v){ this.data[k]=v; LS.set('adj.memoire.v2',this.data); },
   async historique(v, dateISO, n){ const out=[]; const d0=new Date(dateISO+'T00:00:00Z');
     for(let j=1;j<=n;j++){ const d=new Date(d0.getTime()-j*86400000).toISOString().slice(0,10); const e=this.data[`${v.toUpperCase()}+${d}`]; if(e) out.push({id:e.oeuvre_id,artiste:e.artiste,categorie:e.categorie,jours:j}); }
     return out; }
