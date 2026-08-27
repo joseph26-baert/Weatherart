@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="referrer" content="no-referrer">
 <title>Weather Art</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500&display=swap" rel="stylesheet">
@@ -17883,7 +17883,7 @@ async function afficher(){
   const codeNow = cur && cur.weather_code!=null ? cur.weather_code : (mm ? mm.code_wmo : null);
   const meteoTxt = mm ? `<b>${tempNow}°</b> · ${(WMO_LABELS_FR[codeNow]||'').toLowerCase()}` : `<span>météo indisponible · choix de saison</span><br><span style="opacity:.6;font-size:.8em;letter-spacing:.04em">(${(err||'raison inconnue').replace(/</g,'&lt;')})</span>`;
   document.getElementById('scene').innerHTML=`
-    <div class="art"><img id="img" src="${imgSrc(o)}" alt="${o.titre} — ${o.artiste}"></div>
+    <div class="art"><img id="img" referrerpolicy="no-referrer" src="${imgSrc(o)}" alt="${o.titre} — ${o.artiste}"></div>
     <div class="titre"><h1>${o.titre}</h1><p class="meta">${o.artiste}, ${o.annee}</p>${o.mouvement_artistique?`<p class="meta mvt">${o.mouvement_artistique}</p>`:``}</div>
     <div class="cap meteo">${ville.nom} · ${dateFR(dateISO)} · ${meteoTxt}</div>
     <a class="down" href="#lire" aria-label="Lire"></a>`;
