@@ -37,6 +37,7 @@ header>*{pointer-events:auto}
 .titre{margin-top:34px;max-width:760px}
 h1{font-weight:400;font-style:normal;font-size:clamp(1.5rem,2.8vw,2.3rem);line-height:1.2;margin:0 0 8px;letter-spacing:.02em}
 .meta{font-size:1.05rem;color:var(--soft);margin:0;letter-spacing:.04em}
+.meta.mvt{font-size:.85rem;opacity:.75;margin-top:4px;letter-spacing:.1em}
 .meteo{margin-top:26px}
 .meteo b{font-weight:300;color:var(--ink)}
 .down{margin-top:44px;width:1px;height:38px;background:var(--line);position:relative;opacity:0;animation:fade 1s 1.4s forwards}
@@ -17767,7 +17768,7 @@ async function afficher(){
   const meteoTxt = mm ? `<b>${Math.round(mm.temp)}°</b> · ${(WMO_LABELS_FR[mm.code_wmo_actuel??mm.code_wmo]||'').toLowerCase()}` : `<span>météo indisponible · choix de saison</span><br><span style="opacity:.6;font-size:.8em;letter-spacing:.04em">(${(err||'raison inconnue').replace(/</g,'&lt;')})</span>`;
   document.getElementById('scene').innerHTML=`
     <div class="art"><img id="img" src="${imgSrc(o)}" alt="${o.titre} — ${o.artiste}"></div>
-    <div class="titre"><h1>${o.titre}</h1><p class="meta">${o.artiste}, ${o.annee}</p></div>
+    <div class="titre"><h1>${o.titre}</h1><p class="meta">${o.artiste}, ${o.annee}</p>${o.mouvement_artistique?`<p class="meta mvt">${o.mouvement_artistique}</p>`:``}</div>
     <div class="cap meteo">${ville.nom} · ${dateFR(dateISO)} · ${meteoTxt}</div>
     <a class="down" href="#lire" aria-label="Lire"></a>`;
   const img=document.getElementById('img'); const on=()=>img.classList.add('on'); img.onload=on; if(img.complete) on();
