@@ -7704,8 +7704,8 @@ async function afficher(){
 function setTypo(t){ typo=t; LS.set('adj.typo',t); document.body.classList.toggle('sans',t==='sans'); document.querySelectorAll('.switch button').forEach(b=>b.classList.toggle('on',(b.id==='tSans')===(t==='sans'))); }
 function accueil(){
   const a=document.getElementById('accueil');
-  document.getElementById('accVilles').innerHTML=VILLES_DEFAUT.map(v=>`<button data-v="${v.nom}">${v.nom}</button>`).join('');
-  document.getElementById('accVilles').querySelectorAll('button').forEach(b=>b.onclick=()=>{ choisir(VILLES_DEFAUT.find(v=>v.nom===b.dataset.v)); a.classList.add('off'); });
+  document.getElementById('accVilles').innerHTML=villes.map(v=>`<button data-v="${v.nom}">${v.nom}</button>`).join('');
+  document.getElementById('accVilles').querySelectorAll('button').forEach(b=>b.onclick=()=>{ choisir(villes.find(v=>v.nom===b.dataset.v)); a.classList.add('off'); });
   const inp=document.getElementById('accRech'); let t;
   inp.oninput=()=>{ clearTimeout(t); const q=inp.value.trim(); const res=document.getElementById('accRes'); if(q.length<2){res.innerHTML='';return;}
     t=setTimeout(async()=>{ try{ const r=await chercherVille(q); res.innerHTML=r.slice(0,5).map((v,i)=>`<button data-i="${i}">${v.nom}${v.pays?' · '+v.pays:''}</button>`).join('')||'<button disabled>Aucune ville trouvée</button>';
@@ -7713,7 +7713,9 @@ function accueil(){
     }catch(e){ res.innerHTML='<button disabled>Recherche indisponible</button>'; } },350); };
   a.classList.remove('off');
 }
-if (ville) { document.getElementById('accueil').classList.add('off'); afficher(); } else { accueil(); }
+// la page d'accueil s'affiche à chaque ouverture ; la dernière ville choisie est mise en avant
+accueil();
+if (ville) { const b=[...document.querySelectorAll('#accVilles button')].find(b=>b.dataset.v===ville.nom); if(b) b.style.borderColor='var(--ink)'; document.getElementById('villeBtn').textContent=ville.nom; }
 // retour à l'accueil par le nom du site
 document.getElementById('brand').style.cursor='pointer';
 document.getElementById('brand').onclick=()=>accueil();
