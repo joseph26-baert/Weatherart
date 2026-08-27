@@ -1,23 +1,5 @@
-échec vangogh-champ-ble-cypres https://images.metmuseum.org/CRDImages/ep/original/DP-42549-001.jpg → Missing output file path
-échec vangogh-champ-ble-cypres https://images.metmuseum.org/CRDImages/ep/web-large/DP-42549-001.jpg → Missing output file path
 échec vangogh-chambre-arles https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/1686,/0/default.jpg → HTTP 403
 échec vangogh-chambre-arles https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg → HTTP 403
-échec hokusai-grande-vague https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg → Missing output file path
-échec hokusai-grande-vague https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg → Missing output file path
-échec friedrich-deux-hommes-lune https://images.metmuseum.org/CRDImages/ep/original/DP-31997-001-NEW.jpg → Missing output file path
-échec friedrich-deux-hommes-lune https://images.metmuseum.org/CRDImages/ep/web-large/DP-31997-001-NEW.jpg → Missing output file path
-échec bruegel-moisson https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg → Missing output file path
-échec bruegel-moisson https://images.metmuseum.org/CRDImages/ep/web-large/DP119115.jpg → Missing output file path
-échec hiroshige-averse-ohashi https://images.metmuseum.org/CRDImages/as/original/DP121525.jpg → Missing output file path
-échec hiroshige-averse-ohashi https://images.metmuseum.org/CRDImages/as/web-large/DP121525.jpg → Missing output file path
-échec pissarro-boulevard-montmartre-hiver https://images.metmuseum.org/CRDImages/ep/original/DP-21959-001.jpg → Missing output file path
-échec pissarro-boulevard-montmartre-hiver https://images.metmuseum.org/CRDImages/ep/web-large/DP-21959-001.jpg → Missing output file path
-échec bocklin-ile-des-morts https://images.metmuseum.org/CRDImages/ep/original/DP-14201-003.jpg → Missing output file path
-échec bocklin-ile-des-morts https://images.metmuseum.org/CRDImages/ep/web-large/DP-14201-003.jpg → Missing output file path
-échec degas-classe-de-danse https://images.metmuseum.org/CRDImages/ep/original/DP-20101-001.jpg → Missing output file path
-échec degas-classe-de-danse https://images.metmuseum.org/CRDImages/ep/web-large/DP-20101-001.jpg → Missing output file path
-échec hammershoi-clair-de-lune-strandgade https://images.metmuseum.org/CRDImages/ep/original/DP273105.jpg → Missing output file path
-échec hammershoi-clair-de-lune-strandgade https://images.metmuseum.org/CRDImages/ep/web-large/DP273105.jpg → Missing output file path
 échec caillebotte-rue-de-paris-temps-de-pluie https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/1686,/0/default.jpg → HTTP 403
 échec caillebotte-rue-de-paris-temps-de-pluie https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg → HTTP 403
 échec seurat-grande-jatte https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/1686,/0/default.jpg → HTTP 403
@@ -26,18 +8,6 @@
 échec renoir-deux-soeurs https://www.artic.edu/iiif/2/3a608f55-d76e-fa96-d0b1-0789fbc48f1e/full/843,/0/default.jpg → HTTP 403
 échec monet-meule-effet-de-neige https://www.artic.edu/iiif/2/db36f74f-47d9-ad08-cdf9-b4b436e6d18c/full/1686,/0/default.jpg → HTTP 403
 échec monet-meule-effet-de-neige https://www.artic.edu/iiif/2/db36f74f-47d9-ad08-cdf9-b4b436e6d18c/full/843,/0/default.jpg → HTTP 403
-échec monet-femme-a-l-ombrelle https://api.nga.gov/iiif/99758d9d-c10b-4d02-a198-7e49afb1f3a6/full/!1200,1200/0/default.jp → Missing output file path
-échec monet-femme-a-l-ombrelle https://api.nga.gov/iiif/99758d9d-c10b-4d02-a198-7e49afb1f3a6/full/!600,600/0/default.jpg → Missing output file path
-échec vermeer-la-laitiere https://iiif.micr.io/QkOGy/full/1600,/0/default.jpg → Missing output file path
-échec vermeer-la-laitiere https://iiif.micr.io/QkOGy/full/800,/0/default.jpg → Missing output file path
-échec sisley-inondation-port-marly-1872 https://api.nga.gov/iiif/b74f7de3-fb66-406b-80b9-3a8381097bf6/full/!1200,1200/0/default.jp → Missing output file path
-échec sisley-inondation-port-marly-1872 https://api.nga.gov/iiif/b74f7de3-fb66-406b-80b9-3a8381097bf6/full/!600,600/0/default.jpg → Missing output file path
-échec rousseau-foret-tropicale-singes https://api.nga.gov/iiif/95f1ff73-c4e9-45d4-ae3a-79837c4926d8/full/!1200,1200/0/default.jp → Missing output file path
-échec rousseau-foret-tropicale-singes https://api.nga.gov/iiif/95f1ff73-c4e9-45d4-ae3a-79837c4926d8/full/!600,600/0/default.jpg → Missing output file path
-échec turner-incendie-parlement https://openaccess-cdn.clevelandart.org/1942.647/1942.647_print.jpg → Missing output file path
-échec turner-incendie-parlement https://openaccess-cdn.clevelandart.org/1942.647/1942.647_web.jpg → Missing output file path
-échec munch-le-cri https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.M.00939+GP.tif/full/1200,/0/default.jpg → Missing output file path
-échec munch-le-cri https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.M.00939+GP.tif/full/600,/0/default.jpg → Missing output file path
 échec kandinsky-improvisation-30-canons https://www.artic.edu/iiif/2/b5bc6b66-9e6e-fe57-dcec-fc49e820e904/full/1686,/0/default.jpg → HTTP 403
 échec kandinsky-improvisation-30-canons https://www.artic.edu/iiif/2/b5bc6b66-9e6e-fe57-dcec-fc49e820e904/full/843,/0/default.jpg → HTTP 403
 échec kandinsky-peinture-au-centre-vert https://www.artic.edu/iiif/2/c68f33ec-feb1-5277-334b-b71ac15ae394/full/1686,/0/default.jpg → HTTP 403
@@ -50,24 +20,6 @@
 échec marc-moulin-ensorcele https://www.artic.edu/iiif/2/6829aab0-8d0e-9438-aebf-a1a379572951/full/843,/0/default.jpg → HTTP 403
 échec hartley-movement https://www.artic.edu/iiif/2/173ec65a-bc7e-067c-fed1-1677bf5f26a9/full/1686,/0/default.jpg → HTTP 403
 échec hartley-movement https://www.artic.edu/iiif/2/173ec65a-bc7e-067c-fed1-1677bf5f26a9/full/843,/0/default.jpg → HTTP 403
-échec homer-northeaster https://images.metmuseum.org/CRDImages/ad/original/DT1545.jpg → Missing output file path
-échec homer-northeaster https://images.metmuseum.org/CRDImages/ad/web-large/DT1545.jpg → Missing output file path
-échec whistler-cremorne-gardens https://images.metmuseum.org/CRDImages/ad/original/DT2780.jpg → Missing output file path
-échec whistler-cremorne-gardens https://images.metmuseum.org/CRDImages/ad/web-large/DT2780.jpg → Missing output file path
-échec hiroshige-kanbara-neige https://images.metmuseum.org/CRDImages/as/original/DP122189.jpg → Missing output file path
-échec hiroshige-kanbara-neige https://images.metmuseum.org/CRDImages/as/web-large/DP122189.jpg → Missing output file path
-échec hokusai-fuji-rouge https://images.metmuseum.org/CRDImages/as/original/DP140971.jpg → Missing output file path
-échec hokusai-fuji-rouge https://images.metmuseum.org/CRDImages/as/web-large/DP140971.jpg → Missing output file path
-échec redon-pandora https://images.metmuseum.org/CRDImages/ep/original/DP-20339-001.jpg → Missing output file path
-échec redon-pandora https://images.metmuseum.org/CRDImages/ep/web-large/DP-20339-001.jpg → Missing output file path
-échec goya-sommeil-de-la-raison https://images.metmuseum.org/CRDImages/dp/original/DP816992.jpg → Missing output file path
-échec goya-sommeil-de-la-raison https://images.metmuseum.org/CRDImages/dp/web-large/DP816992.jpg → Missing output file path
-échec cezanne-sainte-victoire-viaduc https://images.metmuseum.org/CRDImages/ep/original/DP-20099-001.jpg → Missing output file path
-échec cezanne-sainte-victoire-viaduc https://images.metmuseum.org/CRDImages/ep/web-large/DP-20099-001.jpg → Missing output file path
-échec vangogh-iris-1890 https://images.metmuseum.org/CRDImages/ep/original/DP346474.jpg → Missing output file path
-échec vangogh-iris-1890 https://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg → Missing output file path
-échec millet-meules-automne https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg → Missing output file path
-échec millet-meules-automne https://images.metmuseum.org/CRDImages/ep/web-large/DP124093.jpg → Missing output file path
 échec monet-sandvika-norvege https://www.artic.edu/iiif/2/07d8dd31-d44b-85aa-ab09-ca51ee86f631/full/1686,/0/default.jpg → HTTP 403
 échec monet-sandvika-norvege https://www.artic.edu/iiif/2/07d8dd31-d44b-85aa-ab09-ca51ee86f631/full/843,/0/default.jpg → HTTP 403
 échec pissarro-garenne-pontoise-neige https://www.artic.edu/iiif/2/053f9be8-3617-c4ef-36cd-1deb5e13b288/full/1686,/0/default.jpg → HTTP 403
@@ -80,30 +32,8 @@
 échec gauguin-arlesiennes-mistral https://www.artic.edu/iiif/2/ae6ac285-6887-dd76-4570-d379c786dfae/full/843,/0/default.jpg → HTTP 403
 échec cezanne-baie-de-marseille https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/1686,/0/default.jpg → HTTP 403
 échec cezanne-baie-de-marseille https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/843,/0/default.jpg → HTTP 403
-échec monet-pont-japonais-nga https://api.nga.gov/iiif/0b9cefb5-1ee4-401a-8154-8d4039191a28/full/!1200,1200/0/default.jp → Missing output file path
-échec monet-pont-japonais-nga https://api.nga.gov/iiif/0b9cefb5-1ee4-401a-8154-8d4039191a28/full/!600,600/0/default.jpg → Missing output file path
-échec vangogh-roses-1890 https://api.nga.gov/iiif/bef8c58d-15ae-4649-b2ff-ae0ead24714e/full/!1200,1200/0/default.jp → Missing output file path
-échec vangogh-roses-1890 https://api.nga.gov/iiif/bef8c58d-15ae-4649-b2ff-ae0ead24714e/full/!600,600/0/default.jpg → Missing output file path
-échec homer-breezing-up https://api.nga.gov/iiif/406b5d56-d196-4bb0-b2e0-5a2f6fd52d0a/full/!1200,1200/0/default.jp → Missing output file path
-échec homer-breezing-up https://api.nga.gov/iiif/406b5d56-d196-4bb0-b2e0-5a2f6fd52d0a/full/!600,600/0/default.jpg → Missing output file path
-échec renoir-canotiers-a-chatou https://api.nga.gov/iiif/1153f2b7-bfe6-4159-8ca4-211ce86564b1/full/!1200,1200/0/default.jp → Missing output file path
-échec renoir-canotiers-a-chatou https://api.nga.gov/iiif/1153f2b7-bfe6-4159-8ca4-211ce86564b1/full/!600,600/0/default.jpg → Missing output file path
-échec monet-nympheas-agapanthes https://openaccess-cdn.clevelandart.org/1960.81/1960.81_print.jpg → Missing output file path
-échec monet-nympheas-agapanthes https://openaccess-cdn.clevelandart.org/1960.81/1960.81_web.jpg → Missing output file path
-échec turner-fluelen-brume https://openaccess-cdn.clevelandart.org/1954.129/1954.129_print.jpg → Missing output file path
-échec turner-fluelen-brume https://openaccess-cdn.clevelandart.org/1954.129/1954.129_web.jpg → Missing output file path
-échec church-crepuscule-nature-sauvage https://openaccess-cdn.clevelandart.org/1965.233/1965.233_print.jpg → Missing output file path
-échec church-crepuscule-nature-sauvage https://openaccess-cdn.clevelandart.org/1965.233/1965.233_web.jpg → Missing output file path
 échec modigliani-lipchitz https://www.artic.edu/iiif/2/7e649536-b186-c3f5-3e6d-0d22d5d798ef/full/1686,/0/default.jpg → HTTP 403
 échec modigliani-lipchitz https://www.artic.edu/iiif/2/7e649536-b186-c3f5-3e6d-0d22d5d798ef/full/843,/0/default.jpg → HTTP 403
-échec kirchner-lutteurs-cirque https://openaccess-cdn.clevelandart.org/1966.49/1966.49_print.jpg → Missing output file path
-échec kirchner-lutteurs-cirque https://openaccess-cdn.clevelandart.org/1966.49/1966.49_web.jpg → Missing output file path
-échec schiele-autoportrait-1911 https://images.metmuseum.org/CRDImages/ma/original/DP279450.jpg → Missing output file path
-échec schiele-autoportrait-1911 https://images.metmuseum.org/CRDImages/ma/web-large/DP279450.jpg → Missing output file path
-échec matisse-raie-verte https://iip.smk.dk/iiif/jp2/kd17cx80w_KMSr171-crop.tif.jp2/full/full/0/native.jpg → Missing output file path
-échec matisse-raie-verte https://iip-thumb.smk.dk/iiif/jp2/kd17cx80w_KMSr171-crop.tif.jp2/full/!1024,/0/default.jpg → Missing output file path
-échec matisse-paysage-collioure https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi8 → Missing output file path
-échec matisse-paysage-collioure https://iip-thumb.smk.dk/iiif/jp2/7d278x27m_KMSkmsr79_-_cropped.tif.jp2/full/!1024,/0/defa → Missing output file path
 échec kandinsky-paysage-deux-peupliers https://www.artic.edu/iiif/2/9694ca0c-c4c4-e48d-566f-4d248990cff4/full/1686,/0/default.jpg → HTTP 403
 échec kandinsky-paysage-deux-peupliers https://www.artic.edu/iiif/2/9694ca0c-c4c4-e48d-566f-4d248990cff4/full/843,/0/default.jpg → HTTP 403
 échec kandinsky-peinture-avec-troika https://www.artic.edu/iiif/2/a45e5f55-d02b-ce98-8bab-3af549684f58/full/1686,/0/default.jpg → HTTP 403
@@ -112,142 +42,11 @@
 échec hartley-movement-no-10 https://www.artic.edu/iiif/2/768387ba-f972-b43b-39f7-98cb37dad883/full/843,/0/default.jpg → HTTP 403
 échec mondrian-etude-pour-composition https://www.artic.edu/iiif/2/7942129f-6b16-3b82-d727-14b71165b050/full/1686,/0/default.jpg → HTTP 403
 échec mondrian-etude-pour-composition https://www.artic.edu/iiif/2/7942129f-6b16-3b82-d727-14b71165b050/full/843,/0/default.jpg → HTTP 403
-échec klee-dieu-de-la-guerre https://openaccess-cdn.clevelandart.org/1992.278/1992.278_print.jpg → Missing output file path
-échec klee-dieu-de-la-guerre https://openaccess-cdn.clevelandart.org/1992.278/1992.278_web.jpg → Missing output file path
-échec klee-haus-der-firma-z https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9 → Missing output file path
-échec klee-haus-der-firma-z https://iip-thumb.smk.dk/iiif/jp2/cf95jd85f_KKS2009-29.tif.reconstructed.tif.jp2/full/!102 → Missing output file path
-échec delaunay-la-tour-1926 https://openaccess-cdn.clevelandart.org/1989.59/1989.59_print.jpg → Missing output file path
-échec delaunay-la-tour-1926 https://openaccess-cdn.clevelandart.org/1989.59/1989.59_web.jpg → Missing output file path
 échec kandinsky-maisons-a-murnau https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/1686,/0/default.jpg → HTTP 403
 échec kandinsky-maisons-a-murnau https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/843,/0/default.jpg → HTTP 403
-échec lundstrom-composition-1 https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9 → Missing output file path
-échec lundstrom-composition-1 https://iip-thumb.smk.dk/iiif/jp2/r494vp37m_KMS7495.tif.reconstructed.tif.jp2/full/!1024,/ → Missing output file path
-échec lundstrom-composition-2 https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9 → Missing output file path
-échec lundstrom-composition-2 https://iip-thumb.smk.dk/iiif/jp2/cr56n4345_KMS4882-cropped.tif.jp2/full/!1024,/0/default. → Missing output file path
-échec sohlberg-nuit-d-hiver-rondane https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.M.01185++20251202-kopier.tif/full/1200,/0 → Missing output file path
-échec sohlberg-nuit-d-hiver-rondane https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.M.01185++20251202-kopier.tif/full/600,/0/ → Missing output file path
-échec munch-madone https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.M.00841+GP.tif/full/1200,/0/default.jpg → Missing output file path
-échec munch-madone https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.M.00841+GP.tif/full/600,/0/default.jpg → Missing output file path
-échec dahl-hiver-sognefjord https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/151325.tif/full/1200,/0/default.jpg → Missing output file path
-échec dahl-hiver-sognefjord https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/151325.tif/full/600,/0/default.jpg → Missing output file path
-échec kobke-vue-du-lac-sortedam https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9 → Missing output file path
-échec kobke-vue-du-lac-sortedam https://iip-thumb.smk.dk/iiif/jp2/gt54kq89w_KMSKMS359.tif.reconstructed.tif.jp2/full/!1024 → Missing output file path
 échec hammershoi-soleil-sur-le-plancher https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi8 → terminated
-échec hammershoi-soleil-sur-le-plancher https://iip-thumb.smk.dk/iiif/jp2/3197xr831_KMS3696.tif.jp2/full/!1024,/0/default.jpg → Missing output file path
-échec hammershoi-soir-dans-le-salon https://iip.smk.dk/iiif/jp2/5x21tg258_KMS6658.tif.jp2/full/full/0/native.jpg → Missing output file path
-échec hammershoi-soir-dans-le-salon https://iip-thumb.smk.dk/iiif/jp2/5x21tg258_KMS6658.tif.jp2/full/!1024,/0/default.jpg → Missing output file path
-échec ancher-mere-dans-la-piece-rouge https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9 → Missing output file path
-échec ancher-mere-dans-la-piece-rouge https://iip-thumb.smk.dk/iiif/jp2/g445ch47r_KMS8654.tif.reconstructed.tif.jp2/full/!1024,/ → Missing output file path
-échec kroyer-garcons-se-baignant-skagen https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9 → Missing output file path
-échec kroyer-garcons-se-baignant-skagen https://iip-thumb.smk.dk/iiif/jp2/h702q953s_KMS1658.tif.reconstructed.tif.jp2/full/!1024,/ → Missing output file path
-échec greco-vue-de-tolede https://images.metmuseum.org/CRDImages/ep/original/DP349564.jpg → Missing output file path
-échec greco-vue-de-tolede https://images.metmuseum.org/CRDImages/ep/web-large/DP349564.jpg → Missing output file path
-échec rembrandt-aristote https://images.metmuseum.org/CRDImages/ep/original/DP-30758-001.jpg → Missing output file path
-échec rembrandt-aristote https://images.metmuseum.org/CRDImages/ep/web-large/DP-30758-001.jpg → Missing output file path
-échec rembrandt-ronde-de-nuit https://iiif.micr.io/PJEZO/full/1600,/0/default.jpg → Missing output file path
-échec rembrandt-ronde-de-nuit https://iiif.micr.io/PJEZO/full/800,/0/default.jpg → Missing output file path
-échec caravage-les-musiciens https://images.metmuseum.org/CRDImages/ep/original/DP-687-001.jpg → Missing output file path
-échec caravage-les-musiciens https://images.metmuseum.org/CRDImages/ep/web-large/DP-687-001.jpg → Missing output file path
-échec caravage-reniement-saint-pierre https://images.metmuseum.org/CRDImages/ep/original/DP-12413-001.jpg → Missing output file path
-échec caravage-reniement-saint-pierre https://images.metmuseum.org/CRDImages/ep/web-large/DP-12413-001.jpg → Missing output file path
-échec bosch-adoration-des-mages https://images.metmuseum.org/CRDImages/ep/original/DP372687.jpg → Missing output file path
-échec bosch-adoration-des-mages https://images.metmuseum.org/CRDImages/ep/web-large/DP372687.jpg → Missing output file path
-échec bosch-la-mort-de-l-avare https://api.nga.gov/iiif/03ee67ee-dd0e-443f-84ef-ede5f62ce0cd/full/!1200,1200/0/default.jp → Missing output file path
-échec bosch-la-mort-de-l-avare https://api.nga.gov/iiif/03ee67ee-dd0e-443f-84ef-ede5f62ce0cd/full/!600,600/0/default.jpg → Missing output file path
-échec vermeer-jeune-femme-a-l-aiguiere https://images.metmuseum.org/CRDImages/ep/original/DP353257.jpg → Missing output file path
-échec vermeer-jeune-femme-a-l-aiguiere https://images.metmuseum.org/CRDImages/ep/web-large/DP353257.jpg → Missing output file path
-échec vermeer-la-ruelle https://iiif.micr.io/VWEov/full/1600,/0/default.jpg → Missing output file path
-échec vermeer-la-ruelle https://iiif.micr.io/VWEov/full/800,/0/default.jpg → Missing output file path
-échec la-tour-diseuse-de-bonne-aventure https://images.metmuseum.org/CRDImages/ep/original/DP-14286-015.jpg → Missing output file path
-échec la-tour-diseuse-de-bonne-aventure https://images.metmuseum.org/CRDImages/ep/web-large/DP-14286-015.jpg → Missing output file path
-échec fussli-sorciere-de-la-nuit https://images.metmuseum.org/CRDImages/ep/original/DP-26884-001.jpg → Missing output file path
-échec fussli-sorciere-de-la-nuit https://images.metmuseum.org/CRDImages/ep/web-large/DP-26884-001.jpg → Missing output file path
-échec constable-cathedrale-de-salisbury https://images.metmuseum.org/CRDImages/ep/original/DP164837.jpg → Missing output file path
-échec constable-cathedrale-de-salisbury https://images.metmuseum.org/CRDImages/ep/web-large/DP164837.jpg → Missing output file path
-échec courbet-la-mer https://images.metmuseum.org/CRDImages/ep/original/DP-24650-001.jpg → Missing output file path
-échec courbet-la-mer https://images.metmuseum.org/CRDImages/ep/web-large/DP-24650-001.jpg → Missing output file path
-échec corot-ville-d-avray https://images.metmuseum.org/CRDImages/ep/original/DP-19283-001.jpg → Missing output file path
-échec corot-ville-d-avray https://images.metmuseum.org/CRDImages/ep/web-large/DP-19283-001.jpg → Missing output file path
-échec manet-en-bateau https://images.metmuseum.org/CRDImages/ep/original/DP-25466-001.jpg → Missing output file path
-échec manet-en-bateau https://images.metmuseum.org/CRDImages/ep/web-large/DP-25466-001.jpg → Missing output file path
-échec morisot-port-de-lorient https://api.nga.gov/iiif/bf6c7c73-82e8-4ef7-8ac8-71920c8eb2b9/full/!1200,1200/0/default.jp → Missing output file path
-échec morisot-port-de-lorient https://api.nga.gov/iiif/bf6c7c73-82e8-4ef7-8ac8-71920c8eb2b9/full/!600,600/0/default.jpg → Missing output file path
-échec cassatt-promenade-en-barque https://api.nga.gov/iiif/f8b6727d-6998-4f2a-9708-8694b9c69f54/full/!1200,1200/0/default.jp → Missing output file path
-échec cassatt-promenade-en-barque https://api.nga.gov/iiif/f8b6727d-6998-4f2a-9708-8694b9c69f54/full/!600,600/0/default.jpg → Missing output file path
-échec sargent-madame-x https://images.metmuseum.org/CRDImages/ad/original/DP-29006-001.jpg → Missing output file path
-échec sargent-madame-x https://images.metmuseum.org/CRDImages/ad/web-large/DP-29006-001.jpg → Missing output file path
-échec klimt-mada-primavesi https://images.metmuseum.org/CRDImages/ep/original/DP243354.jpg → Missing output file path
-échec klimt-mada-primavesi https://images.metmuseum.org/CRDImages/ep/web-large/DP243354.jpg → Missing output file path
-échec durer-melencolia https://images.metmuseum.org/CRDImages/dp/original/DP820348.jpg → Missing output file path
-échec durer-melencolia https://images.metmuseum.org/CRDImages/dp/web-large/DP820348.jpg → Missing output file path
-échec qu-ding-montagnes-d-ete https://images.metmuseum.org/CRDImages/as/original/DP226465.jpg → Missing output file path
-échec qu-ding-montagnes-d-ete https://images.metmuseum.org/CRDImages/as/web-large/DP226465.jpg → Missing output file path
-échec hiroshige-jardin-de-pruniers-kamata https://images.metmuseum.org/CRDImages/as/original/DP130157.jpg → Missing output file path
-échec hiroshige-jardin-de-pruniers-kamata https://images.metmuseum.org/CRDImages/as/web-large/DP130157.jpg → Missing output file path
-échec hokusai-orage-sous-le-sommet https://images.metmuseum.org/CRDImages/as/original/DP140976.jpg → Missing output file path
-échec hokusai-orage-sous-le-sommet https://images.metmuseum.org/CRDImages/as/web-large/DP140976.jpg → Missing output file path
-échec de-hooch-la-visite https://images.metmuseum.org/CRDImages/ep/original/DP145400.jpg → Missing output file path
-échec de-hooch-la-visite https://images.metmuseum.org/CRDImages/ep/web-large/DP145400.jpg → Missing output file path
-échec lorrain-troyennes-incendiant-leur-flotte https://images.metmuseum.org/CRDImages/ep/original/DP226145.jpg → Missing output file path
-échec lorrain-troyennes-incendiant-leur-flotte https://images.metmuseum.org/CRDImages/ep/web-large/DP226145.jpg → Missing output file path
-échec ruisdael-champs-de-ble https://images.metmuseum.org/CRDImages/ep/original/DP145911.jpg → Missing output file path
-échec ruisdael-champs-de-ble https://images.metmuseum.org/CRDImages/ep/web-large/DP145911.jpg → Missing output file path
-échec kandinsky-jaune-rouge-bleu https://www.centrepompidou.fr/media/picture/14/83/14831b3b52db44bb9b61e06b015243f2/thumb_l → Missing output file path
-échec kandinsky-jaune-rouge-bleu https://www.centrepompidou.fr/media/picture/14/83/14831b3b52db44bb9b61e06b015243f2/thumb_l → Missing output file path
-échec kandinsky-avec-l-arc-noir https://www.centrepompidou.fr/media/picture/c4/fc/c4fc60f0bb60594834a3983b0ba11baf/thumb_l → Missing output file path
-échec kandinsky-avec-l-arc-noir https://www.centrepompidou.fr/media/picture/c4/fc/c4fc60f0bb60594834a3983b0ba11baf/thumb_l → Missing output file path
-échec kandinsky-sur-blanc-ii https://www.centrepompidou.fr/media/picture/37/8b/378b721193d2dd00cb2d3a19af215a0d/thumb_l → Missing output file path
-échec kandinsky-sur-blanc-ii https://www.centrepompidou.fr/media/picture/37/8b/378b721193d2dd00cb2d3a19af215a0d/thumb_s → Missing output file path
-échec kandinsky-bleu-de-ciel https://www.centrepompidou.fr/media/picture/c8/81/c881ac6228fd20a3bb33b84b242350e7/thumb_l → Missing output file path
-échec kandinsky-bleu-de-ciel https://www.centrepompidou.fr/media/picture/c8/81/c881ac6228fd20a3bb33b84b242350e7/thumb_l → Missing output file path
-échec delaunay-manege-de-cochons https://www.centrepompidou.fr/media/picture/8a/64/8a64878ff73b37e249b50fd11a80d7c1/thumb_l → Missing output file path
-échec delaunay-manege-de-cochons https://www.centrepompidou.fr/media/picture/e3/af/e3af89dee63d32f27547645a5200fb95/thumb_s → Missing output file path
-échec delaunay-tour-eiffel-1926 https://www.centrepompidou.fr/media/picture/ac/8c/ac8c663eeba3efd11629669e6243d48f/thumb_l → Missing output file path
-échec delaunay-tour-eiffel-1926 https://www.centrepompidou.fr/media/picture/ac/8c/ac8c663eeba3efd11629669e6243d48f/thumb_l → Missing output file path
-échec delaunay-formes-circulaires-soleil-2 https://www.centrepompidou.fr/media/picture/aa/84/aa84cce3fc8118498cf147f33867df77/thumb_l → Missing output file path
-échec delaunay-formes-circulaires-soleil-2 https://www.centrepompidou.fr/media/picture/aa/84/aa84cce3fc8118498cf147f33867df77/thumb_l → Missing output file path
-échec picabia-udnie https://www.centrepompidou.fr/media/picture/47/b8/47b88926c46ead6962a7f6d10ed0b07d/thumb_l → Missing output file path
-échec picabia-udnie https://www.centrepompidou.fr/media/picture/61/32/613207ae689ae0c3782951dae3eff012/thumb_s → Missing output file path
-échec leger-la-noce https://www.centrepompidou.fr/media/picture/da/76/da76fbee4adbbe36e8aed70e400cea93/thumb_l → Missing output file path
-échec leger-la-noce https://www.centrepompidou.fr/media/picture/da/76/da76fbee4adbbe36e8aed70e400cea93/thumb_l → Missing output file path
-échec leger-contraste-de-formes https://www.centrepompidou.fr/media/picture/c5/ee/c5eee0fac24f038995acc5c04f1c688f/thumb_l → Missing output file path
-échec leger-contraste-de-formes https://www.centrepompidou.fr/media/picture/c5/ee/c5eee0fac24f038995acc5c04f1c688f/thumb_l → Missing output file path
-échec mondrian-new-york-city https://www.centrepompidou.fr/media/picture/f8/ba/f8bac0b8a7d276439503872007bc5e8c/thumb_l → Missing output file path
-échec mondrian-new-york-city https://www.centrepompidou.fr/media/picture/f8/ba/f8bac0b8a7d276439503872007bc5e8c/thumb_l → Missing output file path
-échec taeuber-arp-composition-rectangles-cercles https://www.centrepompidou.fr/media/picture/d1/6e/d16eb04954d36ecdf4745976d061b904/thumb_l → Missing output file path
-échec taeuber-arp-composition-rectangles-cercles https://www.centrepompidou.fr/media/picture/d1/6e/d16eb04954d36ecdf4745976d061b904/thumb_l → Missing output file path
-échec freundlich-composition-1937 https://www.centrepompidou.fr/media/picture/4a/fe/4afe45dc65ba373f97f6686e41ed1dde/thumb_l → Missing output file path
-échec freundlich-composition-1937 https://www.centrepompidou.fr/media/picture/4a/fe/4afe45dc65ba373f97f6686e41ed1dde/thumb_l → Missing output file path
-échec klee-en-rythme https://www.centrepompidou.fr/media/picture/b4/ec/b4ec09341fa857ea0b3ed6f0b5c83f0a/thumb_l → Missing output file path
-échec klee-en-rythme https://www.centrepompidou.fr/media/picture/b4/ec/b4ec09341fa857ea0b3ed6f0b5c83f0a/thumb_l → Missing output file path
-échec torres-garcia-composition-universelle https://www.centrepompidou.fr/media/picture/24/e7/24e70dece4364b89e90f982ab908796c/thumb_l → Missing output file path
-échec torres-garcia-composition-universelle https://www.centrepompidou.fr/media/picture/24/e7/24e70dece4364b89e90f982ab908796c/thumb_l → Missing output file path
-échec wols-aile-de-papillon https://www.centrepompidou.fr/media/picture/f5/9d/f59d73a03e17ff224d39f487ab7ca780/thumb_l → Missing output file path
-échec wols-aile-de-papillon https://www.centrepompidou.fr/media/picture/f5/9d/f59d73a03e17ff224d39f487ab7ca780/thumb_l → Missing output file path
-échec marc-chien-couche-dans-la-neige https://cdn.staedelmuseum.de/images/d4/53/2085/thumb-xl.jpg → Missing output file path
-échec marc-chien-couche-dans-la-neige https://cdn.staedelmuseum.de/images/d4/53/2085/thumb-xl.jpg → Missing output file path
-échec kandinsky-improvisation-staedel https://cdn.staedelmuseum.de/images/13/0a/17516z/thumb-xl.jpg → Missing output file path
-échec kandinsky-improvisation-staedel https://cdn.staedelmuseum.de/images/13/0a/17516z/thumb-xl.jpg → Missing output file path
-échec kandinsky-petits-mondes-xii https://cdn.staedelmuseum.de/images/58/81/sg3996d/thumb-xl.webp → Missing output file path
-échec kandinsky-petits-mondes-xii https://cdn.staedelmuseum.de/images/58/81/sg3996d/thumb-xl.webp → Missing output file path
-échec klee-vue-sur-le-pays-fertile https://cdn.staedelmuseum.de/images/38/f2/sg1221/thumb-xl.jpg → Missing output file path
-échec klee-vue-sur-le-pays-fertile https://cdn.staedelmuseum.de/images/38/f2/sg1221/thumb-xl.jpg → Missing output file path
-échec jawlensky-variation-arbres https://cdn.staedelmuseum.de/images/8f/c8/17895z/thumb-xl.jpg → Missing output file path
-échec jawlensky-variation-arbres https://cdn.staedelmuseum.de/images/8f/c8/17895z/thumb-xl.jpg → Missing output file path
-échec holzel-composition-abstraite-paysage https://cdn.staedelmuseum.de/images/8b/01/sg3129z/thumb-xl.jpg → Missing output file path
-échec holzel-composition-abstraite-paysage https://cdn.staedelmuseum.de/images/8b/01/sg3129z/thumb-xl.jpg → Missing output file path
-échec baumeister-formes-geometriques-flottantes https://cdn.staedelmuseum.de/images/07/5d/2512/thumb-xl.jpg → Missing output file path
-échec baumeister-formes-geometriques-flottantes https://cdn.staedelmuseum.de/images/07/5d/2512/thumb-xl.jpg → Missing output file path
-échec klee-carnaval-dans-la-neige https://openaccess-cdn.clevelandart.org/1969.46/1969.46_print.jpg → Missing output file path
-échec klee-carnaval-dans-la-neige https://openaccess-cdn.clevelandart.org/1969.46/1969.46_web.jpg → Missing output file path
 échec marc-le-taureau https://www.artic.edu/iiif/2/66011122-fd4f-6110-0b83-01a26d9cff2e/full/1686,/0/default.jpg → HTTP 403
 échec marc-le-taureau https://www.artic.edu/iiif/2/66011122-fd4f-6110-0b83-01a26d9cff2e/full/843,/0/default.jpg → HTTP 403
-échec malevitch-carre-noir https://upload.wikimedia.org/wikipedia/commons/d/dc/Kazimir_Malevich%2C_1915%2C_Black_Supr → Missing output file path
-échec malevitch-carre-noir https://commons.wikimedia.org/wiki/Special:FilePath/Kazimir_Malevich%2C_1915%2C_Black_Supr → Missing output file path
-échec malevitch-blanc-sur-blanc https://upload.wikimedia.org/wikipedia/commons/5/56/Kazimir_Malevich_-_%27Suprematist_Comp → Missing output file path
-échec malevitch-blanc-sur-blanc https://commons.wikimedia.org/wiki/Special:FilePath/Kazimir_Malevich_-_%27Suprematist_Comp → HTTP 429
-échec malevitch-suprematisme-1915 https://upload.wikimedia.org/wikipedia/commons/5/53/Suprematism_by_Malevich_%281915%2C_GRM → HTTP 429
-échec malevitch-suprematisme-1915 https://commons.wikimedia.org/wiki/Special:FilePath/Suprematism_by_Malevich_%281915%2C_GRM → HTTP 429
 échec malevitch-croix-noire https://upload.wikimedia.org/wikipedia/commons/a/a5/Kazimir_Malevich_Black_Cross.jpg → HTTP 429
 échec malevitch-croix-noire https://commons.wikimedia.org/wiki/Special:FilePath/Kazimir_Malevich_Black_Cross.jpg?width → HTTP 429
 échec malevitch-carre-noir-et-carre-rouge https://upload.wikimedia.org/wikipedia/commons/2/22/Black_Square_and_Red_Square_%28Malevic → HTTP 429
@@ -261,30 +60,21 @@
 échec af-klint-le-cygne-17 https://upload.wikimedia.org/wikipedia/commons/0/00/Hilma_af_Klint%2C_1915%2C_Svanen%2C_No → HTTP 429
 échec af-klint-le-cygne-17 https://commons.wikimedia.org/wiki/Special:FilePath/Hilma_af_Klint%2C_1915%2C_Svanen%2C_No → HTTP 429
 échec af-klint-retable-1 https://upload.wikimedia.org/wikipedia/commons/d/d5/Hilma_af_Klint_-_1907_-_Altarpiece_-_N → HTTP 429
-échec af-klint-retable-1 https://commons.wikimedia.org/wiki/Special:FilePath/Hilma_af_Klint_-_1907_-_Altarpiece_-_N → HTTP 429
 échec af-klint-chaos-primordial-16 https://upload.wikimedia.org/wikipedia/commons/3/3e/Hilma_af_Klint%2C_1906-07%2C_Primordia → HTTP 429
 échec af-klint-chaos-primordial-16 https://commons.wikimedia.org/wiki/Special:FilePath/Hilma_af_Klint%2C_1906-07%2C_Primordia → HTTP 429
-échec kandinsky-composition-vii https://upload.wikimedia.org/wikipedia/commons/b/b4/Vassily_Kandinsky%2C_1913_-_Compositio → HTTP 429
-échec kandinsky-composition-vii https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1913_-_Compositio → HTTP 429
 échec kandinsky-composition-viii https://upload.wikimedia.org/wikipedia/commons/4/47/Vassily_Kandinsky%2C_1923_-_Compositio → HTTP 429
 échec kandinsky-composition-viii https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1923_-_Compositio → HTTP 429
-échec kandinsky-quelques-cercles https://upload.wikimedia.org/wikipedia/commons/0/0e/Vassily_Kandinsky%2C_1926_-_Several_Ci → HTTP 429
-échec kandinsky-quelques-cercles https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1926_-_Several_Ci → HTTP 429
-échec kandinsky-carres-et-cercles-concentriques https://upload.wikimedia.org/wikipedia/commons/9/98/Vassily_Kandinsky%2C_1913_-_Color_Stud → Missing output file path
-échec kandinsky-carres-et-cercles-concentriques https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1913_-_Color_Stud → Missing output file path
 échec kandinsky-cercles-dans-un-cercle https://upload.wikimedia.org/wikipedia/commons/f/f0/Vassily_Kandinsky%2C_1923_-_Circles_in → HTTP 429
 échec kandinsky-cercles-dans-un-cercle https://commons.wikimedia.org/wiki/Special:FilePath/Vassily_Kandinsky%2C_1923_-_Circles_in → HTTP 429
 échec mondrian-composition-ii-rouge-bleu-jaune https://upload.wikimedia.org/wikipedia/commons/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Comp → HTTP 429
-échec mondrian-composition-ii-rouge-bleu-jaune https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondriaan%2C_1930_-_Mondrian_Comp → Missing output file path
-échec mondrian-broadway-boogie-woogie https://upload.wikimedia.org/wikipedia/commons/3/30/Piet_Mondrian%2C_1942_-_Broadway_Boogi → Missing output file path
+échec mondrian-composition-ii-rouge-bleu-jaune https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondriaan%2C_1930_-_Mondrian_Comp → HTTP 429
+échec mondrian-broadway-boogie-woogie https://upload.wikimedia.org/wikipedia/commons/3/30/Piet_Mondrian%2C_1942_-_Broadway_Boogi → HTTP 429
 échec mondrian-broadway-boogie-woogie https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondrian%2C_1942_-_Broadway_Boogi → HTTP 429
 échec mondrian-tableau-i https://upload.wikimedia.org/wikipedia/commons/d/d6/Piet_mondrian%2C_tableau_I%2C_1921.jpg → HTTP 429
 échec mondrian-tableau-i https://commons.wikimedia.org/wiki/Special:FilePath/Piet_mondrian%2C_tableau_I%2C_1921.jpg → HTTP 429
 échec mondrian-composition-10-jetee-et-ocean https://upload.wikimedia.org/wikipedia/commons/2/29/Mondrian_-_Composition_10_in_Black_and → HTTP 429
 échec mondrian-composition-10-jetee-et-ocean https://commons.wikimedia.org/wiki/Special:FilePath/Mondrian_-_Composition_10_in_Black_and → HTTP 429
-échec mondrian-arbre-gris https://upload.wikimedia.org/wikipedia/commons/8/80/Piet_Mondrian%2C_1911%2C_Gray_Tree_%28 → HTTP 429
-échec mondrian-arbre-gris https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondrian%2C_1911%2C_Gray_Tree_%28 → HTTP 429
-échec mondrian-arbre-rouge https://upload.wikimedia.org/wikipedia/commons/6/64/Piet_Mondrian%2C_1908-10%2C_Evening%3B → Missing output file path
+échec mondrian-arbre-rouge https://upload.wikimedia.org/wikipedia/commons/6/64/Piet_Mondrian%2C_1908-10%2C_Evening%3B → HTTP 429
 échec mondrian-arbre-rouge https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondrian%2C_1908-10%2C_Evening%3B → HTTP 429
 échec klee-senecio https://upload.wikimedia.org/wikipedia/commons/3/3f/Paul_Klee%2C_1922%2C_Senecio%2C_oil_on → HTTP 429
 échec klee-senecio https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee%2C_1922%2C_Senecio%2C_oil_on → HTTP 429
@@ -298,10 +88,6 @@
 échec klee-insula-dulcamara https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee%2C_Insula_dulcamara.jpg?widt → HTTP 429
 échec klee-ballon-rouge https://upload.wikimedia.org/wikipedia/commons/9/9c/Paul_Klee%2C_1922%2C_Red_Balloon%2C_oi → HTTP 429
 échec klee-ballon-rouge https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee%2C_1922%2C_Red_Balloon%2C_oi → HTTP 429
-échec klee-machine-a-gazouiller https://upload.wikimedia.org/wikipedia/commons/7/7e/Die_Zwitscher-Maschine_%28Twittering_M → HTTP 429
-échec klee-machine-a-gazouiller https://commons.wikimedia.org/wiki/Special:FilePath/Die_Zwitscher-Maschine_%28Twittering_M → HTTP 429
-échec delaunay-fenetres-simultanees https://upload.wikimedia.org/wikipedia/commons/3/33/Robert_Delaunay%2C_1912%2C_Les_Fen%C3% → HTTP 429
-échec delaunay-fenetres-simultanees https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Delaunay%2C_1912%2C_Les_Fen%C3% → HTTP 429
 échec delaunay-rythme-n1 https://upload.wikimedia.org/wikipedia/commons/c/cb/Robert_Delaunay%2C_1938%2C_Rythme_n%C2 → HTTP 429
 échec delaunay-rythme-n1 https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Delaunay%2C_1938%2C_Rythme_n%C2 → HTTP 429
 échec delaunay-hommage-a-bleriot https://upload.wikimedia.org/wikipedia/commons/5/54/Robert_Delaunay%2C_Hommage_%C3%A0_Bl%C → HTTP 429
@@ -318,12 +104,8 @@
 échec rozanova-composition-non-objective https://commons.wikimedia.org/wiki/Special:FilePath/Non-Objective_Composition_%28Supremati → HTTP 429
 échec lissitzky-proun-19d https://upload.wikimedia.org/wikipedia/commons/7/75/NY_Moma_lissitsky_19D.JPG → HTTP 429
 échec lissitzky-proun-19d https://commons.wikimedia.org/wiki/Special:FilePath/NY_Moma_lissitsky_19D.JPG?width=1200 → HTTP 429
-échec lissitzky-coin-rouge https://upload.wikimedia.org/wikipedia/commons/9/93/Klinom_Krasnim_by_El_Lisitskiy_%281920 → Missing output file path
-échec lissitzky-coin-rouge https://commons.wikimedia.org/wiki/Special:FilePath/Klinom_Krasnim_by_El_Lisitskiy_%281920 → Missing output file path
 échec kliun-suprematisme-1915 https://upload.wikimedia.org/wikipedia/commons/2/2c/Ivan_Kliun%2C_Suprematism%2C_1915.jpg → HTTP 429
 échec kliun-suprematisme-1915 https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Kliun%2C_Suprematism%2C_1915.jpg? → HTTP 429
-échec van-doesburg-contre-composition-v https://upload.wikimedia.org/wikipedia/commons/e/e0/Theo_van_Doesburg_Counter-CompositionV → HTTP 429
-échec van-doesburg-contre-composition-v https://commons.wikimedia.org/wiki/Special:FilePath/Theo_van_Doesburg_Counter-CompositionV → HTTP 429
 échec van-doesburg-rythme-danse-russe https://upload.wikimedia.org/wikipedia/commons/6/65/Theo_van_Doesburg-Rhythmus_eines_russi → HTTP 429
 échec van-doesburg-rythme-danse-russe https://commons.wikimedia.org/wiki/Special:FilePath/Theo_van_Doesburg-Rhythmus_eines_russi → HTTP 429
 échec van-doesburg-composition-viii-la-vache https://upload.wikimedia.org/wikipedia/commons/f/ff/Theo_van_doesburg_de_koe.jpg → HTTP 429
@@ -344,8 +126,8 @@
 échec marc-cheval-bleu-i https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc_-_Blaues_Pferd_I_-_G_13324_ → HTTP 429
 échec marc-destins-d-animaux https://upload.wikimedia.org/wikipedia/commons/3/32/Franz_Marc-The_fate_of_the_animals-191 → HTTP 429
 échec marc-destins-d-animaux https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc-The_fate_of_the_animals-191 → HTTP 429
-échec marc-la-vache-jaune https://upload.wikimedia.org/wikipedia/commons/f/fd/Franz_Marc-The_Yellow_Cow-1911.jpg → Missing output file path
-échec marc-la-vache-jaune https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc-The_Yellow_Cow-1911.jpg?wid → Missing output file path
+échec marc-la-vache-jaune https://upload.wikimedia.org/wikipedia/commons/f/fd/Franz_Marc-The_Yellow_Cow-1911.jpg → HTTP 429
+échec marc-la-vache-jaune https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc-The_Yellow_Cow-1911.jpg?wid → HTTP 429
 échec macke-formes-colorees-i https://upload.wikimedia.org/wikipedia/commons/9/96/Macke_-_Farbige_Formen.jpg → HTTP 429
 échec macke-formes-colorees-i https://commons.wikimedia.org/wiki/Special:FilePath/Macke_-_Farbige_Formen.jpg?width=1200 → HTTP 429
 échec picabia-edtaonisl https://upload.wikimedia.org/wikipedia/commons/d/de/Francis_Picabia%2C_1913%2C_Edtaonisl_% → HTTP 429
@@ -354,7 +136,7 @@
 échec leger-la-ville https://commons.wikimedia.org/wiki/Special:FilePath/Fernand_L%C3%A9ger%2C_1919%2C_The_City → HTTP 429
 échec boccioni-la-ville-se-leve https://upload.wikimedia.org/wikipedia/commons/b/b4/The_City_Rises_by_Umberto_Boccioni_191 → HTTP 429
 échec boccioni-la-ville-se-leve https://commons.wikimedia.org/wiki/Special:FilePath/The_City_Rises_by_Umberto_Boccioni_191 → HTTP 429
-échec boccioni-dynamisme-d-un-cycliste https://upload.wikimedia.org/wikipedia/commons/0/03/Umberto_Boccioni%2C_1913%2C_Dynamism_o → Missing output file path
+échec boccioni-dynamisme-d-un-cycliste https://upload.wikimedia.org/wikipedia/commons/0/03/Umberto_Boccioni%2C_1913%2C_Dynamism_o → HTTP 429
 échec boccioni-dynamisme-d-un-cycliste https://commons.wikimedia.org/wiki/Special:FilePath/Umberto_Boccioni%2C_1913%2C_Dynamism_o → HTTP 429
 échec dove-nature-symbolisee-2 https://upload.wikimedia.org/wikipedia/commons/d/d1/Dove_Arthur_Nature_Symbolized_1911.jpg → HTTP 429
 échec dove-nature-symbolisee-2 https://commons.wikimedia.org/wiki/Special:FilePath/Dove_Arthur_Nature_Symbolized_1911.jpg → HTTP 429
@@ -362,32 +144,6 @@
 échec hartley-portrait-d-un-officier-allemand https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_a_German_Officer_MET_DP236 → HTTP 429
 échec morgner-composition-astrale-xi https://upload.wikimedia.org/wikipedia/commons/2/27/Astrale_Komposition_XI_MORGNER_Wilhelm → HTTP 429
 échec morgner-composition-astrale-xi https://commons.wikimedia.org/wiki/Special:FilePath/Astrale_Komposition_XI_MORGNER_Wilhelm → HTTP 429
-échec vangogh-iris-getty https://media.getty.edu/iiif/image/8c255d80-7382-46db-9fa8-892c0d37247e/full/1200,/0/defau → Missing output file path
-échec vangogh-iris-getty https://media.getty.edu/iiif/image/8c255d80-7382-46db-9fa8-892c0d37247e/full/!800,800/0/de → Missing output file path
-échec monet-meules-effet-de-neige-matin https://media.getty.edu/iiif/image/c7a070ce-bae3-4424-8ad3-55e3dea5e1ff/full/1200,/0/defau → Missing output file path
-échec monet-meules-effet-de-neige-matin https://media.getty.edu/iiif/image/c7a070ce-bae3-4424-8ad3-55e3dea5e1ff/full/!800,800/0/de → Missing output file path
-échec monet-soleil-levant-marine https://media.getty.edu/iiif/image/2709b745-b312-4a5c-b0f8-884b4dca5cbc/full/1200,/0/defau → Missing output file path
-échec monet-soleil-levant-marine https://media.getty.edu/iiif/image/2709b745-b312-4a5c-b0f8-884b4dca5cbc/full/!800,800/0/de → Missing output file path
-échec turner-rome-moderne https://media.getty.edu/iiif/image/bc8060cb-b3ed-44ef-810b-d4d689a9cf80/full/1200,/0/defau → Missing output file path
-échec turner-rome-moderne https://media.getty.edu/iiif/image/bc8060cb-b3ed-44ef-810b-d4d689a9cf80/full/!800,800/0/de → Missing output file path
-échec millet-l-homme-a-la-houe https://media.getty.edu/iiif/image/d0715ef9-23c0-4274-b741-7d4051706677/full/1200,/0/defau → Missing output file path
-échec millet-l-homme-a-la-houe https://media.getty.edu/iiif/image/d0715ef9-23c0-4274-b741-7d4051706677/full/!800,800/0/de → Missing output file path
-échec renoir-la-promenade https://media.getty.edu/iiif/image/f49c6c4b-5280-4b9e-a85e-5138b59b1c6b/full/1200,/0/defau → Missing output file path
-échec renoir-la-promenade https://media.getty.edu/iiif/image/f49c6c4b-5280-4b9e-a85e-5138b59b1c6b/full/!800,800/0/de → Missing output file path
-échec manet-jeanne-le-printemps https://media.getty.edu/iiif/image/8094f61e-e458-42bd-90cf-a0ed0dcc90b9/full/1200,/0/defau → Missing output file path
-échec manet-jeanne-le-printemps https://media.getty.edu/iiif/image/8094f61e-e458-42bd-90cf-a0ed0dcc90b9/full/!800,800/0/de → Missing output file path
-échec cezanne-nature-morte-aux-pommes-getty https://media.getty.edu/iiif/image/f0d223e4-3254-4482-8c65-e5468e186efb/full/1200,/0/defau → Missing output file path
-échec cezanne-nature-morte-aux-pommes-getty https://media.getty.edu/iiif/image/f0d223e4-3254-4482-8c65-e5468e186efb/full/!800,800/0/de → Missing output file path
-échec ensor-entree-du-christ-a-bruxelles https://media.getty.edu/iiif/image/dd1d3304-17dc-43f7-85d9-5e4a6286a980/full/1200,/0/defau → Missing output file path
-échec ensor-entree-du-christ-a-bruxelles https://media.getty.edu/iiif/image/dd1d3304-17dc-43f7-85d9-5e4a6286a980/full/!800,800/0/de → Missing output file path
-échec munch-nuit-etoilee https://media.getty.edu/iiif/image/5c21ce64-6ee9-4c39-a276-4a18ab412e5b/full/1200,/0/defau → Missing output file path
-échec munch-nuit-etoilee https://media.getty.edu/iiif/image/5c21ce64-6ee9-4c39-a276-4a18ab412e5b/full/!800,800/0/de → Missing output file path
-échec rembrandt-enlevement-d-europe https://media.getty.edu/iiif/image/9dffc982-738e-434b-8715-0f77be75d28c/full/1200,/0/defau → Missing output file path
-échec rembrandt-enlevement-d-europe https://media.getty.edu/iiif/image/9dffc982-738e-434b-8715-0f77be75d28c/full/!800,800/0/de → Missing output file path
-échec fragonard-fontaine-d-amour https://media.getty.edu/iiif/image/d3685349-c178-473e-b3d5-94077be400aa/full/1200,/0/defau → Missing output file path
-échec fragonard-fontaine-d-amour https://media.getty.edu/iiif/image/d3685349-c178-473e-b3d5-94077be400aa/full/!800,800/0/de → Missing output file path
-échec david-adieux-de-telemaque-et-eucharis https://media.getty.edu/iiif/image/1a776f13-a3e7-4416-b28e-d702de736159/full/1200,/0/defau → Missing output file path
-échec david-adieux-de-telemaque-et-eucharis https://media.getty.edu/iiif/image/1a776f13-a3e7-4416-b28e-d702de736159/full/!800,800/0/de → Missing output file path
 échec vangogh-oliviers-mia https://api.artsmia.org/images/1218/large.jpg → fetch failed
 échec vangogh-oliviers-mia https://api.artsmia.org/images/1218/medium.jpg → fetch failed
 échec monet-meule-soleil-dans-la-brume https://api.artsmia.org/images/10436/large.jpg → fetch failed
@@ -402,72 +158,14 @@
 échec poussin-la-mort-de-germanicus https://api.artsmia.org/images/1348/medium.jpg → fetch failed
 échec hokusai-grande-vague-mia https://api.artsmia.org/images/8747/large.jpg → fetch failed
 échec hokusai-grande-vague-mia https://api.artsmia.org/images/8747/medium.jpg → fetch failed
-échec bierstadt-dans-la-sierra-nevada https://ids.si.edu/ids/deliveryService?id=SAAM-1977.107.1_2&max=1600 → Missing output file path
-échec bierstadt-dans-la-sierra-nevada https://ids.si.edu/ids/deliveryService?id=SAAM-1977.107.1_2&max=900 → Missing output file path
-échec homer-haute-falaise-cote-du-maine https://ids.si.edu/ids/deliveryService?id=SAAM-1909.7.29_2&max=1600 → Missing output file path
-échec homer-haute-falaise-cote-du-maine https://ids.si.edu/ids/deliveryService?id=SAAM-1909.7.29_2&max=900 → Missing output file path
-échec moran-grand-canyon-du-yellowstone https://ids.si.edu/ids/deliveryService?id=SAAM-1928.7.1_2&max=1600 → Missing output file path
-échec moran-grand-canyon-du-yellowstone https://ids.si.edu/ids/deliveryService?id=SAAM-1928.7.1_2&max=900 → Missing output file path
-échec hassam-dans-le-jardin-celia-thaxter https://ids.si.edu/ids/deliveryService?id=SAAM-1929.6.52_2&max=1600 → Missing output file path
-échec hassam-dans-le-jardin-celia-thaxter https://ids.si.edu/ids/deliveryService?id=SAAM-1929.6.52_2&max=900 → Missing output file path
-échec thayer-ange https://ids.si.edu/ids/deliveryService?id=SAAM-1929.6.112_2&max=1600 → Missing output file path
-échec thayer-ange https://ids.si.edu/ids/deliveryService?id=SAAM-1929.6.112_2&max=900 → Missing output file path
-échec ryder-le-hollandais-volant https://ids.si.edu/ids/deliveryService?id=SAAM-1929.6.95_1&max=1600 → Missing output file path
-échec ryder-le-hollandais-volant https://ids.si.edu/ids/deliveryService?id=SAAM-1929.6.95_1&max=900 → Missing output file path
-échec whistler-nocturne-valparaiso https://ids.si.edu/ids/deliveryService?id=FS-F1909.127a-b&max=1600 → Missing output file path
-échec whistler-nocturne-valparaiso https://ids.si.edu/ids/deliveryService?id=FS-F1909.127a-b&max=900 → Missing output file path
-échec monet-soleil-couchant-lavacourt https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec monet-soleil-couchant-lavacourt https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec courbet-demoiselles-des-bords-de-la-seine https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec courbet-demoiselles-des-bords-de-la-seine https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec beraud-boulevard-poissonniere-sous-la-pluie https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec beraud-boulevard-poissonniere-sous-la-pluie https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec beraud-boulevard-montmartre-la-nuit https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec beraud-boulevard-montmartre-la-nuit https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec sisley-eglise-de-moret-le-soir https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec sisley-eglise-de-moret-le-soir https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec marquet-notre-dame-sous-la-neige https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec marquet-notre-dame-sous-la-neige https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec pissarro-pont-royal-pavillon-de-flore https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec pissarro-pont-royal-pavillon-de-flore https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec rembrandt-portrait-en-costume-oriental https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec rembrandt-portrait-en-costume-oriental https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec luce-pont-saint-michel https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public → Missing output file path
-échec luce-pont-saint-michel https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/at → Missing output file path
-échec ryder-travailleurs-de-la-mer https://images.metmuseum.org/CRDImages/ad/original/DT228023.jpg → Missing output file path
-échec ryder-travailleurs-de-la-mer https://images.metmuseum.org/CRDImages/ad/web-large/DT228023.jpg → Missing output file path
-échec la-tour-madeleine-penitente https://images.metmuseum.org/CRDImages/ep/original/DP-27910-001.jpg → Missing output file path
-échec la-tour-madeleine-penitente https://images.metmuseum.org/CRDImages/ep/web-large/DP-27910-001.jpg → Missing output file path
 échec whistler-nocturne-southampton https://www.artic.edu/iiif/2/50034c7f-ce51-00f1-430e-a6f7efc233fc/full/1686,/0/default.jpg → HTTP 403
 échec whistler-nocturne-southampton https://www.artic.edu/iiif/2/50034c7f-ce51-00f1-430e-a6f7efc233fc/full/843,/0/default.jpg → HTTP 403
 échec grimshaw-chemin-la-nuit https://www.artic.edu/iiif/2/cf36b3c1-c792-8529-822e-ddcacfcc26e2/full/1686,/0/default.jpg → HTTP 403
 échec grimshaw-chemin-la-nuit https://www.artic.edu/iiif/2/cf36b3c1-c792-8529-822e-ddcacfcc26e2/full/843,/0/default.jpg → HTTP 403
-échec hiroshige-feux-d-artifice-ryogoku https://images.metmuseum.org/CRDImages/as/original/DP121524.jpg → Missing output file path
-échec hiroshige-feux-d-artifice-ryogoku https://images.metmuseum.org/CRDImages/as/web-large/DP121524.jpg → Missing output file path
-échec hiroshige-asukayama-neige-du-soir https://images.metmuseum.org/CRDImages/as/original/DP123263.jpg → Missing output file path
-échec hiroshige-asukayama-neige-du-soir https://images.metmuseum.org/CRDImages/as/web-large/DP123263.jpg → Missing output file path
-échec hokusai-matin-apres-la-neige-koishikawa https://images.metmuseum.org/CRDImages/as/original/DP141015.jpg → Missing output file path
-échec hokusai-matin-apres-la-neige-koishikawa https://images.metmuseum.org/CRDImages/as/web-large/DP141015.jpg → Missing output file path
 échec monet-gare-saint-lazare-train-de-normandie https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/1686,/0/default.jpg → HTTP 403
 échec monet-gare-saint-lazare-train-de-normandie https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/843,/0/default.jpg → HTTP 403
 échec monet-charing-cross-bridge https://www.artic.edu/iiif/2/e9179922-f68d-34c5-481d-abf49e046863/full/1686,/0/default.jpg → HTTP 403
 échec monet-charing-cross-bridge https://www.artic.edu/iiif/2/e9179922-f68d-34c5-481d-abf49e046863/full/843,/0/default.jpg → HTTP 403
 échec cassatt-le-bain-de-l-enfant https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/1686,/0/default.jpg → HTTP 403
 échec cassatt-le-bain-de-l-enfant https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/843,/0/default.jpg → HTTP 403
-échec bonheur-le-marche-aux-chevaux https://images.metmuseum.org/CRDImages/ep/original/DP-23550-001.jpg → Missing output file path
-échec bonheur-le-marche-aux-chevaux https://images.metmuseum.org/CRDImages/ep/web-large/DP-23550-001.jpg → Missing output file path
-échec gentileschi-esther-devant-assuerus https://images.metmuseum.org/CRDImages/ep/original/DP-20748-001.jpg → Missing output file path
-échec gentileschi-esther-devant-assuerus https://images.metmuseum.org/CRDImages/ep/web-large/DP-20748-001.jpg → Missing output file path
-échec vigee-le-brun-madame-grand https://images.metmuseum.org/CRDImages/ep/original/DP320094.jpg → Missing output file path
-échec vigee-le-brun-madame-grand https://images.metmuseum.org/CRDImages/ep/web-large/DP320094.jpg → Missing output file path
-échec morisot-la-robe-rose https://images.metmuseum.org/CRDImages/ep/original/DT1927.jpg → Missing output file path
-échec morisot-la-robe-rose https://images.metmuseum.org/CRDImages/ep/web-large/DT1927.jpg → Missing output file path
-échec korin-iris-a-yatsuhashi https://images.metmuseum.org/CRDImages/as/original/DT231.jpg → Missing output file path
-échec korin-iris-a-yatsuhashi https://images.metmuseum.org/CRDImages/as/web-large/DT231.jpg → Missing output file path
-échec guo-xi-vieux-arbres-lointain-plat https://images.metmuseum.org/CRDImages/as/original/DP167812_CRD.jpg → Missing output file path
-échec guo-xi-vieux-arbres-lointain-plat https://images.metmuseum.org/CRDImages/as/web-large/DP167812_CRD.jpg → Missing output file path
-échec bahram-gur-pavillon-noir https://images.metmuseum.org/CRDImages/is/original/DP159381.jpg → Missing output file path
-échec bahram-gur-pavillon-noir https://images.metmuseum.org/CRDImages/is/web-large/DP159381.jpg → Missing output file path
-échec krishna-dompte-le-serpent-kaliya https://openaccess-cdn.clevelandart.org/2018.141/2018.141_print.jpg → Missing output file path
-échec krishna-dompte-le-serpent-kaliya https://openaccess-cdn.clevelandart.org/2018.141/2018.141_web.jpg → Missing output file path
-bilan: 0 ok, 238 échecs, 0 total
+bilan: 152 ok, 86 échecs, 152 total
