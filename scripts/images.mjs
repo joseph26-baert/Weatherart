@@ -6,6 +6,7 @@ const dir = new URL('../images/', import.meta.url); fs.mkdirSync(dir, { recursiv
 const manifestPath = new URL('../images/manifest.json', import.meta.url);
 const manifest = fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, 'utf8')) : {};
 const UA = 'WeatherArt/1.0 (site culturel non commercial ; images du domaine public)';
+const rapport = [];
 let ok = 0, ko = 0;
 for (const o of oeuvres) {
   if (manifest[o.id]) continue;
@@ -21,10 +22,12 @@ for (const o of oeuvres) {
       await img.resize({ width: 1400, height: 1400, fit: 'inside', withoutEnlargement: true }).jpeg({ quality: 82, mozjpeg: true }).toFile(new URL(o.id + '.jpg', dir));
       manifest[o.id] = { source: u, largeur: Math.min(meta.width, 1400), date: new Date().toISOString().slice(0, 10) };
       ok++; done = true; break;
-    } catch (e) { console.log('échec', o.id, u.slice(0, 80), '→', e.message); }
+    } catch (e) { const msg = 'échec ' + o.id + ' ' + u.slice(0, 90) + ' → ' + (e && e.message); console.log(msg); rapport.push(msg); }
     await new Promise(r => setTimeout(r, 300));
   }
   if (!done) ko++;
 }
 fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 1));
+rapport.push(`bilan: ${ok} ok, ${ko} échecs, ${Object.keys(manifest).length} total`);
+fs.writeFileSync(new URL('../images/rapport.txt', import.meta.url), rapport.join('\n'));
 console.log(`${ok} image(s) copiée(s), ${ko} échec(s), ${Object.keys(manifest).length} au total.`);
