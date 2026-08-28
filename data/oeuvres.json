@@ -86,7 +86,9 @@
     "vent": "The wind blowing through the city today seems to have come straight out of these rippling wheat stalks.",
     "soleil": "In today's sunshine, we find again that golden warmth of a summer afternoon in Provence.",
     "nuages": "The clouds passing overhead today have the same swirling energy as this painted sky."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Wheat_Field_with_Cypresses"
   },
   {
    "id": "vangogh-chambre-arles",
@@ -164,7 +166,9 @@
     "pluie": "On a rainy day like today, this simple, colorful room makes you want to stay indoors.",
     "froid": "When it is cold outside, this refuge of warm colors makes perfect sense.",
     "nuages": "Under an overcast sky, this radiant yellow serves as an indoor sun."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Bedroom_in_Arles"
   },
   {
    "id": "hokusai-grande-vague",
@@ -243,7 +247,9 @@
     "vent": "Today's gusts recall the force that lifts this wave.",
     "orage": "In this stormy weather, Hokusai's sea feels particularly close.",
     "pluie": "In the rain, this deep blue and its flying spray seem almost within reach."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hokusai",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"
   },
   {
    "id": "friedrich-deux-hommes-lune",
@@ -322,7 +328,9 @@
     "nuit": "Tonight, if the sky clears, the moon will be the very one they are watching.",
     "nuages": "Beneath this veiled sky, the painting's muted light feels very familiar.",
     "froid": "Today's cold invites the same hushed stillness."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Two_Men_Contemplating_the_Moon"
   },
   {
    "id": "bruegel-moisson",
@@ -399,7 +407,9 @@
     "chaleur": "Today's heavy heat is exactly the heat bearing down on these harvesters.",
     "soleil": "Today's sun gives the fields that same color of golden bread.",
     "canicule": "In this heatwave, we understand the peasant asleep beneath the tree."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/The_Harvesters_(painting)"
   },
   {
    "id": "hiroshige-averse-ohashi",
@@ -480,7 +490,9 @@
     "pluie": "The shower falling on the city today has exactly this hurried rhythm.",
     "orage": "In this stormy weather, we feel like one of these passersby running for shelter.",
     "nuages": "Under this low gray sky, the downpour seems to be waiting only for a signal."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hiroshige",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Sudden_Shower_over_Shin-%C5%8Chashi_Bridge_and_Atake"
   },
   {
    "id": "pissarro-boulevard-montmartre-hiver",
@@ -557,7 +569,8 @@
     "froid": "This cold gray morning has the same veiled light as Pissarro's boulevard.",
     "nuages": "Under this overcast sky, the city takes on the same tones of pearl and ash.",
     "brouillard": "Today's fog softens the silhouettes exactly as it does here."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Camille_Pissarro"
   },
   {
    "id": "bocklin-ile-des-morts",
@@ -636,7 +649,9 @@
     "brouillard": "Today's fog could be hiding this island at the far end of any lake.",
     "nuit": "As day fades, the black water and the cypresses seem to emerge from the half-light.",
     "nuages": "Under this leaden sky, the painting finds its natural climate."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Isle_of_the_Dead_(painting)"
   },
   {
    "id": "degas-classe-de-danse",
@@ -715,7 +730,9 @@
     "pluie": "On a rainy day, we understand the pleasure of this soft light streaming in through the tall windows.",
     "nuages": "Under a gray sky, this bright room has something comforting about it.",
     "froid": "In this cold, the rehearsal room feels like a warm, rustling refuge."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Edgar_Degas",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/The_Dance_Class_(Degas,_Metropolitan_Museum_of_Art)"
   },
   {
    "id": "hammershoi-clair-de-lune-strandgade",
@@ -794,7 +811,8 @@
     "nuit": "Tonight, the same cold light may enter through your window.",
     "froid": "In this cold, the silence of this Nordic interior feels very near.",
     "nuages": "Under a gray sky, this lavender-gray becomes almost a welcoming color."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vilhelm_Hammersh%C3%B8i"
   },
   {
    "id": "caillebotte-rue-de-paris-temps-de-pluie",
@@ -873,7 +891,9 @@
     "pluie": "Today's rain gives the city's sidewalks that same mirror-like sheen.",
     "nuages": "Under this uniformly gray sky, the light is exactly that of the painting.",
     "bruine": "In this drizzle, we open our umbrellas halfheartedly, like these Parisians of 1877."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Gustave_Caillebotte",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Paris_Street;_Rainy_Day"
   },
   {
    "id": "seurat-grande-jatte",
@@ -951,7 +971,8 @@
     "soleil": "Today's sunshine calls for exactly this kind of afternoon by the water.",
     "chaleur": "In this heat, the shade of the trees on La Grande Jatte is tempting.",
     "beau_temps": "On a fine Sunday, this is the painting that comes to mind."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Georges_Seurat"
   },
   {
    "id": "renoir-deux-soeurs",
@@ -1029,7 +1050,8 @@
     "soleil": "Today's gentle sunshine is that of a terrace in spring.",
     "beau_temps": "In this fine weather, we would gladly take a seat at this table by the water.",
     "douceur": "This mildness in the air is like that of the first lunch outdoors."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
   },
   {
    "id": "monet-meule-effet-de-neige",
@@ -1107,7 +1129,8 @@
     "neige": "Today's snow carries the same colored glints that Monet knew how to see in the white.",
     "froid": "In this gray cold, the countryside takes on exactly these muffled tones.",
     "nuages": "Under this overcast sky, the light is the shadowless light of this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "monet-femme-a-l-ombrelle",
@@ -1187,7 +1210,8 @@
     "vent": "Today's wind is the one lifting Camille's veil.",
     "soleil": "In this sunshine, the backlit glow is exactly that of Monet's hillside.",
     "beau_temps": "This fine, windy weather makes you want to climb a hill, parasol or not."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "vermeer-la-laitiere",
@@ -1266,7 +1290,8 @@
     "nuages": "In this gray weather, the soft white light of this window has something reassuring about it.",
     "pluie": "On a rainy day, we would love this silent kitchen and its bread on the table.",
     "froid": "When it is cold outside, this simple, warm gesture is a comfort."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
   },
   {
    "id": "avercamp-paysage-d-hiver",
@@ -1346,7 +1371,8 @@
     "neige": "Today's snow would almost make this festival on the ice possible.",
     "gel": "In this frost, we understand the shared joy of these seventeenth-century Dutch.",
     "froid": "This crisp, clear cold is exactly that of a day on the ice."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hendrick_Avercamp"
   },
   {
    "id": "sisley-inondation-port-marly-1872",
@@ -1426,7 +1452,8 @@
     "pluie": "After today's rains, we think of this water risen quietly up to the doorsteps.",
     "nuages": "Today's pearl-gray sky is the one reflected in Sisley's flood.",
     "humide": "In this damp weather, everything seems ready to be mirrored in the water."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Alfred_Sisley"
   },
   {
    "id": "rousseau-foret-tropicale-singes",
@@ -1506,7 +1533,8 @@
     "chaleur": "In this sultry heat, Rousseau's jungle seems to rise out of the city itself.",
     "pluie": "Today's warm rain makes you long for this extravagant vegetation.",
     "orage": "Under this stormy sky, we watch for what might emerge from between the leaves."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Henri_Rousseau"
   },
   {
    "id": "turner-incendie-parlement",
@@ -1586,7 +1614,8 @@
     "chaleur": "Today's heat gives this blaze an almost physical presence.",
     "coucher_soleil": "Tonight, a glowing red sky might resemble this sky of London on fire.",
     "nuit": "Once night has fallen, this painting reminds us that a city, too, can burst into flame."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/J._M._W._Turner"
   },
   {
    "id": "munch-le-cri",
@@ -1664,7 +1693,8 @@
     "coucher_soleil": "A red sky like this evening's may be what Munch saw above the fjord.",
     "vent": "In this wind, the painting's undulating lines seem to travel through the air.",
     "orage": "Under this heavy sky, the painting's anguish feels almost meteorological."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Edvard_Munch"
   },
   {
    "id": "kandinsky-improvisation-30-canons",
@@ -1744,7 +1774,8 @@
     "orage": "Today's restless sky has the same energy as this whirlwind of colors.",
     "vent": "In this wind, everything seems to spin as it does in Kandinsky's canvas.",
     "soleil": "Under this bright sun, we find again the brilliance of the yellows and reds of 1913."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "kandinsky-peinture-au-centre-vert",
@@ -1822,7 +1853,8 @@
     "printemps": "This central green has the freshness of a spring day like today.",
     "variable": "A changeable sky like today's suits this play of shifting colors well.",
     "soleil": "In the sunshine, these pure colors vibrate like an afternoon in May."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "mondrian-composition-losange-1921",
@@ -1902,7 +1934,8 @@
     "soleil": "In this clear, crisp weather, the city seems to arrange itself in straight lines, as in Mondrian.",
     "froid": "This dry, luminous cold has the same precision as these black lines.",
     "neige": "Under the snow, the world turns white and geometric: Mondrian is not far away."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian"
   },
   {
    "id": "mondrian-composition-no1-gris-rouge",
@@ -1981,7 +2014,8 @@
     "nuages": "Under this white, calm sky, this silent painting finds its place.",
     "froid": "In this clear cold, Mondrian's rigor warms us with its single touch of red.",
     "calme": "A day without wind or cloud is a little like this painting: balance and silence."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian"
   },
   {
    "id": "marc-moulin-ensorcele",
@@ -2061,7 +2095,8 @@
     "soleil": "In this sunshine, the colors of the city begin to sing as they do in this mill.",
     "printemps": "This spring light has the same freshness as Marc's greens and blues.",
     "variable": "A sky that keeps changing is a little like this painting: everything in it moves and harmonizes."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Franz_Marc"
   },
   {
    "id": "hartley-movement",
@@ -2140,7 +2175,8 @@
     "vent": "In this wind, everything swirls as it does in this Berlin canvas.",
     "orage": "This electric sky has the same tension as Hartley's colors.",
     "soleil": "Under this bold sun, the reds and blues vibrate like an orchestra."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Marsden_Hartley"
   },
   {
    "id": "homer-northeaster",
@@ -2220,7 +2256,8 @@
     "orage": "In this stormy weather, Homer's sea seems to be roaring close by.",
     "vent": "Today's wind has the same force as the one lifting this foam.",
     "pluie": "In this driving rain, we understand why Homer erased the men from the painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Winslow_Homer"
   },
   {
    "id": "whistler-cremorne-gardens",
@@ -2299,7 +2336,8 @@
     "nuit": "Tonight, the city may have this same vague, floating light.",
     "brouillard": "In today's fog, passersby become Whistler silhouettes.",
     "nuages": "Under this gray sky, this muted nocturne seems almost natural."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
   },
   {
    "id": "hiroshige-kanbara-neige",
@@ -2378,7 +2416,9 @@
     "neige": "The snow falling today has exactly that silence.",
     "froid": "In this cold, we walk a little like these three travelers, heads tucked into our shoulders.",
     "nuit": "Tonight, the blue light of dusk will be that of Kanbara."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hiroshige",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D"
   },
   {
    "id": "hokusai-fuji-rouge",
@@ -2460,7 +2500,9 @@
     "clair": "A clear morning like today's is just what the print's title promises.",
     "vent": "Today's fresh wind is the very one the print names.",
     "chaleur": "In this late-summer heat, Fuji reddens at dawn."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hokusai",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/36_Views_of_Mount_Fuji_(Hokusai)"
   },
   {
    "id": "redon-pandora",
@@ -2539,7 +2581,8 @@
     "printemps": "This explosion of flowers has the gentleness of a spring day like today.",
     "douceur": "In this mild air, Pandora's garden feels very close.",
     "variable": "A changeable sky, between cloud and light, suits this floating painting well."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Odilon_Redon"
   },
   {
    "id": "goya-sommeil-de-la-raison",
@@ -2620,7 +2663,8 @@
     "brouillard": "In today's fog, we feel a little as if we were in that teeming half-light.",
     "nuages": "Under this low, dark sky, Goya's print finds its hour.",
     "orage": "In this stormy sky, it is hard not to think of the monsters of sleep."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Francisco_Goya"
   },
   {
    "id": "cezanne-sainte-victoire-viaduc",
@@ -2699,7 +2743,8 @@
     "soleil": "In this sunshine, the dry light of Provence is not far away.",
     "chaleur": "In this heat, we can almost hear the cicadas around Cézanne's pine.",
     "clair": "This clear sky has the same sharpness as the planes of the mountain."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
   },
   {
    "id": "vangogh-iris-1890",
@@ -2778,7 +2823,8 @@
     "printemps": "On this spring day, Van Gogh's irises are in season.",
     "soleil": "In this gentle sunshine, this bouquet seems freshly picked this morning.",
     "pluie": "On a rainy day, this indoor bouquet brings spring into the house."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
   },
   {
    "id": "millet-meules-automne",
@@ -2856,7 +2902,8 @@
     "automne": "This autumn afternoon has the same low, golden light as Millet's plain.",
     "nuages": "Under this cloud-crossed sky, the countryside takes on those same tones of straw and gray.",
     "vent": "The wind driving the clouds today moves through this painting as well."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet"
   },
   {
    "id": "monet-sandvika-norvege",
@@ -2934,7 +2981,8 @@
     "neige": "Today's snow holds the same blues and pinks that Monet knew how to see in it.",
     "froid": "In this cold, we think of Monet painting outdoors in the Norwegian snow.",
     "nuages": "Under this white sky, the light is the shadowless light of Sandvika."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "pissarro-garenne-pontoise-neige",
@@ -3012,7 +3060,8 @@
     "neige": "Under today's snow, the city looks a little like this frosted hillside.",
     "gel": "In this frost, we find Pissarro's winter of 1879 again.",
     "froid": "This white, silent cold is the cold of Pontoise."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Camille_Pissarro"
   },
   {
    "id": "lautrec-au-moulin-rouge",
@@ -3092,7 +3141,8 @@
     "nuit": "Tonight, when the city lights up, we think of this table at the Moulin Rouge.",
     "pluie": "In this rain, the noisy, warm interior of a café has a certain pull.",
     "froid": "When it is cold outside, this Parisian nighttime refuge is tempting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec"
   },
   {
    "id": "degas-chez-la-modiste",
@@ -3171,7 +3221,8 @@
     "pluie": "On a rainy day, this quiet shop and its straw hats set us dreaming of fine weather.",
     "nuages": "Under this gray sky, the soft light of the shop window feels familiar.",
     "printemps": "In spring, one chooses a hat; Degas understood that."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Edgar_Degas"
   },
   {
    "id": "gauguin-arlesiennes-mistral",
@@ -3251,7 +3302,8 @@
     "vent": "Today's wind is the mistral of the Arlésiennes: we tuck our heads into our shoulders.",
     "froid": "In this dry cold, we understand these women covering their mouths.",
     "clair": "A clear sky and a cold wind: exactly the weather of this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Gauguin"
   },
   {
    "id": "cezanne-baie-de-marseille",
@@ -3329,7 +3381,8 @@
     "soleil": "In this sunshine, the blue of Cézanne's Mediterranean becomes almost tangible.",
     "chaleur": "In this heat, we would welcome the breeze of L'Estaque.",
     "clair": "This clear sky has the same solidity as Cézanne's blue."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
   },
   {
    "id": "monet-pont-japonais-nga",
@@ -3410,7 +3463,8 @@
     "douceur": "This mildness in the air is that of an afternoon beside the pond.",
     "chaleur": "In this heat, the shade of the Japanese bridge is tempting.",
     "pluie": "Under a summer rain, this pond would be greener still."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "vangogh-roses-1890",
@@ -3489,7 +3543,8 @@
     "printemps": "These May roses have the freshness of this spring day.",
     "douceur": "In this mildness, the bouquet seems to breathe.",
     "pluie": "On a rainy day, this soft green and these roses bring peace."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
   },
   {
    "id": "homer-breezing-up",
@@ -3567,7 +3622,8 @@
     "vent": "Today's wind would fill this sail exactly like that.",
     "soleil": "With this sun and this breeze, we would gladly put to sea with them.",
     "beau_temps": "Fine, windy weather: Homer's painting is its very definition."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Winslow_Homer"
   },
   {
    "id": "renoir-canotiers-a-chatou",
@@ -3646,7 +3702,8 @@
     "soleil": "In this sunshine, Renoir's Seine sparkles in just the same way.",
     "chaleur": "In this heat, we would gladly go down to the water, like these boaters.",
     "beau_temps": "A beautiful Sunday: that is this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
   },
   {
    "id": "monet-nympheas-agapanthes",
@@ -3728,7 +3785,8 @@
     "calme": "A calm day like today is the still surface of this pond.",
     "nuages": "Under this veiled sky, the reflections grow softer, as they do here.",
     "chaleur": "In this heat, we would sink our gaze into this cool water."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "turner-fluelen-brume",
@@ -3809,7 +3867,8 @@
     "nuages": "Under this veiled sky, the violet light of Flüelen feels very near.",
     "humide": "In this damp weather, everything dissolves as in this watercolor.",
     "calme": "A calm, veiled day: Turner's lake asks for nothing more."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/J._M._W._Turner"
   },
   {
    "id": "church-crepuscule-nature-sauvage",
@@ -3891,7 +3950,8 @@
     "soleil": "A clear day often ends with a sky like this one.",
     "chaleur": "In this heat, the evening sky takes on these ember colors.",
     "vent": "The wind stretching the clouds today may be preparing this very twilight."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Frederic_Edwin_Church"
   },
   {
    "id": "modigliani-lipchitz",
@@ -3970,7 +4030,8 @@
     "pluie": "On a rainy day, this portrait of two friends pressed close together gives warmth.",
     "nuages": "Under this grey sky, Modigliani's ochres and browns take on a particular softness.",
     "froid": "In this cold, the quiet warmth of this couple does one good."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Amedeo_Modigliani"
   },
   {
    "id": "kirchner-lutteurs-cirque",
@@ -4050,7 +4111,8 @@
     "orage": "In this electric weather, Kirchner's colored violence seems only natural.",
     "chaleur": "In this heat, these sweating bodies and clashing colors make perfect sense.",
     "soleil": "Under this frank sunlight, Kirchner's colors ring out like a brass band."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner"
   },
   {
    "id": "schiele-autoportrait-1911",
@@ -4130,7 +4192,8 @@
     "froid": "In this cold, the nervous nakedness of this drawing sends a shiver.",
     "nuages": "Under this grey sky, Schiele's unease finds an echo.",
     "automne": "That Viennese autumn of 1911 was probably not so different from today."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Egon_Schiele"
   },
   {
    "id": "matisse-raie-verte",
@@ -4209,7 +4272,8 @@
     "soleil": "Under this sun, Matisse's pure colors seem more vivid still.",
     "variable": "A sky hesitating between light and shadow, like this face divided in two.",
     "chaleur": "In this heat, one finds again the Collioure summer from which this canvas came."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Henri_Matisse"
   },
   {
    "id": "matisse-paysage-collioure",
@@ -4289,7 +4353,8 @@
     "soleil": "Under this sun, one understands where these pinks and violets come from.",
     "chaleur": "In this heat, the light of Collioure is not far away.",
     "printemps": "This spring day has the lightness of this dancing landscape."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Henri_Matisse"
   },
   {
    "id": "kandinsky-paysage-deux-peupliers",
@@ -4369,7 +4434,8 @@
     "soleil": "Under this sun, Kandinsky's yellows and reds sing.",
     "variable": "A shifting sky like today's suits these moving patches well.",
     "automne": "These warm colors have something of an autumn afternoon like this one."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "kandinsky-peinture-avec-troika",
@@ -4449,7 +4515,8 @@
     "froid": "This sharp cold calls for a sleigh and colors that warm.",
     "vent": "Today's wind sweeps through this painting as it sweeps across the steppe.",
     "hiver": "On a winter's day, this colorful Russian ride does one good."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "hartley-movement-no-10",
@@ -4528,7 +4595,8 @@
     "vent": "In this wind, these forms snap like flags.",
     "soleil": "Under this sun, these frank colors ring true.",
     "variable": "A sky that never stops moving — that is rather what this painting is."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Marsden_Hartley"
   },
   {
    "id": "mondrian-etude-pour-composition",
@@ -4607,7 +4675,8 @@
     "froid": "In this clear cold, Mondrian's rigor seems self-evident.",
     "nuages": "Under this white sky, this quiet study finds its place.",
     "calme": "A calm day, without surprises: Mondrian is seeking exactly that balance."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian"
   },
   {
    "id": "klee-dieu-de-la-guerre",
@@ -4686,7 +4755,8 @@
     "nuages": "Under this heavy sky, Klee's yellow face watches the world with the same unease.",
     "orage": "In this stormy weather, this god of war has something menacing about him.",
     "soleil": "Under this sun, one sees only the yellow at first; the newspaper beneath is waiting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "klee-haus-der-firma-z",
@@ -4765,7 +4835,8 @@
     "nuages": "Under this grey sky, this little paper house seems to be waiting for the sun.",
     "pluie": "On a rainy day, one would gladly live in this imaginary house.",
     "calme": "A calm day like today suits this patient drawing."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "delaunay-la-tour-1926",
@@ -4845,7 +4916,8 @@
     "soleil": "Under this sun, Delaunay's tower splinters into bright colors.",
     "vent": "In this wind, the tower seems to sway as it does in this print.",
     "variable": "A shifting sky suits this tower that never stops moving."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Robert_Delaunay"
   },
   {
    "id": "kandinsky-maisons-a-murnau",
@@ -4924,7 +4996,8 @@
     "soleil": "Under this sun, the facades of Murnau seem more colorful still.",
     "variable": "A shifting sky, like today's, suits these colors that have not yet chosen.",
     "douceur": "This summer mildness recalls that of Kandinsky's Bavarian sojourns."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "lundstrom-composition-1",
@@ -5003,7 +5076,8 @@
     "nuages": "Under this grey sky, Lundstrøm's raw boards feel exactly right.",
     "pluie": "In this rain, these salvaged planks seem to have come from a northern harbor.",
     "froid": "This dry cold suits this work without frills."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vilhelm_Lundstr%C3%B8m"
   },
   {
    "id": "lundstrom-composition-2",
@@ -5084,7 +5158,8 @@
     "nuages": "Under this overcast sky, this great sober form seems solid and reassuring.",
     "vent": "In this wind, one thinks of the crates on a Copenhagen quay.",
     "calme": "A calm day, with no image to look for: this panel resembles it."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vilhelm_Lundstr%C3%B8m"
   },
   {
    "id": "sohlberg-nuit-d-hiver-rondane",
@@ -5167,7 +5242,8 @@
     "nuit": "Tonight, if the sky clears, look for Sohlberg's star.",
     "gel": "In this frost, the silence of the Rondane mountains is very near.",
     "froid": "This clear cold is that of a Norwegian night."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Harald_Sohlberg"
   },
   {
    "id": "munch-madone",
@@ -5247,7 +5323,8 @@
     "nuit": "After nightfall, these red and black lines take on their full force.",
     "nuages": "Under this dark sky, Munch's Madonna finds her atmosphere.",
     "orage": "In this charged weather, one feels the electricity running through this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Edvard_Munch"
   },
   {
    "id": "dahl-hiver-sognefjord",
@@ -5328,7 +5405,8 @@
     "neige": "Today's snow would make Dahl's fjord seem almost familiar.",
     "froid": "In this cold, one finds again the silence of that February morning in 1827.",
     "soleil": "A winter light like this one falls on Dahl's summits."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Johan_Christian_Dahl"
   },
   {
    "id": "kobke-vue-du-lac-sortedam",
@@ -5407,7 +5485,8 @@
     "coucher_soleil": "Tonight, the light on the water may be that of this Copenhagen lake.",
     "calme": "A calm evening like this one — that is exactly this painting.",
     "douceur": "In this mildness, one would gladly stay on that jetty until nightfall."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Christen_K%C3%B8bke"
   },
   {
    "id": "hammershoi-soleil-sur-le-plancher",
@@ -5487,7 +5566,8 @@
     "soleil": "Today's sun, coming through a window, draws the same rectangles on the floor.",
     "clair": "In this clear, cold weather, Hammershøi's Nordic light is at home.",
     "calme": "A calm day: this painting is its very definition."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vilhelm_Hammersh%C3%B8i"
   },
   {
    "id": "hammershoi-soir-dans-le-salon",
@@ -5567,7 +5647,8 @@
     "nuit": "Tonight, when the lamp comes on, you will be a little in this drawing room.",
     "pluie": "In this rain, Hammershøi's silent interior looks inviting.",
     "nuages": "Under this grey sky, those greys of his seem almost warm."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vilhelm_Hammersh%C3%B8i"
   },
   {
    "id": "ancher-mere-dans-la-piece-rouge",
@@ -5647,7 +5728,8 @@
     "soleil": "This sun coming through the window draws the same columns of light in your home.",
     "froid": "In this cold, Anna Ancher's red room is an ideal refuge.",
     "clair": "On a clear winter's day, raking light does exactly this on a wall."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Anna_Ancher"
   },
   {
    "id": "kroyer-garcons-se-baignant-skagen",
@@ -5729,7 +5811,8 @@
     "chaleur": "In this heat, one would gladly join these bathers.",
     "douceur": "This evening mildness is that of Krøyer's beach.",
     "calme": "A calm sea and a clear sky: the painting asks for nothing more."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Peder_Severin_Kr%C3%B8yer"
   },
   {
    "id": "greco-vue-de-tolede",
@@ -5808,7 +5891,8 @@
     "orage": "In this stormy weather, the sky of Toledo hangs over your city.",
     "nuages": "Under this heavy green sky, one understands what El Greco saw.",
     "vent": "The wind driving these clouds today blows over Toledo too."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/El_Greco"
   },
   {
    "id": "rembrandt-aristote",
@@ -5887,7 +5971,8 @@
     "nuit": "After nightfall, this golden light emerging from shadow is made for you.",
     "pluie": "On a rainy day, this meditative silence suits well.",
     "froid": "In this cold, Rembrandt's golden warmth is comforting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Rembrandt"
   },
   {
    "id": "rembrandt-ronde-de-nuit",
@@ -5966,7 +6051,8 @@
     "nuit": "Tonight, the \"Night Watch\" finally lives up to its name.",
     "nuages": "Under this dark sky, one understands how the painting earned its nickname.",
     "pluie": "On a rainy day, one would gladly take shelter under that great Amsterdam archway."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Rembrandt"
   },
   {
    "id": "rembrandt-fiancee-juive",
@@ -6047,7 +6133,8 @@
     "froid": "In this cold, the warmth of this gesture and these colors does one good.",
     "pluie": "On a rainy day, one would gladly spend a fortnight before this painting, like Van Gogh.",
     "nuages": "Under this grey sky, Rembrandt's gold shines all the brighter."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Rembrandt"
   },
   {
    "id": "caravage-les-musiciens",
@@ -6127,7 +6214,8 @@
     "douceur": "In this mildness, one could almost hear the lute being tuned.",
     "nuages": "Under this grey sky, this warm, musical interior looks inviting.",
     "chaleur": "In this Roman heat, these half-dressed young men seem quite at their ease."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Caravaggio"
   },
   {
    "id": "caravage-reniement-saint-pierre",
@@ -6206,7 +6294,8 @@
     "nuit": "After nightfall, this chiaroscuro becomes that of your own room.",
     "nuages": "Under this dark sky, Caravaggio's drama plays out close at hand.",
     "froid": "In this cold, we huddle around the fire like these three figures in the night."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Caravaggio"
   },
   {
    "id": "bosch-adoration-des-mages",
@@ -6286,7 +6375,8 @@
     "froid": "In this cold, this stable open to the Flemish winter seems very real.",
     "hiver": "On a winter's day, this gilded panel gives a little warmth.",
     "nuages": "Under this grey sky, Bosch's gold glitters."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hieronymus_Bosch"
   },
   {
    "id": "bosch-la-mort-de-l-avare",
@@ -6366,7 +6456,8 @@
     "nuit": "As night falls, Bosch's little demons come out from the curtains.",
     "brouillard": "In this fog, one feels a little as if in the miser's chamber.",
     "pluie": "On a rainy day, this sermon in images reads like a tale."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hieronymus_Bosch"
   },
   {
    "id": "vermeer-jeune-femme-a-l-aiguiere",
@@ -6446,7 +6537,8 @@
     "soleil": "This clear morning has the same light as the one coming through Vermeer's window.",
     "nuages": "Even under a veiled sky, an open window gives this gentle light.",
     "douceur": "In this mildness, one would open the window as she does."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
   },
   {
    "id": "vermeer-la-ruelle",
@@ -6526,7 +6618,8 @@
     "nuages": "Under this light grey sky, the brick of Delft takes on exactly these tones.",
     "douceur": "In this mildness, one would sit on the doorstep like this woman sewing.",
     "calme": "A calm day in a quiet street: that is this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
   },
   {
    "id": "la-tour-diseuse-de-bonne-aventure",
@@ -6605,7 +6698,8 @@
     "variable": "A day for sidelong glances, like these figures: the weather has not made up its mind.",
     "soleil": "In this fine weather, one might just let oneself be caught in the trap, like this young man.",
     "nuages": "Under this grey sky, these brocade colors give warmth."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Georges_de_La_Tour"
   },
   {
    "id": "fussli-sorciere-de-la-nuit",
@@ -6686,7 +6780,8 @@
     "orage": "Under this storm sky, the flight of Füssli's witches seems plausible.",
     "brouillard": "In this fog, shapes can be glimpsed, as in that Lapland sky.",
     "vent": "A wind like this could carry the night-hag."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Henry_Fuseli"
   },
   {
    "id": "constable-cathedrale-de-salisbury",
@@ -6768,7 +6863,8 @@
     "nuages": "Under these white clouds, the countryside takes on these same deep greens.",
     "soleil": "In this fine weather, one would go picnicking in the bishop's grounds.",
     "pluie": "A shower between two sunny spells: Constable loved that."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/John_Constable"
   },
   {
    "id": "courbet-la-mer",
@@ -6851,7 +6947,8 @@
     "vent": "In this wind, one can almost hear that green sea.",
     "humide": "This damp, low weather is that of Courbet's Trouville.",
     "calme": "A grey, calm day: three bands, and that is all."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Gustave_Courbet"
   },
   {
    "id": "corot-ville-d-avray",
@@ -6933,7 +7030,8 @@
     "nuages": "Under this pearl-grey sky, the trees take on these same silvery tones.",
     "douceur": "In this veiled mildness, Corot is the painter of the day.",
     "humide": "This damp, gentle weather is that of Corot's pond."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot"
   },
   {
    "id": "manet-en-bateau",
@@ -7012,7 +7110,8 @@
     "soleil": "Under this sun, Manet's Seine is a blue you would want to touch.",
     "chaleur": "In this heat, one would gladly climb into this boat.",
     "beau_temps": "On a fine summer's day, boating is compulsory."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/%C3%89douard_Manet"
   },
   {
    "id": "morisot-port-de-lorient",
@@ -7093,7 +7192,8 @@
     "soleil": "Under this sun, the harbor at Lorient has exactly this white light.",
     "douceur": "In this mildness, one would sit on that parapet beside Edma.",
     "beau_temps": "A fine clear day at the water's edge: that is this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Berthe_Morisot"
   },
   {
    "id": "cassatt-promenade-en-barque",
@@ -7173,7 +7273,8 @@
     "soleil": "Under this sun, this Mediterranean blue seems almost real.",
     "chaleur": "In this heat, a boat trip is clearly in order.",
     "vent": "A little wind, a yellow sail: Cassatt's boat moves on."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Mary_Cassatt"
   },
   {
    "id": "sargent-madame-x",
@@ -7253,7 +7354,8 @@
     "nuit": "Tonight, the black of this gown is the color of the city.",
     "chaleur": "In this heat, one understands the pale skin and the bare shoulders.",
     "nuages": "Under this grey sky, this portrait in black and white is sufficient unto itself."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/John_Singer_Sargent"
   },
   {
    "id": "klimt-mada-primavesi",
@@ -7331,7 +7433,8 @@
     "printemps": "This carpet of flowers is made for a spring day like today.",
     "soleil": "Under this sun, Klimt's colors are in festive mood.",
     "douceur": "In this mildness, one can imagine Mäda running off to play outside."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Gustav_Klimt"
   },
   {
    "id": "durer-melencolia",
@@ -7412,7 +7515,8 @@
     "pluie": "On a rainy day, one sits as he does, chin in hand.",
     "froid": "In this cold, melancholy has had a good press ever since Dürer.",
     "orage": "A comet, a rainbow, a storm sky: Dürer had foreseen it all."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer"
   },
   {
    "id": "qu-ding-montagnes-d-ete",
@@ -7494,7 +7598,8 @@
     "chaleur": "In this summer heat, one would take the path to the temple, in the shade of the pines.",
     "humide": "This damp, veiled weather is that of the Chinese mountains in summer.",
     "nuages": "Under this veiled sky, ink and silk take on these same greys."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Qu_Ding"
   },
   {
    "id": "hiroshige-jardin-de-pruniers-kamata",
@@ -7575,7 +7680,8 @@
     "printemps": "In the first days of spring, one goes to see the plum trees in blossom: Hiroshige first.",
     "froid": "In this clear cold, we return to the festival of the plum trees, which blossom before spring.",
     "soleil": "Under this pale sun, these pink blossoms seem to tremble."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hiroshige"
   },
   {
    "id": "hokusai-orage-sous-le-sommet",
@@ -7653,7 +7759,9 @@
     "orage": "In this stormy weather, Hokusai's red lightning zigzags over your city.",
     "variable": "Fair above, black below: a sky that cannot decide, like today's.",
     "chaleur": "A heat storm at the end of the day: Hokusai engraved it."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hokusai",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/36_Views_of_Mount_Fuji_(Hokusai)"
   },
   {
    "id": "de-hooch-la-visite",
@@ -7732,7 +7840,8 @@
     "pluie": "On a rainy day, one would gladly step into this luminous entrance hall.",
     "nuages": "Under this gray sky, the soft light from that window is just right.",
     "froid": "In this cold, that snug interior warmed by wine and oysters is tempting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Pieter_de_Hooch"
   },
   {
    "id": "lorrain-troyennes-incendiant-leur-flotte",
@@ -7811,7 +7920,8 @@
     "coucher_soleil": "Tonight, the low light on the horizon will be Claude Lorrain's.",
     "variable": "A sinking sun and rain gathering in the distance: the painting tells the story of this sky.",
     "chaleur": "In this golden heat, Claude's sea feels very near."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Lorrain"
   },
   {
    "id": "ruisdael-champs-de-ble",
@@ -7893,7 +8003,8 @@
     "nuages": "Under these great white clouds, the fields take on those same golds and greens.",
     "vent": "The wind driving the clouds today also fills the sails in the distance.",
     "soleil": "Sunlight breaking over the wheat: Ruisdael made a masterpiece of it."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Jacob_van_Ruisdael"
   },
   {
    "id": "kandinsky-jaune-rouge-bleu",
@@ -7973,7 +8084,8 @@
     "soleil": "Under this sun, Kandinsky's yellow takes over.",
     "variable": "A sky divided between light and shadow, like this painting cut in two.",
     "orage": "In this restless weather, the dark, swirling side of the painting seems to be winning."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "kandinsky-avec-l-arc-noir",
@@ -8051,7 +8163,8 @@
     "orage": "In this stormy weather, these clashing masses of color are in season.",
     "vent": "Today's wind drives these forms against one another.",
     "nuages": "Under this heavy sky, Kandinsky's black arc holds back the storm."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "kandinsky-sur-blanc-ii",
@@ -8130,7 +8243,9 @@
     "neige": "Under the snow, this great white crossed with colors seems natural.",
     "clair": "In this clear, crisp weather, Kandinsky's geometry asserts itself.",
     "froid": "A sharp cold, a white sky: this painting has that energy."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Auf_Weiss_II_(Sur_blanc_II)"
   },
   {
    "id": "kandinsky-bleu-de-ciel",
@@ -8210,7 +8325,8 @@
     "soleil": "Today's blue sky is the one Kandinsky saw from his window.",
     "clair": "In this clear weather, Kandinsky's little creatures float in the same blue.",
     "douceur": "This mildness in the air suits this serene late painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "delaunay-manege-de-cochons",
@@ -8289,7 +8405,8 @@
     "soleil": "Under this sun, Delaunay's discs spin like a carousel in broad daylight.",
     "vent": "In this wind, everything turns, as on this carousel.",
     "variable": "Weather that keeps changing: that is the rhythm of this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Robert_Delaunay"
   },
   {
    "id": "delaunay-tour-eiffel-1926",
@@ -8368,7 +8485,9 @@
     "soleil": "Under this sun, Delaunay's tower soars into a stained-glass sky.",
     "vent": "In this wind, you can feel the tower swaying toward the sky.",
     "clair": "In weather this clear, you could almost see it from here."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Robert_Delaunay",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Eiffel_Tower_(Delaunay_series)"
   },
   {
    "id": "delaunay-formes-circulaires-soleil-2",
@@ -8447,7 +8566,8 @@
     "soleil": "Under this sun, the title makes sense: it is the sun itself, seen with closed eyes.",
     "chaleur": "In this heat, these rings of color burn like the real sun.",
     "clair": "A clear sky, a round sun: Delaunay painted it just as we feel it."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Robert_Delaunay"
   },
   {
    "id": "picabia-udnie",
@@ -8527,7 +8647,8 @@
     "vent": "In this wind, Picabia's dance quickens.",
     "orage": "This electric sky has the same mechanical energy as this painting.",
     "soleil": "Under this sun, these metallic, colored forms sparkle."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Francis_Picabia"
   },
   {
    "id": "leger-la-noce",
@@ -8607,7 +8728,8 @@
     "nuages": "Under this gray and white sky, Léger's clouds have the same substance.",
     "variable": "A fragmented sky, like these Cubist planes.",
     "froid": "In this cold, this wedding procession in gray and red gives off a little warmth."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Fernand_L%C3%A9ger"
   },
   {
    "id": "leger-contraste-de-formes",
@@ -8688,7 +8810,8 @@
     "vent": "In this wind, these cylinders seem to roll over one another.",
     "orage": "This electric weather suits these colliding forms.",
     "soleil": "Under this sun, Léger's whites snap like metal."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Fernand_L%C3%A9ger"
   },
   {
    "id": "mondrian-new-york-city",
@@ -8769,7 +8892,9 @@
     "soleil": "Under this sun, the yellow of these lines vibrates like an avenue at noon.",
     "clair": "In this clear weather, the grid of New York asserts itself.",
     "froid": "In this dry cold, we find Mondrian's crispness again."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/New_York_City_(painting)"
   },
   {
    "id": "taeuber-arp-composition-rectangles-cercles",
@@ -8849,7 +8974,8 @@
     "clair": "In this clear weather, Taeuber-Arp's crisp geometry is at home.",
     "froid": "A sharp, clean cold, like these forms.",
     "soleil": "Under this sun, these colored circles ring true."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp"
   },
   {
    "id": "freundlich-composition-1937",
@@ -8928,7 +9054,8 @@
     "nuages": "Under this gray sky, Freundlich's black and white is in season.",
     "froid": "In this cold, these stone forms seem graver still.",
     "pluie": "On a rainy day, this print reads like a cathedral in the downpour."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Otto_Freundlich"
   },
   {
    "id": "klee-en-rythme",
@@ -9008,7 +9135,8 @@
     "nuages": "Under this gray sky, this rhythm of grays and whites seems to keep time.",
     "pluie": "On a rainy day, you count Klee's squares like raindrops.",
     "calme": "A calm, steady day, with one small surprise: that is this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "torres-garcia-composition-universelle",
@@ -9088,7 +9216,8 @@
     "nuages": "Under this veiled sky, these signs in ocher and gray have the softness of an old wall.",
     "douceur": "In this mildness, one takes the time to decipher each compartment.",
     "soleil": "Today's sun no doubt appears somewhere in this grid."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Torres-Garc%C3%ADa"
   },
   {
    "id": "wols-aile-de-papillon",
@@ -9168,7 +9297,8 @@
     "pluie": "In this rain, Wols's tormented matter seems to stream.",
     "orage": "In this stormy weather, this scratched painting is in its element.",
     "nuages": "Under this low sky, this wounded wing finds its climate."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wols"
   },
   {
    "id": "marc-chien-couche-dans-la-neige",
@@ -9247,7 +9377,8 @@
     "neige": "Under today's snow, Marc's dog sleeps peacefully.",
     "froid": "In this cold, one envies his fur and his tranquility.",
     "clair": "On a clear winter day, snow has exactly these blue and pink glints."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Franz_Marc"
   },
   {
    "id": "kandinsky-improvisation-staedel",
@@ -9325,7 +9456,8 @@
     "pluie": "In this rain, this half-erased boat seems to be taking on water.",
     "variable": "Undecided weather, between figure and color, like this page.",
     "vent": "In this wind, blots and lines take flight."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "kandinsky-petits-mondes-xii",
@@ -9402,7 +9534,8 @@
     "nuages": "Under this gray sky, this small world in black and white is enough.",
     "froid": "In this cold, the sharpness of drypoint is in season.",
     "calme": "A calm day, a silent little world."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "klee-vue-sur-le-pays-fertile",
@@ -9481,7 +9614,8 @@
     "soleil": "Under this sun, these bands of color glow warm like Egyptian fields.",
     "chaleur": "In this heat, one thinks of Klee's Nile, a blue line in the desert.",
     "douceur": "This mildness suits these colors of earth and wheat."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "jawlensky-variation-arbres",
@@ -9561,7 +9695,8 @@
     "douceur": "In this mildness, these pastels of Jawlensky are exactly today's weather.",
     "nuages": "Under this veiled sky, these tender colors seem natural.",
     "printemps": "On a spring day, this view through the window takes on color again."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Alexej_von_Jawlensky"
   },
   {
    "id": "holzel-composition-abstraite-paysage",
@@ -9641,7 +9776,8 @@
     "soleil": "Under this sun, these shards of color shine like stained glass.",
     "variable": "A changing sky, a stained-glass window in motion.",
     "automne": "These colors on brown paper have the warmth of an autumn afternoon."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Adolf_H%C3%B6lzel"
   },
   {
    "id": "baumeister-formes-geometriques-flottantes",
@@ -9721,7 +9857,8 @@
     "clair": "In this clear weather, these forms float in crisp air.",
     "calme": "A calm day, weightless, like these forms.",
     "froid": "In this cold, Constructivist rigor is in season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Willi_Baumeister"
   },
   {
    "id": "klee-carnaval-dans-la-neige",
@@ -9799,7 +9936,8 @@
     "neige": "Under today's snow, Klee's carnival can begin.",
     "froid": "In this cold, these little colored flags bring a smile.",
     "hiver": "A winter day, a quiet celebration: that is this watercolor."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "marc-le-taureau",
@@ -9877,7 +10015,8 @@
     "nuages": "Under this gray sky, this black and white has the bull's quiet strength.",
     "froid": "In this cold, Marc's animal huddles in on itself, as we do.",
     "calme": "A calm, heavy day, like this beast at rest."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Franz_Marc"
   },
   {
    "id": "malevitch-carre-noir",
@@ -9957,7 +10096,9 @@
     "nuit": "After nightfall, the Black Square is simply what lies outside.",
     "nuages": "Under this leaden sky, Malevich's black is in season.",
     "brouillard": "In the fog, everything ends up looking like this square."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Kazimir_Malevich",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Black_Square_(painting)"
   },
   {
    "id": "malevitch-blanc-sur-blanc",
@@ -10035,7 +10176,9 @@
     "neige": "Under the snow, the world is this painting: white on white.",
     "brouillard": "In this fog, all that remains visible is a white square on a white ground.",
     "clair": "Under this very clear sky, light itself becomes the subject."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Kazimir_Malevich",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/White_on_White"
   },
   {
    "id": "malevitch-suprematisme-1915",
@@ -10115,7 +10258,8 @@
     "vent": "In this wind, these forms of Malevich seem swept away.",
     "clair": "Under this clear sky, these splinters of color float in the air.",
     "variable": "A sky where everything moves: Suprematism is a kind of weather."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Kazimir_Malevich"
   },
   {
    "id": "malevitch-croix-noire",
@@ -10194,7 +10338,9 @@
     "nuages": "Under this gray sky, this black and white sign has the simplicity of the day.",
     "froid": "In this cold, the Black Cross asks for nothing.",
     "nuit": "Tonight, a black cross on white, and that is all."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Kazimir_Malevich",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Black_Cross_(painting)"
   },
   {
    "id": "malevitch-carre-noir-et-carre-rouge",
@@ -10274,7 +10420,8 @@
     "clair": "In this clear weather, two squares are enough to make a painting.",
     "froid": "In this cold, this tiny red warms the black.",
     "variable": "An undecided sky, a small square askew: it holds."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Kazimir_Malevich"
   },
   {
    "id": "malevitch-matin-au-village",
@@ -10354,7 +10501,8 @@
     "neige": "After today's snow, Malevich's village sets out.",
     "froid": "In this cold, these metallic forms and these pails speak of winter.",
     "clair": "A clear morning after the snow, exactly what the title says."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Kazimir_Malevich"
   },
   {
    "id": "af-klint-dix-plus-grands-7",
@@ -10434,7 +10582,8 @@
     "printemps": "This pink and blue flowering is made for a spring day.",
     "douceur": "In this mildness, Hilma af Klint's garden opens.",
     "soleil": "Under this sun, these spirals turn gently."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hilma_af_Klint"
   },
   {
    "id": "af-klint-dix-plus-grands-1",
@@ -10514,7 +10663,8 @@
     "nuit": "Tonight, this deep blue peopled with forms is a sky of childhood.",
     "nuages": "Under this overcast sky, that blue keeps its light.",
     "douceur": "In this mildness, we return to Hilma af Klint's childhood."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hilma_af_Klint"
   },
   {
    "id": "af-klint-le-cygne-17",
@@ -10594,7 +10744,8 @@
     "clair": "In this clear weather, this circle of colors turns like a compass.",
     "calme": "A calm day, a perfect circle.",
     "froid": "In this cold, this swan become circle keeps its softness."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hilma_af_Klint"
   },
   {
    "id": "af-klint-retable-1",
@@ -10675,7 +10826,8 @@
     "soleil": "Under this sun, Hilma af Klint's golden disc shines at the summit.",
     "coucher_soleil": "Tonight, the light will rise toward a golden disc, as it does here.",
     "clair": "Under this clear sky, this pyramid of colors leads straight to the light."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hilma_af_Klint"
   },
   {
    "id": "af-klint-chaos-primordial-16",
@@ -10754,7 +10906,8 @@
     "nuit": "Tonight, this nocturnal blue shot through with yellow is a sky of beginnings.",
     "orage": "In this stormy weather, primordial chaos is not far off.",
     "nuages": "Under this dark sky, these yellow spirals break through like glimmers."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hilma_af_Klint"
   },
   {
    "id": "kandinsky-composition-vii",
@@ -10835,7 +10988,9 @@
     "orage": "In this stormy weather, Composition VII is the sky itself.",
     "vent": "That wind is swirling through Kandinsky's painting.",
     "variable": "Weather that changes by the minute: that is this painting, without rest."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Composition_VII"
   },
   {
    "id": "kandinsky-composition-viii",
@@ -10915,7 +11070,8 @@
     "clair": "In this clear weather, Kandinsky's geometry is in tune with the sky.",
     "soleil": "Under this sun, the painting's great circle may be the sun itself.",
     "froid": "In this dry cold, these sharp forms look like frost."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "kandinsky-quelques-cercles",
@@ -10995,7 +11151,8 @@
     "nuit": "Tonight, these circles are the planets above the city.",
     "clair": "Under this clear sky, you can watch these circles float away to infinity.",
     "calme": "A calm, slow day, like these drifting bubbles."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "kandinsky-carres-et-cercles-concentriques",
@@ -11075,7 +11232,8 @@
     "soleil": "Under this sun, these twelve circles of color are in a good mood.",
     "variable": "A sky trying out every color, like this study.",
     "printemps": "On a spring day, this joyful color chart is in season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "kandinsky-cercles-dans-un-cercle",
@@ -11156,7 +11314,8 @@
     "soleil": "Under this sun, the painting's beams cross the circles like rays of light.",
     "clair": "In this clear weather, this porthole of colors opens onto the sky.",
     "variable": "Rays breaking through the clouds: that is what the light does here."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
   },
   {
    "id": "mondrian-composition-ii-rouge-bleu-jaune",
@@ -11237,7 +11396,8 @@
     "clair": "In this clear, crisp weather, Mondrian is the painter of the day.",
     "soleil": "Under this sun, that red blazes and those black lines hold everything together.",
     "froid": "In this dry cold, this rigor does one good."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian"
   },
   {
    "id": "mondrian-broadway-boogie-woogie",
@@ -11318,7 +11478,9 @@
     "soleil": "Under this sun, Broadway keeps the beat in yellow.",
     "clair": "In this clear weather, the city is a musical score.",
     "vent": "In this wind, these little squares begin to dance."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Broadway_Boogie_Woogie"
   },
   {
    "id": "mondrian-tableau-i",
@@ -11398,7 +11560,8 @@
     "clair": "In this clear weather, these rectangles of color are an open stained-glass window.",
     "froid": "In this cold, Mondrian's order is reassuring.",
     "soleil": "Under this sun, each primary color takes its place."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian"
   },
   {
    "id": "mondrian-composition-10-jetee-et-ocean",
@@ -11478,7 +11641,8 @@
     "nuages": "Under this gray sky, Mondrian's sea shimmers in black and white.",
     "vent": "In this wind, the painting's small strokes are the waves.",
     "humide": "This damp, gray weather is the beach at Domburg in winter."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian"
   },
   {
    "id": "mondrian-arbre-gris",
@@ -11559,7 +11723,8 @@
     "brouillard": "In today's fog, the trees are exactly Mondrian's.",
     "nuages": "Under this gray sky, this bare tree suits the season.",
     "froid": "In this cold, the bare branches trace grids across the sky."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian"
   },
   {
    "id": "mondrian-arbre-rouge",
@@ -11640,7 +11805,8 @@
     "coucher_soleil": "Tonight, a bare tree against a deep blue sky: Mondrian saw it before we did.",
     "froid": "In this cold, this red on this blue warms the closing day.",
     "nuit": "As night falls, the red tree still stands out."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Piet_Mondrian"
   },
   {
    "id": "klee-senecio",
@@ -11720,7 +11886,8 @@
     "soleil": "Under this sun, Senecio's orange face is one more small sun.",
     "chaleur": "In this heat, these reds and oranges suit the season.",
     "douceur": "In this mild air, Senecio raises an eyebrow, amused."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "klee-ad-parnassum",
@@ -11800,7 +11967,8 @@
     "soleil": "Under this sun, the orange disk of Ad Parnassum keeps its appointment.",
     "chaleur": "In this heat, this mosaic of dots shimmers like the air.",
     "clair": "In this clear weather, we climb toward Parnassus."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "klee-magie-des-poissons",
@@ -11880,7 +12048,8 @@
     "nuit": "Tonight, Klee's fish swim in the dark above the city.",
     "pluie": "In this rain, we are a little inside that enchanted aquarium.",
     "brouillard": "In the fog, everything becomes fish magic."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "klee-grand-chemin-et-chemins-de-traverse",
@@ -11960,7 +12129,8 @@
     "soleil": "Under this sun, these paths of color climb toward the sky.",
     "clair": "In this clear weather, one chooses the highway or the byways.",
     "douceur": "In this mild air, these pale colors are those of an Egyptian morning."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "klee-insula-dulcamara",
@@ -12041,7 +12211,8 @@
     "douceur": "In this mild air, we land on Klee's bittersweet island.",
     "soleil": "Under this pale sun, these island colors suit the season.",
     "nuages": "Under this veiled sky, Klee's black signs drift like boats."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "klee-ballon-rouge",
@@ -12121,7 +12292,8 @@
     "vent": "In this wind, Klee's red balloon soars above the rooftops.",
     "soleil": "Under this sun, these pastel buildings and this balloon are out and about.",
     "douceur": "In this mild air, one would gladly follow that balloon."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "klee-machine-a-gazouiller",
@@ -12201,7 +12373,8 @@
     "printemps": "This spring morning, the birds are singing; Klee's are waiting for someone to turn the crank.",
     "vent": "In this wind, the machine's birds wobble on their wire.",
     "douceur": "In this mild air, you can hear the machine twittering."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_Klee"
   },
   {
    "id": "delaunay-fenetres-simultanees",
@@ -12281,7 +12454,9 @@
     "soleil": "Under this sun, the city breaks into facets of color, as in this window.",
     "clair": "In this clear weather, we open Delaunay's window.",
     "variable": "A changing sky, a shimmering window."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Robert_Delaunay",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Windows_(Delaunay_series)"
   },
   {
    "id": "delaunay-rythme-n1",
@@ -12361,7 +12536,8 @@
     "soleil": "Under this sun, Delaunay's disks spin at full speed.",
     "vent": "In this wind, these circles begin to move.",
     "clair": "Under this clear sky, these pure colors are right where they belong."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Robert_Delaunay"
   },
   {
    "id": "delaunay-hommage-a-bleriot",
@@ -12442,7 +12618,9 @@
     "soleil": "Under this sun, Delaunay's suns and Blériot's airplane take off together.",
     "vent": "In this wind, the propeller turns.",
     "clair": "Under this clear sky, one would follow Blériot across the Channel."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Robert_Delaunay",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Homage_to_Bl%C3%A9riot"
   },
   {
    "id": "delaunay-tour-eiffel-1911",
@@ -12523,7 +12701,9 @@
     "vent": "In this wind, Delaunay's Eiffel Tower leans a little further still.",
     "orage": "In this stormy weather, the tower seems to explode into the sky.",
     "variable": "A sky in pieces, a tower in pieces."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Robert_Delaunay",
+   "wikipedia_oeuvre_en": "https://en.wikipedia.org/wiki/Eiffel_Tower_(Delaunay_series)"
   },
   {
    "id": "popova-architectonique-picturale",
@@ -12603,7 +12783,8 @@
     "clair": "In this clear weather, these planes of color stand out sharply.",
     "froid": "In this cold, Popova's solidity is reassuring.",
     "vent": "In this wind, these planes seem to slide across one another."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Lyubov_Popova"
   },
   {
    "id": "popova-construction-force-spatiale",
@@ -12683,7 +12864,8 @@
     "vent": "In this wind, these lines of force pull in every direction.",
     "orage": "This electric weather suits these bundles of force.",
     "froid": "In this cold, Popova's raw energy warms."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Lyubov_Popova"
   },
   {
    "id": "rozanova-bande-verte",
@@ -12762,7 +12944,8 @@
     "printemps": "This green stripe is the first green of spring.",
     "clair": "In this clear weather, a single color is enough.",
     "douceur": "In this mild air, this green breathes."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Olga_Rozanova"
   },
   {
    "id": "rozanova-composition-non-objective",
@@ -12842,7 +13025,8 @@
     "soleil": "Under this sun, these rectangles of color float like confetti.",
     "variable": "A changing sky, floating colors.",
     "printemps": "On a spring day, these fresh tones suit the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Olga_Rozanova"
   },
   {
    "id": "lissitzky-proun-19d",
@@ -12922,7 +13106,8 @@
     "clair": "In this clear weather, these volumes float in perfectly crisp air.",
     "froid": "In this cold, this gray and this metal suit the season.",
     "calme": "A calm day, in weightlessness."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/El_Lissitzky"
   },
   {
    "id": "lissitzky-coin-rouge",
@@ -13002,7 +13187,8 @@
     "orage": "In this stormy weather, this red wedge piercing the white suits the season.",
     "vent": "In this wind, the red triangle charges.",
     "clair": "In this clear weather, these sharp forms strike hard."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/El_Lissitzky"
   },
   {
    "id": "kliun-suprematisme-1915",
@@ -13082,7 +13268,8 @@
     "clair": "In this clear weather, these forms glide through a crisp white.",
     "calme": "A calm day, a few colors, and the white all around.",
     "froid": "In this cold, this quiet Suprematism suits the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Ivan_Kliun"
   },
   {
    "id": "van-doesburg-contre-composition-v",
@@ -13162,7 +13349,8 @@
     "vent": "In this wind, van Doesburg's rectangles tip over.",
     "clair": "In this clear weather, this tilted geometry stays sharp.",
     "variable": "A sky askew, squares askew."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
   },
   {
    "id": "van-doesburg-rythme-danse-russe",
@@ -13242,7 +13430,8 @@
     "vent": "In this wind, van Doesburg's little strokes begin to dance.",
     "clair": "In this clear weather, this quiet rhythm can be read at a glance.",
     "douceur": "In this mild air, a Russian dance, in small steps."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
   },
   {
    "id": "van-doesburg-composition-viii-la-vache",
@@ -13322,7 +13511,8 @@
     "douceur": "In this mild air, van Doesburg's cow grazes in rectangles.",
     "soleil": "Under this sun, these colors of meadow and farm are out and about.",
     "variable": "An undecided sky, a cow undecided between figure and abstraction."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
   },
   {
    "id": "moholy-nagy-a-ii",
@@ -13402,7 +13592,8 @@
     "clair": "In this clear weather, these beams of light cut through the air.",
     "brouillard": "In this fog, Moholy-Nagy's transparencies take on their full meaning.",
     "nuages": "Under this gray sky, these planes passing through one another suit the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy"
   },
   {
    "id": "moholy-nagy-composition-a-xx",
@@ -13483,7 +13674,8 @@
     "clair": "In this clear weather, Moholy-Nagy's circle is a sundial.",
     "nuages": "Under this gray-beige sky, these sober colors are exactly the day.",
     "froid": "In this cold, this calm Constructivism is fitting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy"
   },
   {
    "id": "schwitters-das-undbild",
@@ -13563,7 +13755,8 @@
     "pluie": "In this rain, one thinks of the wet papers Schwitters used to gather.",
     "nuages": "Under this gray sky, these street browns and grays suit the season.",
     "vent": "In this wind, the city throws away its papers; Schwitters gathers them up."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Kurt_Schwitters"
   },
   {
    "id": "taeuber-arp-composition-verticale-horizontale",
@@ -13643,7 +13836,8 @@
     "douceur": "In this mild air, this fabric of colors is warm without being heavy.",
     "nuages": "Under this veiled sky, these muted tones suit the season.",
     "froid": "In this cold, one would gladly wrap up in this composition."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp"
   },
   {
    "id": "taeuber-arp-composition-dada",
@@ -13723,7 +13917,8 @@
     "soleil": "Under this sun, the Dada head smiles.",
     "douceur": "In this mild air, these circles of color are joyful.",
     "variable": "Changing weather, a face hesitating between laughter and geometry."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp"
   },
   {
    "id": "marc-formes-en-lutte",
@@ -13803,7 +13998,8 @@
     "orage": "In this stormy weather, Marc's fighting forms clash in the sky.",
     "vent": "This wind drives the red against the blue.",
     "nuages": "Under this violent sky, this battle of colors suits the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Franz_Marc"
   },
   {
    "id": "marc-cheval-bleu-i",
@@ -13883,7 +14079,8 @@
     "soleil": "Under this sun, Marc's red hills and blue horse are out and about.",
     "douceur": "In this mild air, one would stroke that blue horse.",
     "coucher_soleil": "Tonight, that pink sky behind a blue horse."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Franz_Marc"
   },
   {
    "id": "marc-destins-d-animaux",
@@ -13962,7 +14159,8 @@
     "orage": "In this stormy weather, Marc's forest blazes up in the sky.",
     "vent": "This wind sends Marc's animals fleeing.",
     "coucher_soleil": "Tonight, those red rays in the forest."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Franz_Marc"
   },
   {
    "id": "marc-la-vache-jaune",
@@ -14042,7 +14240,8 @@
     "soleil": "Under this sun, Marc's yellow cow leaps in the meadow.",
     "douceur": "In this mild air, one understands this happy cow.",
     "beau_temps": "A fine day, a dancing cow: that is this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Franz_Marc"
   },
   {
    "id": "macke-formes-colorees-i",
@@ -14122,7 +14321,8 @@
     "soleil": "Under this sun, these planes of color shine like stained glass.",
     "clair": "In this clear weather, Macke's facets light up.",
     "printemps": "On a spring day, these fresh colors suit the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/August_Macke"
   },
   {
    "id": "picabia-edtaonisl",
@@ -14202,7 +14402,8 @@
     "vent": "In this wind, the propeller of Edtaonisl turns.",
     "orage": "This electric sky suits this tumult of forms.",
     "variable": "Weather that never stops turning, like this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Francis_Picabia"
   },
   {
    "id": "leger-la-ville",
@@ -14283,7 +14484,8 @@
     "soleil": "Under this sun, Léger's city snaps like a poster.",
     "vent": "In this wind, the posters and letters of the street fly off.",
     "clair": "In this clear weather, every facade stands out sharply."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Fernand_L%C3%A9ger"
   },
   {
    "id": "boccioni-la-ville-se-leve",
@@ -14363,7 +14565,8 @@
     "vent": "In this wind, Boccioni's horses bolt.",
     "chaleur": "In this heat, this blazing construction site suits the season.",
     "orage": "This stormy sky suits this overflowing energy."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Umberto_Boccioni"
   },
   {
    "id": "boccioni-dynamisme-d-un-cycliste",
@@ -14443,7 +14646,8 @@
     "vent": "In this wind, Boccioni's cyclist cuts through the air.",
     "soleil": "Under this sun, these curves of speed gleam.",
     "variable": "A racing sky, a racing cyclist."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Umberto_Boccioni"
   },
   {
    "id": "dove-nature-symbolisee-2",
@@ -14523,7 +14727,8 @@
     "vent": "In this wind, Dove's leaves ripple.",
     "nuages": "Under this veiled sky, these greens and browns suit the season.",
     "automne": "On an autumn day, Dove's symbolized nature is in full color."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Arthur_Dove"
   },
   {
    "id": "hartley-portrait-d-un-officier-allemand",
@@ -14602,7 +14807,8 @@
     "nuit": "Tonight, this black ground strewn with emblems is a sky of mourning and colors.",
     "froid": "In this cold, these military colors on black suit the season.",
     "nuages": "Under this dark sky, Hartley's abstract tomb finds its hour."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Marsden_Hartley"
   },
   {
    "id": "morgner-composition-astrale-xi",
@@ -14682,7 +14888,8 @@
     "soleil": "Under this sun, Morgner's astral composition turns as it does.",
     "orage": "In this stormy weather, these rays explode.",
     "variable": "A turning sky, an exploding sun."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Wilhelm_Morgner"
   },
   {
    "id": "vangogh-iris-getty",
@@ -14759,7 +14966,8 @@
     "printemps": "These May irises are the flowers of a spring day like today.",
     "soleil": "Under this sun, the violet of the irises and the orange of the marigolds answer each other.",
     "douceur": "In this mild air, one would sit down in that garden at Saint-Rémy."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
   },
   {
    "id": "monet-meules-effet-de-neige-matin",
@@ -14839,7 +15047,8 @@
     "neige": "After last night's snow, Monet's wheatstacks have exactly these blue shadows.",
     "froid": "In this clear cold, a morning just like that one.",
     "clair": "A pink winter-morning sky: that is this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "monet-soleil-levant-marine",
@@ -14920,7 +15129,8 @@
     "brouillard": "In this morning's mist, Monet's harbor is within reach.",
     "nuages": "Under this gray-blue sky, this seascape is exactly the day.",
     "humide": "In this damp weather, we find the mist of Le Havre again."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "turner-rome-moderne",
@@ -14999,7 +15209,8 @@
     "coucher_soleil": "Tonight, Turner's golden light on the ruins.",
     "brouillard": "In this haze, Turner's Forum is everywhere.",
     "douceur": "In this golden mildness, Rome melts into the light."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/J._M._W._Turner"
   },
   {
    "id": "millet-l-homme-a-la-houe",
@@ -15077,7 +15288,8 @@
     "chaleur": "In this heat, one understands this man leaning on his hoe.",
     "soleil": "Under this white sun, Millet's field of stones burns.",
     "nuages": "Under this pale sky, the weariness of Millet's peasant suits the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet"
   },
   {
    "id": "renoir-la-promenade",
@@ -15155,7 +15367,8 @@
     "soleil": "Under this sun, the light falls between the leaves as it does in Renoir.",
     "douceur": "In this mild air, one would follow those two into the undergrowth.",
     "beau_temps": "A fine day, a stroll: the title says it all."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
   },
   {
    "id": "manet-jeanne-le-printemps",
@@ -15233,7 +15446,8 @@
     "printemps": "On a spring day, Jeanne and her parasol are out and about.",
     "soleil": "Under this sun, these flowers and these greens suit the season.",
     "douceur": "In this mild air, one understands Jeanne's restrained smile."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/%C3%89douard_Manet"
   },
   {
    "id": "cezanne-nature-morte-aux-pommes-getty",
@@ -15311,7 +15525,8 @@
     "pluie": "On a rainy day, these apples on the table are good company.",
     "nuages": "Under this gray sky, Cézanne's calm light on the fruit.",
     "automne": "On an autumn day, apples: this is Cézanne's season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
   },
   {
    "id": "ensor-entree-du-christ-a-bruxelles",
@@ -15392,7 +15607,8 @@
     "orage": "In this stormy weather, Ensor's crowd parades beneath its masks.",
     "vent": "In this wind, Ensor's banners and masks are set astir.",
     "chaleur": "In this heat, his stifling carnival suits the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/James_Ensor"
   },
   {
    "id": "munch-nuit-etoilee",
@@ -15471,7 +15687,8 @@
     "nuit": "Tonight, Munch's night descends upon the city, blue and deep.",
     "clair": "Under this clear sky, tonight, the same stars.",
     "calme": "A calm night, a beach, two shadows: that is this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Edvard_Munch"
   },
   {
    "id": "rembrandt-enlevement-d-europe",
@@ -15549,7 +15766,8 @@
     "coucher_soleil": "This evening, Rembrandt's pink and blue sky above the sea.",
     "vent": "In this wind, the white bull races for the open water.",
     "nuages": "Beneath this shifting sky, the abduction of Europa unfolds at the water's edge."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Rembrandt"
   },
   {
    "id": "fragonard-fontaine-d-amour",
@@ -15628,7 +15846,8 @@
     "nuit": "As day falls, these two lovers run toward the fountain.",
     "douceur": "In this mild evening air, Fragonard's rush of feeling suits the season.",
     "brouillard": "In this mist, the fountain of love appears."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard"
   },
   {
    "id": "david-adieux-de-telemaque-et-eucharis",
@@ -15707,7 +15926,8 @@
     "froid": "In this cold, David's smooth, cool light is fitting.",
     "clair": "In this clear weather, these crisp colours stand out.",
     "nuages": "Beneath this veiled sky, Telemachus's farewell suits the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Jacques-Louis_David"
   },
   {
    "id": "vangogh-oliviers-mia",
@@ -15785,7 +16005,8 @@
     "automne": "On an autumn day, Van Gogh's orange earth and olive trees.",
     "soleil": "Under this sun, those twisted trunks ripple in the heat.",
     "vent": "In this wind, Van Gogh's olive trees shiver."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
   },
   {
    "id": "monet-meule-soleil-dans-la-brume",
@@ -15864,7 +16085,8 @@
     "brouillard": "In this morning mist, Monet's grainstack dissolves.",
     "douceur": "In this autumn mildness, that pink light suits the season.",
     "soleil": "Under this sun breaking through, Monet's mist lifts away."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "rembrandt-lucrece",
@@ -15943,7 +16165,8 @@
     "nuit": "Tonight, this light upon a grave face.",
     "pluie": "On a rainy day, Rembrandt's gravity keeps you company.",
     "froid": "In this cold, these golds and shadows barely give warmth."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Rembrandt"
   },
   {
    "id": "bonnard-salle-a-manger-a-la-campagne",
@@ -16022,7 +16245,8 @@
     "chaleur": "In this heat, one would throw open door and window, as at Bonnard's.",
     "soleil": "Under this sun, Bonnard's red dining room and blue garden.",
     "douceur": "In this mildness, one would lunch with the door open."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Pierre_Bonnard"
   },
   {
    "id": "goya-autoportrait-avec-le-docteur-arrieta",
@@ -16100,7 +16324,8 @@
     "froid": "In this cold, one thinks of Goya's fever and his doctor's steadying hand.",
     "nuit": "Tonight, this sickroom light.",
     "pluie": "On a rainy day, this painting of gratitude keeps you warm."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Francisco_Goya"
   },
   {
    "id": "poussin-la-mort-de-germanicus",
@@ -16178,7 +16403,8 @@
     "nuages": "Beneath this solemn sky, Poussin's soldiers swear their revenge.",
     "froid": "In this cold, this scene of ancient mourning suits the season.",
     "pluie": "On a rainy day, the gravity of Poussin."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Nicolas_Poussin"
   },
   {
    "id": "hokusai-grande-vague-mia",
@@ -16258,7 +16484,8 @@
     "vent": "Today's gusts recall the force that lifts this wave.",
     "orage": "In this turbulent weather, Hokusai's sea feels particularly near.",
     "pluie": "In the rain, this deep blue and its spray seem almost within reach."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hokusai"
   },
   {
    "id": "bierstadt-dans-la-sierra-nevada",
@@ -16336,7 +16563,8 @@
     "variable": "This sky of mingled sun and storm is Bierstadt's own.",
     "soleil": "Under this sun piercing the clouds, Bierstadt's Sierra lights up.",
     "orage": "After the storm, these rays upon the lake."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Albert_Bierstadt"
   },
   {
    "id": "homer-haute-falaise-cote-du-maine",
@@ -16415,7 +16643,8 @@
     "orage": "In this stormy weather, Homer's sea hurls itself against the cliff.",
     "vent": "This is the wind that lifts Homer's spray.",
     "nuages": "Beneath this heavy grey sky, the coast of Maine."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Winslow_Homer"
   },
   {
    "id": "moran-grand-canyon-du-yellowstone",
@@ -16494,7 +16723,8 @@
     "soleil": "Under this sun, Moran's yellow cliffs blaze.",
     "clair": "Under this clear sky, Moran's Yellowstone opens wide.",
     "chaleur": "In this heat, those warm rocks and that waterfall."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Thomas_Moran"
   },
   {
    "id": "hassam-dans-le-jardin-celia-thaxter",
@@ -16571,7 +16801,8 @@
     "soleil": "Under this sun, Hassam's poppies are in bloom.",
     "douceur": "In this mildness, one would stroll through that island garden.",
     "beau_temps": "A fine summer's day, a garden, the sea: that is this painting."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Childe_Hassam"
   },
   {
    "id": "thayer-ange",
@@ -16649,7 +16880,8 @@
     "nuages": "Beneath this grey-blue sky, Thayer's angel spreads her wings.",
     "clair": "In this clear, calm weather, that white on blue.",
     "neige": "In the snow, these white wings suit the season."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Abbott_Handerson_Thayer"
   },
   {
    "id": "ryder-le-hollandais-volant",
@@ -16728,7 +16960,8 @@
     "orage": "In this stormy weather, the Flying Dutchman passes offshore.",
     "vent": "This is the wind that fills the ghost ship's sails.",
     "nuit": "Tonight, in the dark, a small boat and a vessel passing."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Albert_Pinkham_Ryder"
   },
   {
    "id": "whistler-nocturne-valparaiso",
@@ -16808,7 +17041,8 @@
     "nuit": "Tonight, Whistler's harbour kindles with a few golden lights.",
     "brouillard": "In this fog, the ships become ghosts.",
     "calme": "A calm night on the water, and a few glints of gold."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
   },
   {
    "id": "monet-soleil-couchant-lavacourt",
@@ -16887,7 +17121,8 @@
     "coucher_soleil": "This evening, the orange sun in the cold mist, as at Lavacourt.",
     "froid": "In this cold, that winter sun upon the water.",
     "brouillard": "In this icy mist, Monet's Seine."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "courbet-demoiselles-des-bords-de-la-seine",
@@ -16964,7 +17199,8 @@
     "chaleur": "In this heat, one would stretch out in the grass like these two.",
     "soleil": "Under this summer sun, a nap at the water's edge.",
     "douceur": "In this mildness, a boat, a tree, a nap."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Gustave_Courbet"
   },
   {
    "id": "beraud-boulevard-poissonniere-sous-la-pluie",
@@ -17045,7 +17281,8 @@
     "pluie": "In this rain, Béraud's boulevard is exactly your own.",
     "averse": "This downpour, those umbrellas, those carriages.",
     "nuages": "Beneath this grey sky, Béraud's Paris."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Jean_B%C3%A9raud"
   },
   {
    "id": "beraud-boulevard-montmartre-la-nuit",
@@ -17126,7 +17363,8 @@
     "nuit": "Tonight, the lights of Béraud's boulevard come on.",
     "douceur": "In this mild evening air, one would step out onto the boulevard.",
     "pluie": "Under an evening rain, Béraud's pavements gleam."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Jean_B%C3%A9raud"
   },
   {
    "id": "sisley-eglise-de-moret-le-soir",
@@ -17206,7 +17444,8 @@
     "coucher_soleil": "This evening, the pink stone of Sisley's church.",
     "douceur": "In this mild close of day, the square at Moret.",
     "clair": "In this clear weather, the raking light upon the stone."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Alfred_Sisley"
   },
   {
    "id": "marquet-notre-dame-sous-la-neige",
@@ -17286,7 +17525,8 @@
     "neige": "In the snow, Paris is exactly this painting by Marquet.",
     "froid": "In this grey cold, Notre-Dame seen from the quay.",
     "nuages": "Beneath this leaden sky, Marquet's white rooftops."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Albert_Marquet"
   },
   {
    "id": "pissarro-pont-royal-pavillon-de-flore",
@@ -17364,7 +17604,8 @@
     "nuages": "Beneath this soft grey sky, Pissarro's Paris.",
     "douceur": "In this veiled mildness, the quays and the booksellers.",
     "humide": "This damp, calm weather is Pissarro's Seine."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Camille_Pissarro"
   },
   {
    "id": "rembrandt-portrait-en-costume-oriental",
@@ -17442,7 +17683,8 @@
     "froid": "In this cold, Rembrandt's velvet cloak is enviable.",
     "nuit": "Tonight, this Oriental prince and his poodle.",
     "pluie": "On a rainy day, a costume ball at Rembrandt's."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Rembrandt"
   },
   {
    "id": "luce-pont-saint-michel",
@@ -17522,7 +17764,8 @@
     "douceur": "In this mildness, Luce's quays at the close of day.",
     "soleil": "Under this low sun, the Seine and its floating baths.",
     "nuages": "Beneath this veiled sky, the Pont Saint-Michel."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Maximilien_Luce"
   },
   {
    "id": "ryder-travailleurs-de-la-mer",
@@ -17601,7 +17844,8 @@
     "nuit": "Tonight, Ryder's moon above the water.",
     "nuages": "Beneath this moon-pierced sky, Ryder's boat.",
     "vent": "In this wind, Ryder's sail runs through the night."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Albert_Pinkham_Ryder"
   },
   {
    "id": "la-tour-madeleine-penitente",
@@ -17681,7 +17925,8 @@
     "nuit": "Tonight, a candle, a mirror, and the silence of La Tour.",
     "froid": "In this cold, that flame in the darkness gives warmth.",
     "pluie": "On a rainy day, one meditates with the Magdalene."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Georges_de_La_Tour"
   },
   {
    "id": "whistler-nocturne-southampton",
@@ -17760,7 +18005,8 @@
     "nuit": "Tonight, Whistler's blue and gold upon the water.",
     "brouillard": "In this mist, Whistler's ships become shadows.",
     "calme": "A calm evening on the water: that is this nocturne."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
   },
   {
    "id": "grimshaw-chemin-la-nuit",
@@ -17840,7 +18086,8 @@
     "nuit": "Tonight, Grimshaw's moon between the branches.",
     "froid": "In this cold, that damp lane beneath the moon.",
     "brouillard": "In this mist, Grimshaw's bare branches."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/John_Atkinson_Grimshaw"
   },
   {
    "id": "hiroshige-feux-d-artifice-ryogoku",
@@ -17918,7 +18165,8 @@
     "nuit": "Tonight, Hiroshige's fireworks above the river.",
     "chaleur": "In this summer heat, a festival night on the water.",
     "clair": "Under this clear night sky, one could see the fireworks."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hiroshige"
   },
   {
    "id": "hiroshige-asukayama-neige-du-soir",
@@ -17996,7 +18244,8 @@
     "neige": "Under this evening's snow, Hiroshige's hill.",
     "froid": "In this cold, those strollers bent low in the snow.",
     "nuit": "As day falls, the snow turns blue, as it does here."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hiroshige"
   },
   {
    "id": "hokusai-matin-apres-la-neige-koishikawa",
@@ -18075,7 +18324,8 @@
     "neige": "After last night's snow, a clear morning as at Koishikawa.",
     "clair": "Under this clear, cold sky, one would point at the mountain.",
     "froid": "In this sharp cold, a warm inn and a beautiful view."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Hokusai"
   },
   {
    "id": "monet-gare-saint-lazare-train-de-normandie",
@@ -18155,7 +18405,8 @@
     "brouillard": "In this fog, we are beneath the glass canopy of Saint-Lazare.",
     "nuages": "Beneath this grey sky, Monet's steam rises toward the glass.",
     "froid": "In this cold, the steam of Monet's trains."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "monet-charing-cross-bridge",
@@ -18234,7 +18485,8 @@
     "brouillard": "In this fog, Monet's Thames.",
     "nuages": "Beneath this low sky, Charing Cross Bridge dissolves.",
     "humide": "In this damp weather, everything turns mauve, as it does in Monet."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Claude_Monet"
   },
   {
    "id": "cassatt-le-bain-de-l-enfant",
@@ -18314,7 +18566,8 @@
     "pluie": "On a rainy day, this moment of tenderness at home.",
     "chaleur": "In this heat, a cool footbath.",
     "douceur": "In this mildness, this quiet gesture."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Mary_Cassatt"
   },
   {
    "id": "bonheur-le-marche-aux-chevaux",
@@ -18393,7 +18646,8 @@
     "chaleur": "In this heat, Rosa Bonheur's dust and horses.",
     "vent": "In this wind, the manes toss.",
     "soleil": "Under this summer sun, the horse fair."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Rosa_Bonheur"
   },
   {
    "id": "gentileschi-esther-devant-assuerus",
@@ -18472,7 +18726,8 @@
     "nuages": "Beneath this dramatic sky, Esther's swoon.",
     "chaleur": "In this heat, one understands the queen's faintness.",
     "orage": "In this stormy weather, Gentileschi's drama."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
   },
   {
    "id": "vigee-le-brun-madame-grand",
@@ -18551,7 +18806,8 @@
     "clair": "Under this clear sky, Madame Grand lifts her eyes.",
     "douceur": "In this mildness, that blue satin and that porcelain skin.",
     "nuages": "Beneath this veiled sky, that upturned gaze."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun"
   },
   {
    "id": "morisot-la-robe-rose",
@@ -18630,7 +18886,8 @@
     "douceur": "In this mildness, a pink dress in a bright drawing room.",
     "soleil": "Under this pale sun, Morisot's light.",
     "printemps": "On a spring day, this pink and this white."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Berthe_Morisot"
   },
   {
    "id": "korin-iris-a-yatsuhashi",
@@ -18708,7 +18965,8 @@
     "soleil": "Under this sun, Kōrin's gold gleams and the irises stand tall.",
     "printemps": "On a spring day, the irises and the zigzag bridge.",
     "douceur": "In this mildness, one would cross the eight bridges."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Ogata_K%C5%8Drin"
   },
   {
    "id": "guo-xi-vieux-arbres-lointain-plat",
@@ -18788,7 +19046,8 @@
     "brouillard": "In this mist, Guo Xi's valley stretches on without end.",
     "automne": "On an autumn day, these bare trees and that far distance.",
     "calme": "A calm, faraway day, in the manner of the Song."
-   }
+   },
+   "wikipedia_artiste_en": "https://en.wikipedia.org/wiki/Guo_Xi"
   },
   {
    "id": "bahram-gur-pavillon-noir",
