@@ -36,4 +36,4 @@
 échec monet-charing-cross-bridge https://www.artic.edu/iiif/2/e9179922-f68d-34c5-481d-abf49e046863/full/843,/0/default.jpg → HTTP 403
 échec monet-charing-cross-bridge https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fe9179922-f68d-34c5-481d-abf49e046 → HTTP 404
 échec monet-charing-cross-bridge https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fe9179922-f68d-34c5-481d-abf49e046 → HTTP 404
-bilan: 27 ok, 11 échecs, 227 total
+bilan: 0 ok, 11 échecs, 227 total
