@@ -258,5 +258,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-28T06:30:24.341Z"
+ },
+ "TOKYO+2026-08-29": {
+  "id": "qu-ding-montagnes-d-ete",
+  "artiste": "Qu Ding (attribué à)",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et voilé est celui des montagnes chinoises en été.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 24,
+   "temp_max": 25,
+   "temp_min": 20,
+   "precip_mm": 5.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-28T21:57:16.088Z"
  }
 }
