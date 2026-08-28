@@ -358,5 +358,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-28T22:14:44.855Z"
+ },
+ "LONDRES+2026-08-29": {
+  "id": "beraud-boulevard-poissonniere-sous-la-pluie",
+  "artiste": "Jean Béraud",
+  "categorie": "figuratif",
+  "echo": "Sous cette pluie, le boulevard de Béraud est exactement le vôtre.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 20,
+   "temp_min": 18,
+   "precip_mm": 6,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-28T23:14:59.318Z"
  }
 }
