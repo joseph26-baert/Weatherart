@@ -1,83 +1,15 @@
-échec vangogh-chambre-arles https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/1686,/0/default.jpg → HTTP 403
-échec vangogh-chambre-arles https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg → HTTP 403
-échec vangogh-chambre-arles https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F6644829f-f292-c5c4-a73c-0356a6fdb → HTTP 404
-échec vangogh-chambre-arles https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F6644829f-f292-c5c4-a73c-0356a6fdb → HTTP 404
-échec caillebotte-rue-de-paris-temps-de-pluie https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/1686,/0/default.jpg → HTTP 403
-échec caillebotte-rue-de-paris-temps-de-pluie https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg → HTTP 403
-échec caillebotte-rue-de-paris-temps-de-pluie https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Ff8fd76e9-c396-5678-36ed-6a348c904 → HTTP 404
-échec caillebotte-rue-de-paris-temps-de-pluie https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Ff8fd76e9-c396-5678-36ed-6a348c904 → HTTP 404
-échec seurat-grande-jatte https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/1686,/0/default.jpg → HTTP 403
-échec seurat-grande-jatte https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg → HTTP 403
-échec seurat-grande-jatte https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F2d484387-2509-5e8e-2c43-22f998197 → HTTP 404
-échec seurat-grande-jatte https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F2d484387-2509-5e8e-2c43-22f998197 → HTTP 404
-échec renoir-deux-soeurs https://www.artic.edu/iiif/2/3a608f55-d76e-fa96-d0b1-0789fbc48f1e/full/1686,/0/default.jpg → HTTP 403
-échec renoir-deux-soeurs https://www.artic.edu/iiif/2/3a608f55-d76e-fa96-d0b1-0789fbc48f1e/full/843,/0/default.jpg → HTTP 403
-échec renoir-deux-soeurs https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F3a608f55-d76e-fa96-d0b1-0789fbc48 → HTTP 404
-échec renoir-deux-soeurs https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F3a608f55-d76e-fa96-d0b1-0789fbc48 → HTTP 404
 échec monet-meule-effet-de-neige https://www.artic.edu/iiif/2/db36f74f-47d9-ad08-cdf9-b4b436e6d18c/full/1686,/0/default.jpg → HTTP 403
 échec monet-meule-effet-de-neige https://www.artic.edu/iiif/2/db36f74f-47d9-ad08-cdf9-b4b436e6d18c/full/843,/0/default.jpg → HTTP 403
 échec monet-meule-effet-de-neige https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fdb36f74f-47d9-ad08-cdf9-b4b436e6d → HTTP 404
 échec monet-meule-effet-de-neige https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fdb36f74f-47d9-ad08-cdf9-b4b436e6d → HTTP 404
-échec kandinsky-improvisation-30-canons https://www.artic.edu/iiif/2/b5bc6b66-9e6e-fe57-dcec-fc49e820e904/full/1686,/0/default.jpg → HTTP 403
-échec kandinsky-improvisation-30-canons https://www.artic.edu/iiif/2/b5bc6b66-9e6e-fe57-dcec-fc49e820e904/full/843,/0/default.jpg → HTTP 403
-échec kandinsky-improvisation-30-canons https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fb5bc6b66-9e6e-fe57-dcec-fc49e820e → HTTP 404
-échec kandinsky-improvisation-30-canons https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fb5bc6b66-9e6e-fe57-dcec-fc49e820e → HTTP 404
-échec kandinsky-peinture-au-centre-vert https://www.artic.edu/iiif/2/c68f33ec-feb1-5277-334b-b71ac15ae394/full/1686,/0/default.jpg → HTTP 403
-échec kandinsky-peinture-au-centre-vert https://www.artic.edu/iiif/2/c68f33ec-feb1-5277-334b-b71ac15ae394/full/843,/0/default.jpg → HTTP 403
-échec kandinsky-peinture-au-centre-vert https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fc68f33ec-feb1-5277-334b-b71ac15ae → HTTP 404
-échec kandinsky-peinture-au-centre-vert https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fc68f33ec-feb1-5277-334b-b71ac15ae → HTTP 404
-échec mondrian-composition-losange-1921 https://www.artic.edu/iiif/2/25f660ee-f1db-d13b-42a5-56df97c98ba7/full/1686,/0/default.jpg → HTTP 403
-échec mondrian-composition-losange-1921 https://www.artic.edu/iiif/2/25f660ee-f1db-d13b-42a5-56df97c98ba7/full/843,/0/default.jpg → HTTP 403
-échec mondrian-composition-losange-1921 https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F25f660ee-f1db-d13b-42a5-56df97c98 → HTTP 404
-échec mondrian-composition-losange-1921 https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F25f660ee-f1db-d13b-42a5-56df97c98 → HTTP 404
 échec mondrian-composition-no1-gris-rouge https://www.artic.edu/iiif/2/254c654f-354a-0f4f-28b5-8eb01a02e95c/full/1686,/0/default.jpg → HTTP 403
 échec mondrian-composition-no1-gris-rouge https://www.artic.edu/iiif/2/254c654f-354a-0f4f-28b5-8eb01a02e95c/full/843,/0/default.jpg → HTTP 403
 échec mondrian-composition-no1-gris-rouge https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F254c654f-354a-0f4f-28b5-8eb01a02e → HTTP 404
 échec mondrian-composition-no1-gris-rouge https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F254c654f-354a-0f4f-28b5-8eb01a02e → HTTP 404
-échec marc-moulin-ensorcele https://www.artic.edu/iiif/2/6829aab0-8d0e-9438-aebf-a1a379572951/full/1686,/0/default.jpg → HTTP 403
-échec marc-moulin-ensorcele https://www.artic.edu/iiif/2/6829aab0-8d0e-9438-aebf-a1a379572951/full/843,/0/default.jpg → HTTP 403
-échec marc-moulin-ensorcele https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F6829aab0-8d0e-9438-aebf-a1a379572 → HTTP 404
-échec marc-moulin-ensorcele https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F6829aab0-8d0e-9438-aebf-a1a379572 → HTTP 404
 échec hartley-movement https://www.artic.edu/iiif/2/173ec65a-bc7e-067c-fed1-1677bf5f26a9/full/1686,/0/default.jpg → HTTP 403
 échec hartley-movement https://www.artic.edu/iiif/2/173ec65a-bc7e-067c-fed1-1677bf5f26a9/full/843,/0/default.jpg → HTTP 403
 échec hartley-movement https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F173ec65a-bc7e-067c-fed1-1677bf5f2 → HTTP 404
 échec hartley-movement https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F173ec65a-bc7e-067c-fed1-1677bf5f2 → HTTP 404
-échec monet-sandvika-norvege https://www.artic.edu/iiif/2/07d8dd31-d44b-85aa-ab09-ca51ee86f631/full/1686,/0/default.jpg → HTTP 403
-échec monet-sandvika-norvege https://www.artic.edu/iiif/2/07d8dd31-d44b-85aa-ab09-ca51ee86f631/full/843,/0/default.jpg → HTTP 403
-échec monet-sandvika-norvege https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F07d8dd31-d44b-85aa-ab09-ca51ee86f → HTTP 404
-échec monet-sandvika-norvege https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F07d8dd31-d44b-85aa-ab09-ca51ee86f → HTTP 404
-échec pissarro-garenne-pontoise-neige https://www.artic.edu/iiif/2/053f9be8-3617-c4ef-36cd-1deb5e13b288/full/1686,/0/default.jpg → HTTP 403
-échec pissarro-garenne-pontoise-neige https://www.artic.edu/iiif/2/053f9be8-3617-c4ef-36cd-1deb5e13b288/full/843,/0/default.jpg → HTTP 403
-échec pissarro-garenne-pontoise-neige https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F053f9be8-3617-c4ef-36cd-1deb5e13b → HTTP 404
-échec pissarro-garenne-pontoise-neige https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F053f9be8-3617-c4ef-36cd-1deb5e13b → HTTP 404
-échec lautrec-au-moulin-rouge https://www.artic.edu/iiif/2/defb4004-b500-218d-3d9b-9a02423f097d/full/1686,/0/default.jpg → HTTP 403
-échec lautrec-au-moulin-rouge https://www.artic.edu/iiif/2/defb4004-b500-218d-3d9b-9a02423f097d/full/843,/0/default.jpg → HTTP 403
-échec lautrec-au-moulin-rouge https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fdefb4004-b500-218d-3d9b-9a02423f0 → HTTP 404
-échec lautrec-au-moulin-rouge https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fdefb4004-b500-218d-3d9b-9a02423f0 → HTTP 404
-échec degas-chez-la-modiste https://www.artic.edu/iiif/2/6f513908-03cc-b974-633b-adfce56b7936/full/1686,/0/default.jpg → HTTP 403
-échec degas-chez-la-modiste https://www.artic.edu/iiif/2/6f513908-03cc-b974-633b-adfce56b7936/full/843,/0/default.jpg → HTTP 403
-échec degas-chez-la-modiste https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F6f513908-03cc-b974-633b-adfce56b7 → HTTP 404
-échec degas-chez-la-modiste https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F6f513908-03cc-b974-633b-adfce56b7 → HTTP 404
-échec gauguin-arlesiennes-mistral https://www.artic.edu/iiif/2/ae6ac285-6887-dd76-4570-d379c786dfae/full/1686,/0/default.jpg → HTTP 403
-échec gauguin-arlesiennes-mistral https://www.artic.edu/iiif/2/ae6ac285-6887-dd76-4570-d379c786dfae/full/843,/0/default.jpg → HTTP 403
-échec gauguin-arlesiennes-mistral https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fae6ac285-6887-dd76-4570-d379c786d → HTTP 404
-échec gauguin-arlesiennes-mistral https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fae6ac285-6887-dd76-4570-d379c786d → HTTP 404
-échec cezanne-baie-de-marseille https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/1686,/0/default.jpg → HTTP 403
-échec cezanne-baie-de-marseille https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/843,/0/default.jpg → HTTP 403
-échec cezanne-baie-de-marseille https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fd4ca6321-8656-3d3f-a362-2ee297b2b → HTTP 404
-échec cezanne-baie-de-marseille https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fd4ca6321-8656-3d3f-a362-2ee297b2b → HTTP 404
-échec modigliani-lipchitz https://www.artic.edu/iiif/2/7e649536-b186-c3f5-3e6d-0d22d5d798ef/full/1686,/0/default.jpg → HTTP 403
-échec modigliani-lipchitz https://www.artic.edu/iiif/2/7e649536-b186-c3f5-3e6d-0d22d5d798ef/full/843,/0/default.jpg → HTTP 403
-échec modigliani-lipchitz https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F7e649536-b186-c3f5-3e6d-0d22d5d79 → HTTP 404
-échec modigliani-lipchitz https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F7e649536-b186-c3f5-3e6d-0d22d5d79 → HTTP 404
-échec kandinsky-paysage-deux-peupliers https://www.artic.edu/iiif/2/9694ca0c-c4c4-e48d-566f-4d248990cff4/full/1686,/0/default.jpg → HTTP 403
-échec kandinsky-paysage-deux-peupliers https://www.artic.edu/iiif/2/9694ca0c-c4c4-e48d-566f-4d248990cff4/full/843,/0/default.jpg → HTTP 403
-échec kandinsky-paysage-deux-peupliers https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F9694ca0c-c4c4-e48d-566f-4d248990c → HTTP 404
-échec kandinsky-paysage-deux-peupliers https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F9694ca0c-c4c4-e48d-566f-4d248990c → HTTP 404
-échec kandinsky-peinture-avec-troika https://www.artic.edu/iiif/2/a45e5f55-d02b-ce98-8bab-3af549684f58/full/1686,/0/default.jpg → HTTP 403
-échec kandinsky-peinture-avec-troika https://www.artic.edu/iiif/2/a45e5f55-d02b-ce98-8bab-3af549684f58/full/843,/0/default.jpg → HTTP 403
-échec kandinsky-peinture-avec-troika https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fa45e5f55-d02b-ce98-8bab-3af549684 → HTTP 404
-échec kandinsky-peinture-avec-troika https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fa45e5f55-d02b-ce98-8bab-3af549684 → HTTP 404
 échec hartley-movement-no-10 https://www.artic.edu/iiif/2/768387ba-f972-b43b-39f7-98cb37dad883/full/1686,/0/default.jpg → HTTP 403
 échec hartley-movement-no-10 https://www.artic.edu/iiif/2/768387ba-f972-b43b-39f7-98cb37dad883/full/843,/0/default.jpg → HTTP 403
 échec hartley-movement-no-10 https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F768387ba-f972-b43b-39f7-98cb37dad → HTTP 404
@@ -86,74 +18,22 @@
 échec mondrian-etude-pour-composition https://www.artic.edu/iiif/2/7942129f-6b16-3b82-d727-14b71165b050/full/843,/0/default.jpg → HTTP 403
 échec mondrian-etude-pour-composition https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F7942129f-6b16-3b82-d727-14b71165b → HTTP 404
 échec mondrian-etude-pour-composition https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F7942129f-6b16-3b82-d727-14b71165b → HTTP 404
-échec kandinsky-maisons-a-murnau https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/1686,/0/default.jpg → HTTP 403
-échec kandinsky-maisons-a-murnau https://www.artic.edu/iiif/2/3f732b69-0ae7-7d1e-ad53-e20b0cc2de72/full/843,/0/default.jpg → HTTP 403
-échec kandinsky-maisons-a-murnau https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F3f732b69-0ae7-7d1e-ad53-e20b0cc2d → HTTP 404
-échec kandinsky-maisons-a-murnau https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F3f732b69-0ae7-7d1e-ad53-e20b0cc2d → HTTP 404
 échec marc-le-taureau https://www.artic.edu/iiif/2/66011122-fd4f-6110-0b83-01a26d9cff2e/full/1686,/0/default.jpg → HTTP 403
 échec marc-le-taureau https://www.artic.edu/iiif/2/66011122-fd4f-6110-0b83-01a26d9cff2e/full/843,/0/default.jpg → HTTP 403
 échec marc-le-taureau https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F66011122-fd4f-6110-0b83-01a26d9cf → HTTP 404
 échec marc-le-taureau https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F66011122-fd4f-6110-0b83-01a26d9cf → HTTP 404
-échec vangogh-oliviers-mia https://api.artsmia.org/images/1218/large.jpg → HTTP réseau: fetch failed
-échec vangogh-oliviers-mia https://api.artsmia.org/images/1218/medium.jpg → HTTP réseau: fetch failed
-échec vangogh-oliviers-mia https://iiif.artsmia.org/1218.jpg/full/1400,/0/default.jpg → HTTP réseau: fetch failed
-échec vangogh-oliviers-mia https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F1218%2Flarge.jpg → HTTP 404
-échec vangogh-oliviers-mia https://iiif.artsmia.org/1218/medium.jpg → HTTP réseau: fetch failed
-échec vangogh-oliviers-mia https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F1218%2Fmedium.jpg → HTTP 404
-échec monet-meule-soleil-dans-la-brume https://api.artsmia.org/images/10436/large.jpg → HTTP réseau: fetch failed
-échec monet-meule-soleil-dans-la-brume https://api.artsmia.org/images/10436/medium.jpg → HTTP réseau: fetch failed
-échec monet-meule-soleil-dans-la-brume https://iiif.artsmia.org/10436.jpg/full/1400,/0/default.jpg → HTTP réseau: fetch failed
-échec monet-meule-soleil-dans-la-brume https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F10436%2Flarge.jpg → HTTP 404
-échec monet-meule-soleil-dans-la-brume https://iiif.artsmia.org/10436/medium.jpg → HTTP réseau: fetch failed
-échec monet-meule-soleil-dans-la-brume https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F10436%2Fmedium.jpg → HTTP 404
-échec rembrandt-lucrece https://api.artsmia.org/images/529/large.jpg → HTTP réseau: fetch failed
-échec rembrandt-lucrece https://api.artsmia.org/images/529/medium.jpg → HTTP réseau: fetch failed
-échec rembrandt-lucrece https://iiif.artsmia.org/529.jpg/full/1400,/0/default.jpg → HTTP réseau: fetch failed
-échec rembrandt-lucrece https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F529%2Flarge.jpg → HTTP 404
-échec rembrandt-lucrece https://iiif.artsmia.org/529/medium.jpg → HTTP réseau: fetch failed
-échec rembrandt-lucrece https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F529%2Fmedium.jpg → HTTP 404
-échec bonnard-salle-a-manger-a-la-campagne https://api.artsmia.org/images/1240/large.jpg → HTTP réseau: fetch failed
-échec bonnard-salle-a-manger-a-la-campagne https://api.artsmia.org/images/1240/medium.jpg → HTTP réseau: fetch failed
-échec bonnard-salle-a-manger-a-la-campagne https://iiif.artsmia.org/1240.jpg/full/1400,/0/default.jpg → HTTP réseau: fetch failed
-échec bonnard-salle-a-manger-a-la-campagne https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F1240%2Flarge.jpg → HTTP 404
-échec bonnard-salle-a-manger-a-la-campagne https://iiif.artsmia.org/1240/medium.jpg → HTTP réseau: fetch failed
-échec bonnard-salle-a-manger-a-la-campagne https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F1240%2Fmedium.jpg → HTTP 404
-échec goya-autoportrait-avec-le-docteur-arrieta https://api.artsmia.org/images/1226/large.jpg → HTTP réseau: fetch failed
-échec goya-autoportrait-avec-le-docteur-arrieta https://api.artsmia.org/images/1226/medium.jpg → HTTP réseau: fetch failed
-échec goya-autoportrait-avec-le-docteur-arrieta https://iiif.artsmia.org/1226.jpg/full/1400,/0/default.jpg → HTTP réseau: fetch failed
-échec goya-autoportrait-avec-le-docteur-arrieta https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F1226%2Flarge.jpg → HTTP 404
-échec goya-autoportrait-avec-le-docteur-arrieta https://iiif.artsmia.org/1226/medium.jpg → HTTP réseau: fetch failed
-échec goya-autoportrait-avec-le-docteur-arrieta https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F1226%2Fmedium.jpg → HTTP 404
-échec poussin-la-mort-de-germanicus https://api.artsmia.org/images/1348/large.jpg → HTTP réseau: fetch failed
-échec poussin-la-mort-de-germanicus https://api.artsmia.org/images/1348/medium.jpg → HTTP réseau: fetch failed
-échec poussin-la-mort-de-germanicus https://iiif.artsmia.org/1348.jpg/full/1400,/0/default.jpg → HTTP réseau: fetch failed
-échec poussin-la-mort-de-germanicus https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F1348%2Flarge.jpg → HTTP 404
-échec poussin-la-mort-de-germanicus https://iiif.artsmia.org/1348/medium.jpg → HTTP réseau: fetch failed
-échec poussin-la-mort-de-germanicus https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F1348%2Fmedium.jpg → HTTP 404
 échec hokusai-grande-vague-mia https://api.artsmia.org/images/8747/large.jpg → HTTP réseau: fetch failed
 échec hokusai-grande-vague-mia https://api.artsmia.org/images/8747/medium.jpg → HTTP réseau: fetch failed
 échec hokusai-grande-vague-mia https://iiif.artsmia.org/8747.jpg/full/1400,/0/default.jpg → HTTP réseau: fetch failed
 échec hokusai-grande-vague-mia https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F8747%2Flarge.jpg → HTTP 404
 échec hokusai-grande-vague-mia https://iiif.artsmia.org/8747/medium.jpg → HTTP réseau: fetch failed
 échec hokusai-grande-vague-mia https://images.weserv.nl/?url=api.artsmia.org%2Fimages%2F8747%2Fmedium.jpg → HTTP 404
-échec whistler-nocturne-southampton https://www.artic.edu/iiif/2/50034c7f-ce51-00f1-430e-a6f7efc233fc/full/1686,/0/default.jpg → HTTP 403
-échec whistler-nocturne-southampton https://www.artic.edu/iiif/2/50034c7f-ce51-00f1-430e-a6f7efc233fc/full/843,/0/default.jpg → HTTP 403
-échec whistler-nocturne-southampton https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F50034c7f-ce51-00f1-430e-a6f7efc23 → HTTP 404
-échec whistler-nocturne-southampton https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F50034c7f-ce51-00f1-430e-a6f7efc23 → HTTP 404
 échec grimshaw-chemin-la-nuit https://www.artic.edu/iiif/2/cf36b3c1-c792-8529-822e-ddcacfcc26e2/full/1686,/0/default.jpg → HTTP 403
 échec grimshaw-chemin-la-nuit https://www.artic.edu/iiif/2/cf36b3c1-c792-8529-822e-ddcacfcc26e2/full/843,/0/default.jpg → HTTP 403
 échec grimshaw-chemin-la-nuit https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fcf36b3c1-c792-8529-822e-ddcacfcc2 → HTTP 404
 échec grimshaw-chemin-la-nuit https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fcf36b3c1-c792-8529-822e-ddcacfcc2 → HTTP 404
-échec monet-gare-saint-lazare-train-de-normandie https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/1686,/0/default.jpg → HTTP 403
-échec monet-gare-saint-lazare-train-de-normandie https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/843,/0/default.jpg → HTTP 403
-échec monet-gare-saint-lazare-train-de-normandie https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F0f1cc0e0-e42e-be16-3f71-2022da38c → HTTP 404
-échec monet-gare-saint-lazare-train-de-normandie https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F0f1cc0e0-e42e-be16-3f71-2022da38c → HTTP 404
 échec monet-charing-cross-bridge https://www.artic.edu/iiif/2/e9179922-f68d-34c5-481d-abf49e046863/full/1686,/0/default.jpg → HTTP 403
 échec monet-charing-cross-bridge https://www.artic.edu/iiif/2/e9179922-f68d-34c5-481d-abf49e046863/full/843,/0/default.jpg → HTTP 403
 échec monet-charing-cross-bridge https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fe9179922-f68d-34c5-481d-abf49e046 → HTTP 404
 échec monet-charing-cross-bridge https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2Fe9179922-f68d-34c5-481d-abf49e046 → HTTP 404
-échec cassatt-le-bain-de-l-enfant https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/1686,/0/default.jpg → HTTP 403
-échec cassatt-le-bain-de-l-enfant https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/843,/0/default.jpg → HTTP 403
-échec cassatt-le-bain-de-l-enfant https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F3b885ae0-4d46-5fe4-d70a-00474827f → HTTP 404
-échec cassatt-le-bain-de-l-enfant https://images.weserv.nl/?url=www.artic.edu%2Fiiif%2F2%2F3b885ae0-4d46-5fe4-d70a-00474827f → HTTP 404
-bilan: 0 ok, 38 échecs, 200 total
+bilan: 27 ok, 11 échecs, 227 total
