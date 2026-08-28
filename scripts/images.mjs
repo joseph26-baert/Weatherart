@@ -6,6 +6,8 @@ const oeuvres = JSON.parse(fs.readFileSync(new URL('../data/oeuvres.json', impor
 const dir = new URL('../images/', import.meta.url); fs.mkdirSync(dir, { recursive: true });
 const manifestPath = new URL('../images/manifest.json', import.meta.url);
 const manifest = fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, 'utf8')) : {};
+const altPath = new URL('../data/images_alt.json', import.meta.url);
+const alt = fs.existsSync(altPath) ? JSON.parse(fs.readFileSync(altPath, 'utf8')) : {};
 const UA = 'WeatherArtBot/1.0 (https://joseph26-baert.github.io/Weatherart/ ; images du domaine public)';
 const UA_NAV = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15';
 const rapport = [];
@@ -31,6 +33,7 @@ for (const o of oeuvres) {
     if (/api\.artsmia\.org\/images/.test(u)) replis.push(u.replace('api.artsmia.org/images', 'iiif.artsmia.org') .replace('/large.jpg', '.jpg/full/1400,/0/default.jpg'), 'https://images.weserv.nl/?url=' + encodeURIComponent(u.replace(/^https?:\/\//, '')));
   }
   cand = [...cand, ...replis];
+  if (alt[o.id]) cand = [alt[o.id], ...cand];   // copie Wikimedia Commons vérifiée, prioritaire pour les musées qui bloquent
   let done = false;
   for (const u of cand) {
     try {
