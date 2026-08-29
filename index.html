@@ -19748,17 +19748,22 @@ function calculerToutes(oeuvres, villes, donnees, fixes = {}) {
   const nbJours = donnees[0].daily.time.length;
   for (let j = 0; j < nbJours; j++) {
     for (const p of ['jour']) {
+      // 1er passage : inscrire d'abord toutes les œuvres déjà fixées du jour (une ville peut être fixée avant une autre à cause des fuseaux)
       villes.forEach((v, vi) => {
         const d = donnees[vi]; const dateISO = d.daily.time[j];
-        const m = bilan(d, j, 6, 22, 'jour');
-        if (m.temp == null) return;
-        const profil = profilMeteo(m, dateISO, v.lat);
         const fixe = fixes[`${v.nom.toUpperCase()}+${dateISO}`];
         if (fixe && byId[fixe.id]) {
           journal.set(cle(v.nom, dateISO, p), { id: fixe.id, artiste: fixe.artiste, categorie: fixe.categorie });
-          if (j === nbJours - 1) { const o = byId[fixe.id]; resultats.set(v.nom, { dateISO, jour: { oeuvre: o, profil, meteo: m, echo: fixe.echo || phraseEcho(o, profil, v.nom), niveau: 1, fixe: true } }); }
-          return;
+          if (j === nbJours - 1) { const m = bilan(d, j, 6, 22, 'jour'); const profil = profilMeteo(m, dateISO, v.lat); const o = byId[fixe.id]; resultats.set(v.nom, { dateISO, jour: { oeuvre: o, profil, meteo: m, echo: fixe.echo || phraseEcho(o, profil, v.nom), niveau: 1, fixe: true } }); }
         }
+      });
+      // 2e passage : calculer les villes restantes
+      villes.forEach((v, vi) => {
+        const d = donnees[vi]; const dateISO = d.daily.time[j];
+        if (fixes[`${v.nom.toUpperCase()}+${dateISO}`] && byId[fixes[`${v.nom.toUpperCase()}+${dateISO}`].id]) return;
+        const m = bilan(d, j, 6, 22, 'jour');
+        if (m.temp == null) return;
+        const profil = profilMeteo(m, dateISO, v.lat);
         // historique de cette ville : périodes précédentes, 7 jours
         const historique = [];
         for (let k = 1; k <= JOURS_HISTO; k++) {

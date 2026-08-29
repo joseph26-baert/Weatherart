@@ -319,26 +319,6 @@
   },
   "fixe_le": "2026-08-28T22:14:44.855Z"
  },
- "ROME+2026-08-29": {
-  "id": "qu-ding-montagnes-d-ete",
-  "artiste": "Qu Ding (attribué à)",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur d'été, on prendrait le chemin du temple, à l'ombre des pins.",
-  "meteo": {
-   "temp": 30,
-   "temp_ressentie": 32,
-   "temp_max": 34,
-   "temp_min": 26,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-28T22:14:44.855Z"
- },
  "AMSTERDAM+2026-08-29": {
   "id": "monet-pont-japonais-nga",
   "artiste": "Claude Monet",
