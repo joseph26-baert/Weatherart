@@ -378,5 +378,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-28T23:14:59.318Z"
+ },
+ "NEW YORK+2026-08-29": {
+  "id": "cezanne-sainte-victoire-viaduc",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil, la lumière sèche de la Provence n'est pas loin.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 21,
+   "temp_max": 25,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-29T04:15:01.398Z"
  }
 }
