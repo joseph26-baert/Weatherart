@@ -498,5 +498,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-29T22:14:46.820Z"
+ },
+ "LONDRES+2026-08-30": {
+  "id": "luce-pont-saint-michel",
+  "artiste": "Maximilien Luce",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel voilé, le pont Saint-Michel.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 19,
+   "temp_max": 22,
+   "temp_min": 17,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-29T23:14:45.255Z"
  }
 }
