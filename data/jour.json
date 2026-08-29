@@ -398,5 +398,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-29T07:13:03.822Z"
+ },
+ "TOKYO+2026-08-30": {
+  "id": "ruisdael-champs-de-ble",
+  "artiste": "Jacob van Ruisdael",
+  "categorie": "figuratif",
+  "echo": "Sous ces gros nuages blancs, les champs prennent ces mêmes ors et ces mêmes verts.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 26,
+   "temp_max": 25,
+   "temp_min": 20,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 0,
+   "humidite_pct": 90,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-29T15:14:50.808Z"
  }
 }
