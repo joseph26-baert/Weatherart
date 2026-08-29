@@ -378,5 +378,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-29T04:15:01.398Z"
+ },
+ "ROME+2026-08-29": {
+  "id": "delaunay-formes-circulaires-soleil-2",
+  "artiste": "Robert Delaunay",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, ces anneaux de couleur chauffent comme le vrai soleil.",
+  "meteo": {
+   "temp": 31,
+   "temp_ressentie": 33,
+   "temp_max": 35,
+   "temp_min": 26,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-29T07:13:03.822Z"
  }
 }
