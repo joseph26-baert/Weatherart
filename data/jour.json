@@ -418,5 +418,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-29T15:14:50.808Z"
+ },
+ "GENÈVE+2026-08-30": {
+  "id": "millet-l-homme-a-la-houe",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend cet homme qui s'appuie sur sa houe.",
+  "meteo": {
+   "temp": 24,
+   "temp_ressentie": 25,
+   "temp_max": 28,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-29T22:14:46.820Z"
+ },
+ "PARIS+2026-08-30": {
+  "id": "taeuber-arp-composition-verticale-horizontale",
+  "artiste": "Sophie Taeuber-Arp",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 21,
+   "temp_max": 24,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-29T22:14:46.820Z"
+ },
+ "ROME+2026-08-30": {
+  "id": "turner-rome-moderne",
+  "artiste": "Joseph Mallord William Turner",
+  "categorie": "figuratif",
+  "echo": "Avec la chaleur d'aujourd'hui à Rome, cette image trouve un air de saison.",
+  "meteo": {
+   "temp": 30,
+   "temp_ressentie": 33,
+   "temp_max": 35,
+   "temp_min": 24,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-29T22:14:46.820Z"
+ },
+ "AMSTERDAM+2026-08-30": {
+  "id": "constable-cathedrale-de-salisbury",
+  "artiste": "John Constable",
+  "categorie": "figuratif",
+  "echo": "Une averse entre deux éclaircies : Constable adorait ça.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 20,
+   "temp_min": 18,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 51,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-29T22:14:46.820Z"
  }
 }
