@@ -538,5 +538,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-30T04:14:59.236Z"
+ },
+ "TOKYO+2026-08-31": {
+  "id": "caravage-les-musiciens",
+  "artiste": "Le Caravage",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
+  "meteo": {
+   "temp": 27,
+   "temp_ressentie": 31,
+   "temp_max": 29,
+   "temp_min": 22,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-30T15:14:57.347Z"
  }
 }
