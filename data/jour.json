@@ -558,5 +558,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-30T15:14:57.347Z"
+ },
+ "GENÈVE+2026-08-31": {
+  "id": "klee-senecio",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, ces rouges et ces orange sont de saison.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 22,
+   "temp_max": 26,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-30T22:14:44.045Z"
+ },
+ "PARIS+2026-08-31": {
+  "id": "luce-pont-saint-michel",
+  "artiste": "Maximilien Luce",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur, les quais de Luce à la fin du jour.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 19,
+   "temp_max": 23,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-30T22:14:44.045Z"
+ },
+ "ROME+2026-08-31": {
+  "id": "af-klint-retable-1",
+  "artiste": "Hilma af Klint",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
+  "meteo": {
+   "temp": 29,
+   "temp_ressentie": 32,
+   "temp_max": 35,
+   "temp_min": 23,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-30T22:14:44.045Z"
+ },
+ "AMSTERDAM+2026-08-31": {
+  "id": "krishna-dompte-le-serpent-kaliya",
+  "artiste": "Anonyme (royaume de Mewar, Rajasthan)",
+  "categorie": "figuratif",
+  "echo": "Sous cette pluie, les eaux de la Yamuna montent et Krishna danse.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 16,
+   "temp_max": 19,
+   "temp_min": 17,
+   "precip_mm": 21,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-30T22:14:44.045Z"
  }
 }
