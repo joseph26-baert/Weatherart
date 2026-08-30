@@ -518,5 +518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-29T23:14:45.255Z"
+ },
+ "NEW YORK+2026-08-30": {
+  "id": "sargent-madame-x",
+  "artiste": "John Singer Sargent",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend la peau pâle et les épaules nues.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 24,
+   "temp_max": 27,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-30T04:14:59.236Z"
  }
 }
