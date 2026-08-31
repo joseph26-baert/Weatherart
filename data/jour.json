@@ -678,5 +678,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-31T04:14:48.138Z"
+ },
+ "TOKYO+2026-09-01": {
+  "id": "bonnard-salle-a-manger-a-la-campagne",
+  "artiste": "Pierre Bonnard",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on ouvrirait porte et fenêtre comme chez Bonnard.",
+  "meteo": {
+   "temp": 27,
+   "temp_ressentie": 32,
+   "temp_max": 30,
+   "temp_min": 23,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-31T15:14:54.658Z"
  }
 }
