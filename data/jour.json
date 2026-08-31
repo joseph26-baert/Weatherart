@@ -658,5 +658,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-30T23:14:52.505Z"
+ },
+ "NEW YORK+2026-08-31": {
+  "id": "kandinsky-maisons-a-murnau",
+  "artiste": "Vassily Kandinsky",
+  "categorie": "abstrait",
+  "echo": "Cette douceur d'été rappelle celle des séjours bavarois de Kandinsky.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 25,
+   "temp_max": 25,
+   "temp_min": 20,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-31T04:14:48.138Z"
  }
 }
