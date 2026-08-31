@@ -698,5 +698,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-08-31T15:14:54.658Z"
+ },
+ "GENÈVE+2026-09-01": {
+  "id": "cezanne-sainte-victoire-viaduc",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on entend presque les cigales autour du pin de Cézanne.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 23,
+   "temp_max": 27,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-31T22:14:54.938Z"
+ },
+ "PARIS+2026-09-01": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ces pastels de Jawlensky sont exactement le temps qu'il fait.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 20,
+   "temp_max": 23,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-31T22:14:54.938Z"
+ },
+ "ROME+2026-09-01": {
+  "id": "church-crepuscule-nature-sauvage",
+  "artiste": "Frederic Edwin Church",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, le ciel du soir prend ces couleurs de braise.",
+  "meteo": {
+   "temp": 30,
+   "temp_ressentie": 32,
+   "temp_max": 36,
+   "temp_min": 22,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-31T22:14:54.938Z"
+ },
+ "AMSTERDAM+2026-09-01": {
+  "id": "vermeer-la-ruelle",
+  "artiste": "Johannes Vermeer",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur, on s'assiérait sur le seuil comme cette femme qui coud.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 21,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-08-31T22:14:54.938Z"
  }
 }
