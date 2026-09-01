@@ -918,5 +918,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-01T22:19:27.446Z"
+ },
+ "LONDRES+2026-09-02": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 18,
+   "temp_max": 21,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-01T23:17:43.405Z"
  }
 }
