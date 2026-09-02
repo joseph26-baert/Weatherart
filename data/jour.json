@@ -978,5 +978,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-02T15:24:56.843Z"
+ },
+ "GENÈVE+2026-09-03": {
+  "id": "vangogh-oliviers-mia",
+  "artiste": "Vincent van Gogh",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil, ces troncs tordus ondulent dans la chaleur.",
+  "meteo": {
+   "temp": 24,
+   "temp_ressentie": 24,
+   "temp_max": 29,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-02T23:19:10.724Z"
+ },
+ "PARIS+2026-09-03": {
+  "id": "la-tour-diseuse-de-bonne-aventure",
+  "artiste": "Georges de La Tour",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, ces couleurs de brocart réchauffent.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 24,
+   "temp_max": 26,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-02T23:19:10.724Z"
+ },
+ "LONDRES+2026-09-03": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 22,
+   "temp_max": 25,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-02T23:19:10.724Z"
+ },
+ "ROME+2026-09-03": {
+  "id": "bruegel-moisson",
+  "artiste": "Pieter Bruegel l'Ancien",
+  "categorie": "figuratif",
+  "echo": "Par cette canicule, on comprend le paysan endormi sous l'arbre.",
+  "meteo": {
+   "temp": 29,
+   "temp_ressentie": 31,
+   "temp_max": 35,
+   "temp_min": 21,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-02T23:19:10.724Z"
+ },
+ "AMSTERDAM+2026-09-03": {
+  "id": "dove-nature-symbolisee-2",
+  "artiste": "Arthur Dove",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces verts et ces bruns sont de saison.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 19,
+   "temp_max": 21,
+   "temp_min": 17,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-02T23:19:10.724Z"
  }
 }
