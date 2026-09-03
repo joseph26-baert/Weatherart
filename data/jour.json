@@ -1198,5 +1198,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-03T22:20:38.933Z"
+ },
+ "LONDRES+2026-09-04": {
+  "id": "lundstrom-composition-2",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 18,
+   "temp_max": 21,
+   "temp_min": 17,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 20,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-03T23:18:37.709Z"
  }
 }
