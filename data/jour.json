@@ -1118,5 +1118,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-03T15:24:48.185Z"
+ },
+ "GENÈVE+2026-09-04": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, ces éclats de couleur brillent comme un vitrail.",
+  "meteo": {
+   "temp": 26,
+   "temp_ressentie": 26,
+   "temp_max": 33,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-03T22:20:38.933Z"
+ },
+ "PARIS+2026-09-04": {
+  "id": "kandinsky-paysage-deux-peupliers",
+  "artiste": "Vassily Kandinsky",
+  "categorie": "abstrait",
+  "echo": "Un ciel changeant comme aujourd'hui convient bien à ces taches mouvantes.",
+  "meteo": {
+   "temp": 24,
+   "temp_ressentie": 25,
+   "temp_max": 28,
+   "temp_min": 20,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-03T22:20:38.933Z"
+ },
+ "ROME+2026-09-04": {
+  "id": "cezanne-sainte-victoire-viaduc",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on entend presque les cigales autour du pin de Cézanne.",
+  "meteo": {
+   "temp": 29,
+   "temp_ressentie": 30,
+   "temp_max": 35,
+   "temp_min": 21,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 40,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-03T22:20:38.933Z"
+ },
+ "AMSTERDAM+2026-09-04": {
+  "id": "sargent-madame-x",
+  "artiste": "John Singer Sargent",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, ce portrait en noir et blanc se suffit à lui-même.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 18,
+   "temp_max": 22,
+   "temp_min": 18,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 30,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-03T22:20:38.933Z"
  }
 }
