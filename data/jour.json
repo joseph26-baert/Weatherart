@@ -1098,5 +1098,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-03T04:04:49.192Z"
+ },
+ "TOKYO+2026-09-04": {
+  "id": "vangogh-oliviers-mia",
+  "artiste": "Vincent van Gogh",
+  "categorie": "figuratif",
+  "echo": "Un jour d'automne, la terre orange et les oliviers de Van Gogh.",
+  "meteo": {
+   "temp": 24,
+   "temp_ressentie": 28,
+   "temp_max": 25,
+   "temp_min": 22,
+   "precip_mm": 2,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 0,
+   "humidite_pct": 90,
+   "code_wmo": 53,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-03T15:24:48.185Z"
  }
 }
