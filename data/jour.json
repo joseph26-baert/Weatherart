@@ -1078,5 +1078,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-02T23:19:10.724Z"
+ },
+ "NEW YORK+2026-09-03": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces couleurs tendres paraissent naturelles.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 29,
+   "temp_max": 29,
+   "temp_min": 20,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-03T04:04:49.192Z"
  }
 }
