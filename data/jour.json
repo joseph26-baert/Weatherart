@@ -1258,5 +1258,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-04T15:22:30.763Z"
+ },
+ "GENÈVE+2026-09-05": {
+  "id": "bonnard-salle-a-manger-a-la-campagne",
+  "artiste": "Pierre Bonnard",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on ouvrirait porte et fenêtre comme chez Bonnard.",
+  "meteo": {
+   "temp": 26,
+   "temp_ressentie": 26,
+   "temp_max": 30,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-04T22:20:05.279Z"
+ },
+ "PARIS+2026-09-05": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 21,
+   "temp_max": 24,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-04T22:20:05.279Z"
+ },
+ "ROME+2026-09-05": {
+  "id": "klee-vue-sur-le-pays-fertile",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, on pense au Nil de Klee, ligne bleue dans le désert.",
+  "meteo": {
+   "temp": 28,
+   "temp_ressentie": 30,
+   "temp_max": 34,
+   "temp_min": 21,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-04T22:20:05.279Z"
+ },
+ "AMSTERDAM+2026-09-05": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce noir et blanc a la force tranquille du taureau.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 16,
+   "temp_max": 20,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 20,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-04T22:20:05.279Z"
  }
 }
