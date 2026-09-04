@@ -1218,5 +1218,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-03T23:18:37.709Z"
+ },
+ "NEW YORK+2026-09-04": {
+  "id": "renoir-deux-soeurs",
+  "artiste": "Pierre-Auguste Renoir",
+  "categorie": "figuratif",
+  "echo": "Le soleil doux d'aujourd'hui est celui d'une terrasse au printemps.",
+  "meteo": {
+   "temp": 27,
+   "temp_ressentie": 28,
+   "temp_max": 30,
+   "temp_min": 22,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-04T04:22:03.319Z"
  }
 }
