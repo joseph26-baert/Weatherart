@@ -1238,5 +1238,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-04T04:22:03.319Z"
+ },
+ "TOKYO+2026-09-05": {
+  "id": "dove-nature-symbolisee-2",
+  "artiste": "Arthur Dove",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces verts et ces bruns sont de saison.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 27,
+   "temp_max": 25,
+   "temp_min": 21,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-04T15:22:30.763Z"
  }
 }
