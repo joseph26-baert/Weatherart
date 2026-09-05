@@ -1358,5 +1358,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-04T23:18:27.184Z"
+ },
+ "NEW YORK+2026-09-05": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Le soleil d'aujourd'hui figure sans doute quelque part dans cette grille.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 23,
+   "temp_max": 27,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-05T04:20:48.297Z"
  }
 }
