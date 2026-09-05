@@ -1398,5 +1398,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-05T15:19:37.482Z"
+ },
+ "GENÈVE+2026-09-06": {
+  "id": "mondrian-composition-ii-rouge-bleu-jaune",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, ce rouge éclate et ces lignes noires tiennent tout.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 26,
+   "temp_max": 30,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-05T22:19:20.411Z"
+ },
+ "PARIS+2026-09-06": {
+  "id": "caravage-les-musiciens",
+  "artiste": "Le Caravage",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 22,
+   "temp_max": 28,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 40,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-05T22:19:20.411Z"
+ },
+ "ROME+2026-09-06": {
+  "id": "millet-l-homme-a-la-houe",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend cet homme qui s'appuie sur sa houe.",
+  "meteo": {
+   "temp": 28,
+   "temp_ressentie": 31,
+   "temp_max": 32,
+   "temp_min": 22,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-05T22:19:20.411Z"
+ },
+ "AMSTERDAM+2026-09-06": {
+  "id": "ancher-mere-dans-la-piece-rouge",
+  "artiste": "Anna Ancher",
+  "categorie": "figuratif",
+  "echo": "Ce soleil qui entre par la fenêtre dessine chez vous les mêmes colonnes de lumière.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 23,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-05T22:19:20.411Z"
  }
 }
