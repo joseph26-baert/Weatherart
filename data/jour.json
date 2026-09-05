@@ -1378,5 +1378,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-05T04:20:48.297Z"
+ },
+ "TOKYO+2026-09-06": {
+  "id": "corot-ville-d-avray",
+  "artiste": "Camille Corot",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et doux est celui de l'étang de Corot.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 24,
+   "temp_max": 23,
+   "temp_min": 21,
+   "precip_mm": 52,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 65,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-05T15:19:37.482Z"
  }
 }
