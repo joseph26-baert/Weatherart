@@ -1478,5 +1478,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-05T22:19:20.411Z"
+ },
+ "LONDRES+2026-09-06": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil qui perce, la brume de Monet s'en va.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 21,
+   "temp_max": 27,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-05T23:18:48.254Z"
  }
 }
