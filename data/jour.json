@@ -1518,5 +1518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-06T04:21:20.304Z"
+ },
+ "TOKYO+2026-09-07": {
+  "id": "sargent-madame-x",
+  "artiste": "John Singer Sargent",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend la peau pâle et les épaules nues.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 30,
+   "temp_max": 27,
+   "temp_min": 21,
+   "precip_mm": 43.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 65,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-06T15:20:13.905Z"
  }
 }
