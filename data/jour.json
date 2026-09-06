@@ -1538,5 +1538,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-06T15:20:13.905Z"
+ },
+ "GENÈVE+2026-09-07": {
+  "id": "millet-l-homme-a-la-houe",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend cet homme qui s'appuie sur sa houe.",
+  "meteo": {
+   "temp": 28,
+   "temp_ressentie": 29,
+   "temp_max": 33,
+   "temp_min": 20,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-06T22:20:11.792Z"
+ },
+ "PARIS+2026-09-07": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 25,
+   "temp_max": 28,
+   "temp_min": 21,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-06T22:20:11.792Z"
+ },
+ "ROME+2026-09-07": {
+  "id": "klee-senecio",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, ces rouges et ces orange sont de saison.",
+  "meteo": {
+   "temp": 29,
+   "temp_ressentie": 33,
+   "temp_max": 34,
+   "temp_min": 23,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-06T22:20:11.792Z"
+ },
+ "AMSTERDAM+2026-09-07": {
+  "id": "millet-meules-automne",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 21,
+   "temp_max": 26,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-06T22:20:11.792Z"
  }
 }
