@@ -1498,5 +1498,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-05T23:18:48.254Z"
+ },
+ "NEW YORK+2026-09-06": {
+  "id": "af-klint-retable-1",
+  "artiste": "Hilma af Klint",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 22,
+   "temp_max": 25,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-06T04:21:20.304Z"
  }
 }
