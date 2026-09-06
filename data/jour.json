@@ -1618,5 +1618,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-06T22:20:11.792Z"
+ },
+ "LONDRES+2026-09-07": {
+  "id": "la-tour-diseuse-de-bonne-aventure",
+  "artiste": "Georges de La Tour",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, ces couleurs de brocart réchauffent.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 21,
+   "temp_max": 24,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-06T23:19:07.225Z"
  }
 }
