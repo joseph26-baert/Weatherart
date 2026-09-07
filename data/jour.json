@@ -1638,5 +1638,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-06T23:19:07.225Z"
+ },
+ "NEW YORK+2026-09-07": {
+  "id": "vangogh-oliviers-mia",
+  "artiste": "Vincent van Gogh",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil, ces troncs tordus ondulent dans la chaleur.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 21,
+   "temp_max": 27,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-07T04:22:29.751Z"
  }
 }
