@@ -1678,5 +1678,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-07T15:22:21.271Z"
+ },
+ "GENÈVE+2026-09-08": {
+  "id": "turner-rome-moderne",
+  "artiste": "Joseph Mallord William Turner",
+  "categorie": "figuratif",
+  "echo": "Avec la chaleur d'aujourd'hui à Genève, cette image trouve un air de saison.",
+  "meteo": {
+   "temp": 29,
+   "temp_ressentie": 29,
+   "temp_max": 35,
+   "temp_min": 20,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 10,
+   "humidite_pct": 40,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-07T22:20:32.291Z"
+ },
+ "PARIS+2026-09-08": {
+  "id": "qu-ding-montagnes-d-ete",
+  "artiste": "Qu Ding (attribué à)",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur d'été, on prendrait le chemin du temple, à l'ombre des pins.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 21,
+   "temp_max": 26,
+   "temp_min": 18,
+   "precip_mm": 6,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-07T22:20:32.291Z"
+ },
+ "ROME+2026-09-08": {
+  "id": "caravage-les-musiciens",
+  "artiste": "Le Caravage",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
+  "meteo": {
+   "temp": 28,
+   "temp_ressentie": 32,
+   "temp_max": 33,
+   "temp_min": 23,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-07T22:20:32.291Z"
+ },
+ "AMSTERDAM+2026-09-08": {
+  "id": "hiroshige-averse-ohashi",
+  "artiste": "Utagawa Hiroshige",
+  "categorie": "figuratif",
+  "echo": "L'averse qui tombe aujourd'hui sur la ville a exactement ce rythme pressé.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 17,
+   "temp_max": 21,
+   "temp_min": 16,
+   "precip_mm": 12.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-07T22:20:32.291Z"
  }
 }
