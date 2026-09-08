@@ -1898,5 +1898,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-08T22:21:01.645Z"
+ },
+ "LONDRES+2026-09-09": {
+  "id": "caravage-les-musiciens",
+  "artiste": "Le Caravage",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur, on entendrait presque le luth qu'on accorde.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 15,
+   "temp_max": 19,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-08T23:20:07.071Z"
  }
 }
