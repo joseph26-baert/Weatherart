@@ -1818,5 +1818,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-08T15:24:34.957Z"
+ },
+ "GENÈVE+2026-09-09": {
+  "id": "hiroshige-averse-ohashi",
+  "artiste": "Utagawa Hiroshige",
+  "categorie": "figuratif",
+  "echo": "L'averse qui tombe aujourd'hui sur la ville a exactement ce rythme pressé.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 24,
+   "temp_min": 18,
+   "precip_mm": 5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-08T22:21:01.645Z"
+ },
+ "PARIS+2026-09-09": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Un ciel qui change, un vitrail qui bouge.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 16,
+   "temp_max": 21,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-08T22:21:01.645Z"
+ },
+ "ROME+2026-09-09": {
+  "id": "matisse-raie-verte",
+  "artiste": "Henri Matisse",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, on retrouve l'été de Collioure d'où vient cette toile.",
+  "meteo": {
+   "temp": 28,
+   "temp_ressentie": 32,
+   "temp_max": 32,
+   "temp_min": 23,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-08T22:21:01.645Z"
+ },
+ "AMSTERDAM+2026-09-09": {
+  "id": "sisley-inondation-port-marly-1872",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Après les pluies d'aujourd'hui, on pense à cette eau montée tranquillement jusqu'aux portes.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 14,
+   "temp_max": 18,
+   "temp_min": 15,
+   "precip_mm": 14.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 20,
+   "humidite_pct": 70,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-08T22:21:01.645Z"
  }
 }
