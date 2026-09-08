@@ -1798,5 +1798,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-08T04:22:36.217Z"
+ },
+ "TOKYO+2026-09-09": {
+  "id": "qu-ding-montagnes-d-ete",
+  "artiste": "Qu Ding (attribué à)",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur d'été, on prendrait le chemin du temple, à l'ombre des pins.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 29,
+   "temp_max": 30,
+   "temp_min": 20,
+   "precip_mm": 35,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 65,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-08T15:24:34.957Z"
  }
 }
