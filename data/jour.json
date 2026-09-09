@@ -2038,5 +2038,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-09T22:20:29.200Z"
+ },
+ "LONDRES+2026-09-10": {
+  "id": "klee-haus-der-firma-z",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 15,
+   "temp_max": 20,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-09T23:19:56.548Z"
  }
 }
