@@ -1938,5 +1938,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-09T04:22:26.983Z"
+ },
+ "TOKYO+2026-09-10": {
+  "id": "david-adieux-de-telemaque-et-eucharis",
+  "artiste": "Jacques-Louis David",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel voilé, l'adieu de Télémaque est de saison.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 22,
+   "temp_max": 21,
+   "temp_min": 19,
+   "precip_mm": 4.5,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-09T15:22:22.605Z"
  }
 }
