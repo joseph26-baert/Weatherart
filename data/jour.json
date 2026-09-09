@@ -1958,5 +1958,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-09T15:22:22.605Z"
+ },
+ "GENÈVE+2026-09-10": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 16,
+   "temp_max": 22,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 20,
+   "humidite_pct": 50,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-09T22:20:29.200Z"
+ },
+ "PARIS+2026-09-10": {
+  "id": "sisley-eglise-de-moret-le-soir",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur de fin de journée, la place de Moret.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 17,
+   "temp_max": 22,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-09T22:20:29.200Z"
+ },
+ "ROME+2026-09-10": {
+  "id": "qu-ding-montagnes-d-ete",
+  "artiste": "Qu Ding (attribué à)",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur d'été, on prendrait le chemin du temple, à l'ombre des pins.",
+  "meteo": {
+   "temp": 26,
+   "temp_ressentie": 29,
+   "temp_max": 30,
+   "temp_min": 23,
+   "precip_mm": 2,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-09T22:20:29.200Z"
+ },
+ "AMSTERDAM+2026-09-10": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 15,
+   "temp_max": 19,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-09T22:20:29.200Z"
  }
 }
