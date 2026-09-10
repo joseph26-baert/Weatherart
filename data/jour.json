@@ -2058,5 +2058,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-09T23:19:56.548Z"
+ },
+ "NEW YORK+2026-09-10": {
+  "id": "leger-la-ville",
+  "artiste": "Fernand Léger",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, la ville de Léger claque comme une affiche.",
+  "meteo": {
+   "temp": 28,
+   "temp_ressentie": 29,
+   "temp_max": 32,
+   "temp_min": 22,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-10T04:22:41.992Z"
  }
 }
