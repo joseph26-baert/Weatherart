@@ -2098,5 +2098,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-10T15:22:54.468Z"
+ },
+ "GENÈVE+2026-09-11": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 23,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-10T22:19:58.025Z"
+ },
+ "PARIS+2026-09-11": {
+  "id": "lundstrom-composition-2",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 20,
+   "temp_max": 24,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-10T22:19:58.025Z"
+ },
+ "ROME+2026-09-11": {
+  "id": "lorrain-troyennes-incendiant-leur-flotte",
+  "artiste": "Claude Lorrain",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur dorée, la mer de Claude est tout près.",
+  "meteo": {
+   "temp": 26,
+   "temp_ressentie": 28,
+   "temp_max": 29,
+   "temp_min": 22,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-10T22:19:58.025Z"
+ },
+ "AMSTERDAM+2026-09-11": {
+  "id": "qu-ding-montagnes-d-ete",
+  "artiste": "Qu Ding (attribué à)",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et voilé est celui des montagnes chinoises en été.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 19,
+   "temp_min": 14,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 15,
+   "humidite_pct": 90,
+   "code_wmo": 51,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-10T22:19:58.025Z"
  }
 }
