@@ -2358,5 +2358,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-12T14:22:32.745Z"
+ },
+ "TOKYO+2026-09-13": {
+  "id": "dove-nature-symbolisee-2",
+  "artiste": "Arthur Dove",
+  "categorie": "abstrait",
+  "echo": "Un jour d'automne, la nature symbolisée de Dove est en couleurs.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 28,
+   "temp_max": 25,
+   "temp_min": 21,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 0,
+   "humidite_pct": 90,
+   "code_wmo": 53,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-12T15:19:51.231Z"
  }
 }
