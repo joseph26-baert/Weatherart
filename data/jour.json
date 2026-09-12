@@ -2458,5 +2458,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-12T22:19:56.247Z"
+ },
+ "LONDRES+2026-09-13": {
+  "id": "gentileschi-esther-devant-assuerus",
+  "artiste": "Artemisia Gentileschi",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel dramatique, l'évanouissement d'Esther.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 21,
+   "temp_max": 22,
+   "temp_min": 19,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-12T23:19:51.949Z"
  }
 }
