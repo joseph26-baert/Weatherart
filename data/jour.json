@@ -2378,5 +2378,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-12T15:19:51.231Z"
+ },
+ "GENÈVE+2026-09-13": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Avec la chaleur d'aujourd'hui à Genève, cette image trouve un air de saison.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 21,
+   "temp_max": 26,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-12T22:19:56.247Z"
+ },
+ "PARIS+2026-09-13": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 22,
+   "temp_max": 27,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-12T22:19:56.247Z"
+ },
+ "ROME+2026-09-13": {
+  "id": "leger-la-ville",
+  "artiste": "Fernand Léger",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, la ville de Léger claque comme une affiche.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 27,
+   "temp_max": 30,
+   "temp_min": 20,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-12T22:19:56.247Z"
+ },
+ "AMSTERDAM+2026-09-13": {
+  "id": "klee-magie-des-poissons",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous cette pluie, on est un peu dans cet aquarium enchanté.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 20,
+   "temp_min": 17,
+   "precip_mm": 6.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-12T22:19:56.247Z"
  }
 }
