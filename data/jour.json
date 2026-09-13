@@ -2498,5 +2498,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-13T04:21:30.215Z"
+ },
+ "TOKYO+2026-09-14": {
+  "id": "church-crepuscule-nature-sauvage",
+  "artiste": "Frederic Edwin Church",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, le ciel du soir prend ces couleurs de braise.",
+  "meteo": {
+   "temp": 28,
+   "temp_ressentie": 33,
+   "temp_max": 31,
+   "temp_min": 23,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-13T15:20:16.147Z"
  }
 }
