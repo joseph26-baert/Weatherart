@@ -2658,5 +2658,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-14T15:24:53.169Z"
+ },
+ "GENÈVE+2026-09-15": {
+  "id": "leger-la-ville",
+  "artiste": "Fernand Léger",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, la ville de Léger claque comme une affiche.",
+  "meteo": {
+   "temp": 24,
+   "temp_ressentie": 25,
+   "temp_max": 30,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-14T22:22:25.991Z"
+ },
+ "PARIS+2026-09-15": {
+  "id": "lorrain-troyennes-incendiant-leur-flotte",
+  "artiste": "Claude Lorrain",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur dorée, la mer de Claude est tout près.",
+  "meteo": {
+   "temp": 26,
+   "temp_ressentie": 25,
+   "temp_max": 33,
+   "temp_min": 20,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-14T22:22:25.991Z"
+ },
+ "ROME+2026-09-15": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil qui perce, la brume de Monet s'en va.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 26,
+   "temp_max": 31,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-14T22:22:25.991Z"
+ },
+ "AMSTERDAM+2026-09-15": {
+  "id": "taeuber-arp-composition-verticale-horizontale",
+  "artiste": "Sophie Taeuber-Arp",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 21,
+   "temp_max": 23,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-14T22:22:25.991Z"
  }
 }
