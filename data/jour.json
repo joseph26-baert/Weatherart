@@ -2638,5 +2638,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-14T04:23:13.290Z"
+ },
+ "TOKYO+2026-09-15": {
+  "id": "turner-incendie-parlement",
+  "artiste": "Joseph Mallord William Turner",
+  "categorie": "figuratif",
+  "echo": "La chaleur d'aujourd'hui donne à ce brasier une présence presque physique.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 30,
+   "temp_max": 26,
+   "temp_min": 23,
+   "precip_mm": 17,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-14T15:24:53.169Z"
  }
 }
