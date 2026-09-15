@@ -2758,5 +2758,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-14T23:19:44.069Z"
+ },
+ "NEW YORK+2026-09-15": {
+  "id": "vermeer-la-ruelle",
+  "artiste": "Johannes Vermeer",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur, on s'assiérait sur le seuil comme cette femme qui coud.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 23,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-15T04:23:44.181Z"
  }
 }
