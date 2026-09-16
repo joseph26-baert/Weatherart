@@ -3018,5 +3018,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-16T22:20:36.560Z"
+ },
+ "LONDRES+2026-09-17": {
+  "id": "schiele-autoportrait-1911",
+  "artiste": "Egon Schiele",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, l'inquiétude de Schiele trouve un écho.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 15,
+   "temp_max": 20,
+   "temp_min": 14,
+   "precip_mm": 3.5,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-16T23:20:03.936Z"
  }
 }
