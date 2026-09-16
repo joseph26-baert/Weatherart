@@ -2918,5 +2918,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-16T04:22:27.954Z"
+ },
+ "TOKYO+2026-09-17": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ces pastels de Jawlensky sont exactement le temps qu'il fait.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 23,
+   "temp_max": 24,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-16T15:22:15.988Z"
  }
 }
