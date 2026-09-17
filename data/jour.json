@@ -3058,5 +3058,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-17T04:22:45.683Z"
+ },
+ "TOKYO+2026-09-18": {
+  "id": "luce-pont-saint-michel",
+  "artiste": "Maximilien Luce",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur, les quais de Luce à la fin du jour.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 23,
+   "temp_max": 23,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-17T15:22:29.711Z"
  }
 }
