@@ -3218,5 +3218,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-18T15:21:06.388Z"
+ },
+ "GENÈVE+2026-09-19": {
+  "id": "sisley-eglise-de-moret-le-soir",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur de fin de journée, la place de Moret.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 24,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-18T22:20:23.837Z"
+ },
+ "PARIS+2026-09-19": {
+  "id": "klee-haus-der-firma-z",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 20,
+   "temp_max": 25,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-18T22:20:23.837Z"
+ },
+ "ROME+2026-09-19": {
+  "id": "ruisdael-champs-de-ble",
+  "artiste": "Jacob van Ruisdael",
+  "categorie": "figuratif",
+  "echo": "Sous ces gros nuages blancs, les champs prennent ces mêmes ors et ces mêmes verts.",
+  "meteo": {
+   "temp": 24,
+   "temp_ressentie": 26,
+   "temp_max": 27,
+   "temp_min": 19,
+   "precip_mm": 3,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-18T22:20:23.837Z"
+ },
+ "AMSTERDAM+2026-09-19": {
+  "id": "schwitters-das-undbild",
+  "artiste": "Kurt Schwitters",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ces bruns et ces gris de rue sont de saison.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 17,
+   "temp_max": 19,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 25,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-18T22:20:23.837Z"
  }
 }
