@@ -3178,5 +3178,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-17T23:18:07.504Z"
+ },
+ "NEW YORK+2026-09-18": {
+  "id": "klee-ad-parnassum",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, cette mosaïque de points vibre comme l'air.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 26,
+   "temp_max": 28,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-18T04:21:42.192Z"
  }
 }
