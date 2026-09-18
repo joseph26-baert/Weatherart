@@ -3298,5 +3298,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-18T22:20:23.837Z"
+ },
+ "LONDRES+2026-09-19": {
+  "id": "millet-meules-automne",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 19,
+   "temp_max": 22,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 20,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-18T23:20:20.853Z"
  }
 }
