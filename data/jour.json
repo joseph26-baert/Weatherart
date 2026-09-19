@@ -3358,5 +3358,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-19T15:19:54.176Z"
+ },
+ "GENÈVE+2026-09-20": {
+  "id": "klee-haus-der-firma-z",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 21,
+   "temp_max": 27,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-19T22:19:47.668Z"
+ },
+ "PARIS+2026-09-20": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 20,
+   "temp_max": 24,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-19T22:19:47.668Z"
+ },
+ "ROME+2026-09-20": {
+  "id": "cezanne-sainte-victoire-viaduc",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on entend presque les cigales autour du pin de Cézanne.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 27,
+   "temp_max": 31,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-19T22:19:47.668Z"
+ },
+ "AMSTERDAM+2026-09-20": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 15,
+   "temp_max": 19,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 20,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-19T22:19:47.668Z"
  }
 }
