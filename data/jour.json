@@ -3338,5 +3338,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-19T04:20:46.232Z"
+ },
+ "TOKYO+2026-09-20": {
+  "id": "courbet-la-mer",
+  "artiste": "Gustave Courbet",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et bas est celui de Trouville chez Courbet.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 25,
+   "temp_max": 23,
+   "temp_min": 21,
+   "precip_mm": 67.5,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 100,
+   "code_wmo": 65,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-19T15:19:54.176Z"
  }
 }
