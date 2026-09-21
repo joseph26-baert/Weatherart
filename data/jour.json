@@ -3638,5 +3638,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-21T15:20:13.858Z"
+ },
+ "GENÈVE+2026-09-22": {
+  "id": "vangogh-oliviers-mia",
+  "artiste": "Vincent van Gogh",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil, ces troncs tordus ondulent dans la chaleur.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 16,
+   "temp_max": 25,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 15,
+   "humidite_pct": 40,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-21T22:20:58.027Z"
+ },
+ "PARIS+2026-09-22": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ces pastels de Jawlensky sont exactement le temps qu'il fait.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 17,
+   "temp_max": 24,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-21T22:20:58.027Z"
+ },
+ "ROME+2026-09-22": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Un ciel qui change, un vitrail qui bouge.",
+  "meteo": {
+   "temp": 25,
+   "temp_ressentie": 26,
+   "temp_max": 30,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-21T22:20:58.027Z"
+ },
+ "AMSTERDAM+2026-09-22": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce noir et blanc a la force tranquille du taureau.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 18,
+   "temp_max": 20,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-21T22:20:58.027Z"
  }
 }
