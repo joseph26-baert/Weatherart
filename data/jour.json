@@ -3718,5 +3718,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-21T22:20:58.027Z"
+ },
+ "LONDRES+2026-09-22": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 22,
+   "temp_max": 25,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-21T23:20:23.858Z"
  }
 }
