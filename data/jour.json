@@ -4058,5 +4058,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-24T15:23:34.315Z"
+ },
+ "GENÈVE+2026-09-25": {
+  "id": "af-klint-retable-1",
+  "artiste": "Hilma af Klint",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 25,
+   "temp_min": 11,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-24T22:21:46.365Z"
+ },
+ "PARIS+2026-09-25": {
+  "id": "lorrain-troyennes-incendiant-leur-flotte",
+  "artiste": "Claude Lorrain",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur dorée, la mer de Claude est tout près.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 20,
+   "temp_max": 28,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-24T22:21:46.365Z"
+ },
+ "ROME+2026-09-25": {
+  "id": "klee-ad-parnassum",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, cette mosaïque de points vibre comme l'air.",
+  "meteo": {
+   "temp": 24,
+   "temp_ressentie": 24,
+   "temp_max": 28,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-24T22:21:46.365Z"
+ },
+ "AMSTERDAM+2026-09-25": {
+  "id": "klee-insula-dulcamara",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on aborde l'île douce-amère de Klee.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 22,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-24T22:21:46.365Z"
  }
 }
