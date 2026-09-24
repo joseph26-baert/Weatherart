@@ -4138,5 +4138,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-24T22:21:46.365Z"
+ },
+ "LONDRES+2026-09-25": {
+  "id": "kandinsky-paysage-deux-peupliers",
+  "artiste": "Vassily Kandinsky",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, les jaunes et les rouges de Kandinsky chantent.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 20,
+   "temp_max": 24,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-24T23:20:08.322Z"
  }
 }
