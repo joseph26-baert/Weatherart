@@ -4018,5 +4018,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-23T23:18:00.664Z"
+ },
+ "NEW YORK+2026-09-24": {
+  "id": "mondrian-arbre-gris",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, cet arbre nu est de saison.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 12,
+   "temp_max": 19,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 20,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-24T04:22:17.749Z"
  }
 }
