@@ -4278,5 +4278,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-25T22:21:10.082Z"
+ },
+ "LONDRES+2026-09-26": {
+  "id": "hammershoi-soleil-sur-le-plancher",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Ce soleil d'aujourd'hui, entrant par une fenêtre, dessine les mêmes rectangles sur le sol.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 20,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-25T23:19:35.184Z"
  }
 }
