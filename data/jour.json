@@ -4178,5 +4178,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-25T04:23:18.291Z"
+ },
+ "TOKYO+2026-09-26": {
+  "id": "cassatt-le-bain-de-l-enfant",
+  "artiste": "Mary Cassatt",
+  "categorie": "figuratif",
+  "echo": "Un jour de pluie, ce moment de tendresse à la maison.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 22,
+   "temp_max": 21,
+   "temp_min": 18,
+   "precip_mm": 25,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 100,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-25T15:23:37.152Z"
  }
 }
