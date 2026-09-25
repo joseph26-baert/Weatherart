@@ -4158,5 +4158,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-24T23:20:08.322Z"
+ },
+ "NEW YORK+2026-09-25": {
+  "id": "bosch-la-mort-de-l-avare",
+  "artiste": "Jérôme Bosch",
+  "categorie": "figuratif",
+  "echo": "Le ciel couvert de New York donne aujourd'hui à cette œuvre une tonalité plus feutrée.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 13,
+   "temp_max": 22,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 25,
+   "humidite_pct": 50,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-25T04:23:18.291Z"
  }
 }
