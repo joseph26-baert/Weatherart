@@ -4298,5 +4298,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-25T23:19:35.184Z"
+ },
+ "NEW YORK+2026-09-26": {
+  "id": "courbet-la-mer",
+  "artiste": "Gustave Courbet",
+  "categorie": "figuratif",
+  "echo": "Par ce vent, on entend presque cette mer verte.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 10,
+   "temp_max": 15,
+   "temp_min": 13,
+   "precip_mm": 6.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 30,
+   "humidite_pct": 80,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-26T04:21:24.611Z"
  }
 }
