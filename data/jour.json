@@ -4478,5 +4478,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-27T18:18:42.673Z"
+ },
+ "GENÈVE+2026-09-28": {
+  "id": "klee-haus-der-firma-z",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 23,
+   "temp_max": 28,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 0,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-27T22:03:57.091Z"
+ },
+ "PARIS+2026-09-28": {
+  "id": "gentileschi-esther-devant-assuerus",
+  "artiste": "Artemisia Gentileschi",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend le malaise de la reine.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 23,
+   "temp_max": 26,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-27T22:03:57.091Z"
+ },
+ "ROME+2026-09-28": {
+  "id": "vangogh-oliviers-mia",
+  "artiste": "Vincent van Gogh",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil, ces troncs tordus ondulent dans la chaleur.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 23,
+   "temp_max": 27,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-27T22:03:57.091Z"
+ },
+ "AMSTERDAM+2026-09-28": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 21,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-27T22:03:57.091Z"
  }
 }
