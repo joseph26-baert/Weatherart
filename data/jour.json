@@ -4558,5 +4558,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-27T22:03:57.091Z"
+ },
+ "LONDRES+2026-09-28": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce noir et blanc a la force tranquille du taureau.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 20,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-28T00:40:08.153Z"
  }
 }
