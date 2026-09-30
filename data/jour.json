@@ -4758,5 +4758,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-29T15:43:42.331Z"
+ },
+ "GENÈVE+2026-09-30": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 22,
+   "temp_max": 25,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T00:22:11.334Z"
+ },
+ "PARIS+2026-09-30": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Un jour de pluie, ces pommes sur la table sont une compagnie.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 22,
+   "temp_max": 24,
+   "temp_min": 19,
+   "precip_mm": 3.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T00:22:11.334Z"
+ },
+ "LONDRES+2026-09-30": {
+  "id": "la-tour-diseuse-de-bonne-aventure",
+  "artiste": "Georges de La Tour",
+  "categorie": "figuratif",
+  "echo": "Par ce beau temps, on se laisserait peut-être prendre au piège, comme ce jeune homme.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 20,
+   "temp_max": 23,
+   "temp_min": 17,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T00:22:11.334Z"
+ },
+ "ROME+2026-09-30": {
+  "id": "mondrian-composition-ii-rouge-bleu-jaune",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, ce rouge éclate et ces lignes noires tiennent tout.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 23,
+   "temp_max": 27,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T00:22:11.334Z"
+ },
+ "AMSTERDAM+2026-09-30": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce noir et blanc a la force tranquille du taureau.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 21,
+   "temp_max": 24,
+   "temp_min": 19,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T00:22:11.334Z"
  }
 }
