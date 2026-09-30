@@ -4858,5 +4858,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-30T00:22:11.334Z"
+ },
+ "NEW YORK+2026-09-30": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 20,
+   "temp_max": 22,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T06:38:31.921Z"
  }
 }
