@@ -4898,5 +4898,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-30T19:12:19.712Z"
+ },
+ "GENÈVE+2026-10-01": {
+  "id": "gentileschi-esther-devant-assuerus",
+  "artiste": "Artemisia Gentileschi",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel dramatique, l'évanouissement d'Esther.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 21,
+   "temp_max": 24,
+   "temp_min": 18,
+   "precip_mm": 12,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T23:43:18.964Z"
+ },
+ "PARIS+2026-10-01": {
+  "id": "vermeer-la-ruelle",
+  "artiste": "Johannes Vermeer",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur, on s'assiérait sur le seuil comme cette femme qui coud.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 20,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T23:43:18.964Z"
+ },
+ "LONDRES+2026-10-01": {
+  "id": "af-klint-retable-1",
+  "artiste": "Hilma af Klint",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 16,
+   "temp_max": 21,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T23:43:18.964Z"
+ },
+ "ROME+2026-10-01": {
+  "id": "millet-l-homme-a-la-houe",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend cet homme qui s'appuie sur sa houe.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 24,
+   "temp_max": 28,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T23:43:18.964Z"
+ },
+ "AMSTERDAM+2026-10-01": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 20,
+   "temp_min": 16,
+   "precip_mm": 2.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-09-30T23:43:18.964Z"
  }
 }
