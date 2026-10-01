@@ -5018,5 +5018,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-01T05:43:37.795Z"
+ },
+ "TOKYO+2026-10-02": {
+  "id": "turner-rome-moderne",
+  "artiste": "Joseph Mallord William Turner",
+  "categorie": "figuratif",
+  "echo": "Sous le soleil de Tokyo aujourd'hui, ses couleurs paraissent plus vives.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 23,
+   "temp_max": 22,
+   "temp_min": 19,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-01T18:50:54.510Z"
  }
 }
