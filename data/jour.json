@@ -4998,5 +4998,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-09-30T23:43:18.964Z"
+ },
+ "NEW YORK+2026-10-01": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 22,
+   "temp_max": 23,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-01T05:43:37.795Z"
  }
 }
