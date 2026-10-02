@@ -5178,5 +5178,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-02T18:21:53.999Z"
+ },
+ "GENÈVE+2026-10-03": {
+  "id": "guo-xi-vieux-arbres-lointain-plat",
+  "artiste": "Guo Xi",
+  "categorie": "figuratif",
+  "echo": "Une journée calme, lointaine, à la manière des Song.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 19,
+   "temp_max": 21,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 0,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-02T22:56:20.664Z"
+ },
+ "PARIS+2026-10-03": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 17,
+   "temp_max": 23,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-02T22:56:20.664Z"
+ },
+ "ROME+2026-10-03": {
+  "id": "caravage-les-musiciens",
+  "artiste": "Le Caravage",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 24,
+   "temp_max": 27,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-02T22:56:20.664Z"
+ },
+ "AMSTERDAM+2026-10-03": {
+  "id": "klee-haus-der-firma-z",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 21,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-02T22:56:20.664Z"
  }
 }
