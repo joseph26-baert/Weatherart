@@ -5318,5 +5318,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-03T17:54:02.031Z"
+ },
+ "GENÈVE+2026-10-04": {
+  "id": "taeuber-arp-composition-verticale-horizontale",
+  "artiste": "Sophie Taeuber-Arp",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 21,
+   "temp_max": 23,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-04T00:32:58.132Z"
+ },
+ "PARIS+2026-10-04": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 24,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-04T00:32:58.132Z"
+ },
+ "LONDRES+2026-10-04": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ces pastels de Jawlensky sont exactement le temps qu'il fait.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 18,
+   "temp_max": 22,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-04T00:32:58.132Z"
+ },
+ "ROME+2026-10-04": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Un ciel qui change, un vitrail qui bouge.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 24,
+   "temp_max": 27,
+   "temp_min": 18,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-04T00:32:58.132Z"
+ },
+ "AMSTERDAM+2026-10-04": {
+  "id": "hammershoi-soleil-sur-le-plancher",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Ce soleil d'aujourd'hui, entrant par une fenêtre, dessine les mêmes rectangles sur le sol.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 18,
+   "temp_max": 20,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-04T00:32:58.132Z"
  }
 }
