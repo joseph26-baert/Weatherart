@@ -5418,5 +5418,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-04T00:32:58.132Z"
+ },
+ "NEW YORK+2026-10-04": {
+  "id": "guo-xi-vieux-arbres-lointain-plat",
+  "artiste": "Guo Xi",
+  "categorie": "figuratif",
+  "echo": "Un jour d'automne, ces arbres nus et ce lointain.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 14,
+   "temp_max": 17,
+   "temp_min": 12,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-04T06:47:57.310Z"
  }
 }
