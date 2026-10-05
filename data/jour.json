@@ -5458,5 +5458,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-04T18:07:10.310Z"
+ },
+ "GENÈVE+2026-10-05": {
+  "id": "sisley-eglise-de-moret-le-soir",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur de fin de journée, la place de Moret.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 20,
+   "temp_max": 24,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T00:50:58.080Z"
+ },
+ "PARIS+2026-10-05": {
+  "id": "kandinsky-paysage-deux-peupliers",
+  "artiste": "Vassily Kandinsky",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, les jaunes et les rouges de Kandinsky chantent.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 24,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T00:50:58.080Z"
+ },
+ "LONDRES+2026-10-05": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 18,
+   "temp_max": 22,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T00:50:58.080Z"
+ },
+ "ROME+2026-10-05": {
+  "id": "gentileschi-esther-devant-assuerus",
+  "artiste": "Artemisia Gentileschi",
+  "categorie": "figuratif",
+  "echo": "Par cette chaleur, on comprend le malaise de la reine.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 23,
+   "temp_max": 26,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T00:50:58.080Z"
+ },
+ "AMSTERDAM+2026-10-05": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ces pastels de Jawlensky sont exactement le temps qu'il fait.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 17,
+   "temp_max": 21,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T00:50:58.080Z"
  }
 }
