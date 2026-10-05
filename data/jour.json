@@ -5578,5 +5578,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-05T06:57:05.247Z"
+ },
+ "TOKYO+2026-10-06": {
+  "id": "klee-senecio",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette chaleur, ces rouges et ces orange sont de saison.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 25,
+   "temp_max": 26,
+   "temp_min": 20,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T15:56:14.095Z"
  }
 }
