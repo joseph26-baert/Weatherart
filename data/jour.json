@@ -5598,5 +5598,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-05T15:56:14.095Z"
+ },
+ "GENÈVE+2026-10-06": {
+  "id": "klee-insula-dulcamara",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on aborde l'île douce-amère de Klee.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 25,
+   "temp_min": 11,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T22:34:49.876Z"
+ },
+ "PARIS+2026-10-06": {
+  "id": "turner-rome-moderne",
+  "artiste": "Joseph Mallord William Turner",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur dorée, Rome fond dans la lumière.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 24,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T22:34:49.876Z"
+ },
+ "ROME+2026-10-06": {
+  "id": "cassatt-le-bain-de-l-enfant",
+  "artiste": "Mary Cassatt",
+  "categorie": "figuratif",
+  "echo": "Un jour de pluie, ce moment de tendresse à la maison.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 20,
+   "temp_max": 20,
+   "temp_min": 18,
+   "precip_mm": 11,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T22:34:49.876Z"
+ },
+ "AMSTERDAM+2026-10-06": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 20,
+   "temp_max": 21,
+   "temp_min": 17,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-05T22:34:49.877Z"
  }
 }
