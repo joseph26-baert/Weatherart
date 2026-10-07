@@ -5878,5 +5878,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-07T17:47:14.720Z"
+ },
+ "GENÈVE+2026-10-08": {
+  "id": "mondrian-composition-10-jetee-et-ocean",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Aujourd'hui, sous la pluie de Genève, ce tableau prend une lumière différente.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 14,
+   "temp_max": 16,
+   "temp_min": 14,
+   "precip_mm": 6,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-07T23:01:53.419Z"
+ },
+ "PARIS+2026-10-08": {
+  "id": "dove-nature-symbolisee-2",
+  "artiste": "Arthur Dove",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces verts et ces bruns sont de saison.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 10,
+   "temp_max": 16,
+   "temp_min": 11,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-07T23:01:53.419Z"
+ },
+ "LONDRES+2026-10-08": {
+  "id": "kandinsky-paysage-deux-peupliers",
+  "artiste": "Vassily Kandinsky",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, les jaunes et les rouges de Kandinsky chantent.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 15,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-07T23:01:53.419Z"
+ },
+ "ROME+2026-10-08": {
+  "id": "marc-destins-d-animaux",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Par ce temps d'orage, la forêt de Marc s'embrase dans le ciel.",
+  "meteo": {
+   "temp": 22,
+   "temp_ressentie": 24,
+   "temp_max": 23,
+   "temp_min": 20,
+   "precip_mm": 13,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 96,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-07T23:01:53.419Z"
+ },
+ "AMSTERDAM+2026-10-08": {
+  "id": "schiele-autoportrait-1911",
+  "artiste": "Egon Schiele",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, l'inquiétude de Schiele trouve un écho.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 11,
+   "temp_max": 16,
+   "temp_min": 13,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 20,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-07T23:01:53.419Z"
  }
 }
