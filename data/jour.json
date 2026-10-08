@@ -6018,5 +6018,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-08T17:51:01.352Z"
+ },
+ "GENÈVE+2026-10-09": {
+  "id": "lundstrom-composition-2",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 13,
+   "temp_max": 17,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-08T23:17:16.247Z"
+ },
+ "PARIS+2026-10-09": {
+  "id": "sargent-madame-x",
+  "artiste": "John Singer Sargent",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, ce portrait en noir et blanc se suffit à lui-même.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 11,
+   "temp_max": 16,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-08T23:17:16.247Z"
+ },
+ "LONDRES+2026-10-09": {
+  "id": "schiele-autoportrait-1911",
+  "artiste": "Egon Schiele",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, l'inquiétude de Schiele trouve un écho.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 14,
+   "temp_max": 18,
+   "temp_min": 11,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-08T23:17:16.247Z"
+ },
+ "ROME+2026-10-09": {
+  "id": "courbet-la-mer",
+  "artiste": "Gustave Courbet",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et bas est celui de Trouville chez Courbet.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 22,
+   "temp_max": 21,
+   "temp_min": 18,
+   "precip_mm": 30.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 95,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-08T23:17:16.247Z"
+ },
+ "AMSTERDAM+2026-10-09": {
+  "id": "mondrian-composition-10-jetee-et-ocean",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Ce temps humide et gris, c'est la plage de Domburg en hiver.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 11,
+   "temp_max": 17,
+   "temp_min": 10,
+   "precip_mm": 19,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 25,
+   "humidite_pct": 90,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-08T23:17:16.247Z"
  }
 }
