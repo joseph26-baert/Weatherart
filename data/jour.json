@@ -6418,5 +6418,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-11T07:06:31.693Z"
+ },
+ "TOKYO+2026-10-12": {
+  "id": "af-klint-retable-1",
+  "artiste": "Hilma af Klint",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 22,
+   "temp_max": 25,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-11T18:49:05.520Z"
  }
 }
