@@ -6518,5 +6518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-11T22:49:32.223Z"
+ },
+ "LONDRES+2026-10-12": {
+  "id": "schwitters-das-undbild",
+  "artiste": "Kurt Schwitters",
+  "categorie": "abstrait",
+  "echo": "Sous cette pluie, on pense aux papiers mouillés que Schwitters ramassait.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 15,
+   "temp_max": 17,
+   "temp_min": 14,
+   "precip_mm": 2,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-12T02:18:40.621Z"
  }
 }
