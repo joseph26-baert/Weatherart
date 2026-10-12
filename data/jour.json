@@ -6558,5 +6558,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-12T10:39:15.386Z"
+ },
+ "TOKYO+2026-10-13": {
+  "id": "sisley-eglise-de-moret-le-soir",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur de fin de journée, la place de Moret.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 23,
+   "temp_max": 23,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-12T20:15:10.431Z"
  }
 }
