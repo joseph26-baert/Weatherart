@@ -6538,5 +6538,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-12T02:18:40.621Z"
+ },
+ "NEW YORK+2026-10-12": {
+  "id": "taeuber-arp-composition-verticale-horizontale",
+  "artiste": "Sophie Taeuber-Arp",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 17,
+   "temp_max": 20,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-12T10:39:15.386Z"
  }
 }
