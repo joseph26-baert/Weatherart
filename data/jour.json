@@ -6578,5 +6578,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-12T20:15:10.431Z"
+ },
+ "GENÈVE+2026-10-13": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 12,
+   "temp_max": 17,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 0,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T02:32:56.068Z"
+ },
+ "PARIS+2026-10-13": {
+  "id": "millet-meules-automne",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 21,
+   "temp_max": 24,
+   "temp_min": 15,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T02:32:56.068Z"
+ },
+ "LONDRES+2026-10-13": {
+  "id": "leger-la-ville",
+  "artiste": "Fernand Léger",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, la ville de Léger claque comme une affiche.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 16,
+   "temp_max": 20,
+   "temp_min": 15,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 20,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T02:32:56.068Z"
+ },
+ "ROME+2026-10-13": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ces pastels de Jawlensky sont exactement le temps qu'il fait.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 17,
+   "temp_max": 23,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T02:32:56.068Z"
+ },
+ "AMSTERDAM+2026-10-13": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 14,
+   "temp_max": 19,
+   "temp_min": 14,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T02:32:56.068Z"
  }
 }
