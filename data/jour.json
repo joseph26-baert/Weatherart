@@ -6718,5 +6718,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-13T18:11:40.744Z"
+ },
+ "GENÈVE+2026-10-14": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 18,
+   "temp_max": 22,
+   "temp_min": 11,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T23:15:26.629Z"
+ },
+ "PARIS+2026-10-14": {
+  "id": "turner-rome-moderne",
+  "artiste": "Joseph Mallord William Turner",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur dorée, Rome fond dans la lumière.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 16,
+   "temp_max": 21,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T23:15:26.629Z"
+ },
+ "LONDRES+2026-10-14": {
+  "id": "vangogh-oliviers-mia",
+  "artiste": "Vincent van Gogh",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil, ces troncs tordus ondulent dans la chaleur.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 14,
+   "temp_max": 19,
+   "temp_min": 11,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T23:15:26.629Z"
+ },
+ "ROME+2026-10-14": {
+  "id": "vermeer-la-ruelle",
+  "artiste": "Johannes Vermeer",
+  "categorie": "figuratif",
+  "echo": "Une journée calme dans une rue tranquille : c'est ce tableau.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 26,
+   "temp_min": 11,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T23:15:26.629Z"
+ },
+ "AMSTERDAM+2026-10-14": {
+  "id": "klee-haus-der-firma-z",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 14,
+   "temp_max": 18,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-13T23:15:26.629Z"
  }
 }
