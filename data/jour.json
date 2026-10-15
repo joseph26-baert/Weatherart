@@ -6998,5 +6998,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-15T19:04:49.334Z"
+ },
+ "GENÈVE+2026-10-16": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Dans le brouillard de Genève, ce tableau paraît plus proche que jamais.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 16,
+   "temp_max": 22,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 0,
+   "humidite_pct": 80,
+   "code_wmo": 45,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-15T22:12:59.508Z"
+ },
+ "PARIS+2026-10-16": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces signes en ocre et gris ont la douceur d'un vieux mur.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 17,
+   "temp_max": 22,
+   "temp_min": 14,
+   "precip_mm": 2,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-15T22:12:59.508Z"
+ },
+ "ROME+2026-10-16": {
+  "id": "klee-insula-dulcamara",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on aborde l'île douce-amère de Klee.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 20,
+   "temp_max": 25,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-15T22:12:59.508Z"
+ },
+ "AMSTERDAM+2026-10-16": {
+  "id": "lautrec-au-moulin-rouge",
+  "artiste": "Henri de Toulouse-Lautrec",
+  "categorie": "figuratif",
+  "echo": "Par cette pluie, l'intérieur bruyant et chaud d'un café a quelque chose d'attirant.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 19,
+   "temp_min": 13,
+   "precip_mm": 11.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-15T22:12:59.508Z"
  }
 }
