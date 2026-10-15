@@ -6958,5 +6958,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-14T23:09:54.287Z"
+ },
+ "NEW YORK+2026-10-15": {
+  "id": "millet-meules-automne",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 14,
+   "temp_max": 19,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-15T04:28:44.362Z"
  }
 }
