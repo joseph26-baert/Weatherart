@@ -7118,5 +7118,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-16T07:04:49.266Z"
+ },
+ "TOKYO+2026-10-17": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, ces éclats de couleur brillent comme un vitrail.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 20,
+   "temp_max": 23,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-16T17:21:43.852Z"
  }
 }
