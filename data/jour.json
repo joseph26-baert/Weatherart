@@ -7278,5 +7278,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-17T17:05:11.434Z"
+ },
+ "GENÈVE+2026-10-18": {
+  "id": "klee-magie-des-poissons",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous cette pluie, on est un peu dans cet aquarium enchanté.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 9,
+   "temp_max": 13,
+   "temp_min": 10,
+   "precip_mm": 5.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-17T22:14:05.070Z"
+ },
+ "PARIS+2026-10-18": {
+  "id": "lissitzky-proun-19d",
+  "artiste": "El Lissitzky",
+  "categorie": "abstrait",
+  "echo": "Par ce temps clair, ces volumes flottent dans un air parfaitement net.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 9,
+   "temp_max": 14,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-17T22:14:05.070Z"
+ },
+ "ROME+2026-10-18": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 20,
+   "temp_max": 24,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-17T22:14:05.070Z"
+ },
+ "AMSTERDAM+2026-10-18": {
+  "id": "sisley-inondation-port-marly-1872",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Après les pluies d'aujourd'hui, on pense à cette eau montée tranquillement jusqu'aux portes.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 12,
+   "temp_min": 10,
+   "precip_mm": 4,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 90,
+   "code_wmo": 55,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-17T22:14:05.070Z"
  }
 }
