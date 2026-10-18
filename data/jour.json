@@ -7418,5 +7418,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-18T18:02:39.026Z"
+ },
+ "GENÈVE+2026-10-19": {
+  "id": "hammershoi-soir-dans-le-salon",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, ces gris-là paraissent presque chaleureux.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 12,
+   "temp_max": 15,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-18T23:04:43.861Z"
+ },
+ "PARIS+2026-10-19": {
+  "id": "sargent-madame-x",
+  "artiste": "John Singer Sargent",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, ce portrait en noir et blanc se suffit à lui-même.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 9,
+   "temp_max": 14,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-18T23:04:43.861Z"
+ },
+ "LONDRES+2026-10-19": {
+  "id": "guo-xi-vieux-arbres-lointain-plat",
+  "artiste": "Guo Xi",
+  "categorie": "figuratif",
+  "echo": "Une journée calme, lointaine, à la manière des Song.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 10,
+   "temp_max": 14,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-18T23:04:43.861Z"
+ },
+ "ROME+2026-10-19": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, ces éclats de couleur brillent comme un vitrail.",
+  "meteo": {
+   "temp": 20,
+   "temp_ressentie": 20,
+   "temp_max": 25,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-18T23:04:43.861Z"
+ },
+ "AMSTERDAM+2026-10-19": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce noir et blanc a la force tranquille du taureau.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 10,
+   "temp_max": 15,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-18T23:04:43.861Z"
  }
 }
