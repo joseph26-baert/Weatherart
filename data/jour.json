@@ -7538,5 +7538,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-19T07:41:47.191Z"
+ },
+ "TOKYO+2026-10-20": {
+  "id": "luce-pont-saint-michel",
+  "artiste": "Maximilien Luce",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil bas, la Seine et ses bains flottants.",
+  "meteo": {
+   "temp": 23,
+   "temp_ressentie": 26,
+   "temp_max": 26,
+   "temp_min": 17,
+   "precip_mm": 3.5,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-19T15:32:29.676Z"
  }
 }
