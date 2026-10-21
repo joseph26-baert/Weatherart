@@ -7838,5 +7838,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-21T15:11:10.906Z"
+ },
+ "GENÈVE+2026-10-22": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, ces éclats de couleur brillent comme un vitrail.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 9,
+   "temp_max": 14,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-21T23:16:04.060Z"
+ },
+ "PARIS+2026-10-22": {
+  "id": "lundstrom-composition-1",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, les bois bruts de Lundstrøm ont quelque chose de très juste.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 10,
+   "temp_max": 16,
+   "temp_min": 9,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-21T23:16:04.060Z"
+ },
+ "LONDRES+2026-10-22": {
+  "id": "schiele-autoportrait-1911",
+  "artiste": "Egon Schiele",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, l'inquiétude de Schiele trouve un écho.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 14,
+   "temp_min": 9,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-21T23:16:04.060Z"
+ },
+ "ROME+2026-10-22": {
+  "id": "degas-chez-la-modiste",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 22,
+   "temp_min": 15,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-21T23:16:04.060Z"
+ },
+ "AMSTERDAM+2026-10-22": {
+  "id": "hammershoi-soir-dans-le-salon",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Par cette pluie, l'intérieur silencieux de Hammershøi fait envie.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 7,
+   "temp_max": 13,
+   "temp_min": 8,
+   "precip_mm": 5.5,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 25,
+   "humidite_pct": 80,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-21T23:16:04.060Z"
  }
 }
