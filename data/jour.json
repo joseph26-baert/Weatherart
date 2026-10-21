@@ -7798,5 +7798,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-20T23:49:08.594Z"
+ },
+ "NEW YORK+2026-10-21": {
+  "id": "sisley-eglise-de-moret-le-soir",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Par ce temps clair, la lumière rasante sur la pierre.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 9,
+   "temp_max": 18,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 20,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-21T04:35:37.853Z"
  }
 }
