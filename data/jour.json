@@ -7938,5 +7938,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-21T23:16:04.060Z"
+ },
+ "NEW YORK+2026-10-22": {
+  "id": "ancher-mere-dans-la-piece-rouge",
+  "artiste": "Anna Ancher",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la pièce rouge d'Anna Ancher est un refuge idéal.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 8,
+   "temp_max": 18,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 15,
+   "humidite_pct": 40,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-22T04:34:29.057Z"
  }
 }
