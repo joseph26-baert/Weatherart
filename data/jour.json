@@ -7978,5 +7978,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-22T15:14:01.242Z"
+ },
+ "GENÈVE+2026-10-23": {
+  "id": "hiroshige-averse-ohashi",
+  "artiste": "Utagawa Hiroshige",
+  "categorie": "figuratif",
+  "echo": "L'averse qui tombe aujourd'hui sur la ville a exactement ce rythme pressé.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 15,
+   "temp_min": 6,
+   "precip_mm": 7.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-22T23:17:41.187Z"
+ },
+ "PARIS+2026-10-23": {
+  "id": "poussin-la-mort-de-germanicus",
+  "artiste": "Nicolas Poussin",
+  "categorie": "figuratif",
+  "echo": "Un jour de pluie, la gravité de Poussin.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 8,
+   "temp_max": 14,
+   "temp_min": 10,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 25,
+   "humidite_pct": 70,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-22T23:17:41.187Z"
+ },
+ "LONDRES+2026-10-23": {
+  "id": "lautrec-au-moulin-rouge",
+  "artiste": "Henri de Toulouse-Lautrec",
+  "categorie": "figuratif",
+  "echo": "Par cette pluie, l'intérieur bruyant et chaud d'un café a quelque chose d'attirant.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 8,
+   "temp_max": 13,
+   "temp_min": 9,
+   "precip_mm": 11,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-22T23:17:41.187Z"
+ },
+ "ROME+2026-10-23": {
+  "id": "sisley-eglise-de-moret-le-soir",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur de fin de journée, la place de Moret.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 22,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-22T23:17:41.187Z"
+ },
+ "AMSTERDAM+2026-10-23": {
+  "id": "courbet-la-mer",
+  "artiste": "Gustave Courbet",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et bas est celui de Trouville chez Courbet.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 8,
+   "temp_max": 13,
+   "temp_min": 9,
+   "precip_mm": 11.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 25,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-22T23:17:41.187Z"
  }
 }
