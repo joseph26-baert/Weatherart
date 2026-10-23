@@ -8078,5 +8078,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-22T23:17:41.187Z"
+ },
+ "NEW YORK+2026-10-23": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, ces éclats de couleur brillent comme un vitrail.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 8,
+   "temp_max": 15,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 15,
+   "humidite_pct": 40,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-23T04:39:38.484Z"
  }
 }
