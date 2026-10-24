@@ -8218,5 +8218,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-23T23:05:34.743Z"
+ },
+ "NEW YORK+2026-10-24": {
+  "id": "klee-en-rythme",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce rythme de gris et de blancs semble battre la mesure.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 8,
+   "temp_max": 16,
+   "temp_min": 4,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-24T07:13:44.106Z"
  }
 }
