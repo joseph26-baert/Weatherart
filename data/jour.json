@@ -8238,5 +8238,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-24T07:13:44.106Z"
+ },
+ "TOKYO+2026-10-25": {
+  "id": "kandinsky-improvisation-staedel",
+  "artiste": "Vassily Kandinsky",
+  "categorie": "abstrait",
+  "echo": "Sous cette pluie, cette barque à demi effacée semble prendre l'eau.",
+  "meteo": {
+   "temp": 21,
+   "temp_ressentie": 24,
+   "temp_max": 25,
+   "temp_min": 15,
+   "precip_mm": 7.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-24T16:33:16.262Z"
  }
 }
