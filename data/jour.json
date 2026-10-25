@@ -8358,5 +8358,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-25T01:03:58.024Z"
+ },
+ "NEW YORK+2026-10-25": {
+  "id": "turner-rome-moderne",
+  "artiste": "Joseph Mallord William Turner",
+  "categorie": "figuratif",
+  "echo": "Sous le soleil de New York aujourd'hui, ses couleurs paraissent plus vives.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 18,
+   "temp_min": 2,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 40,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-25T06:02:21.248Z"
  }
 }
