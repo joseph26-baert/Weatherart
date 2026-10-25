@@ -8378,5 +8378,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-25T06:02:21.248Z"
+ },
+ "TOKYO+2026-10-26": {
+  "id": "hiroshige-averse-ohashi",
+  "artiste": "Utagawa Hiroshige",
+  "categorie": "figuratif",
+  "echo": "L'averse qui tombe aujourd'hui sur la ville a exactement ce rythme pressé.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 18,
+   "temp_max": 19,
+   "temp_min": 15,
+   "precip_mm": 30,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-25T16:06:09.503Z"
  }
 }
