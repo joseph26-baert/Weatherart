@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-26T06:04:49.669Z"
+ },
+ "TOKYO+2026-10-27": {
+  "id": "vermeer-la-ruelle",
+  "artiste": "Johannes Vermeer",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur, on s'assiérait sur le seuil comme cette femme qui coud.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 20,
+   "temp_max": 21,
+   "temp_min": 16,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T19:13:16.977Z"
  }
 }
