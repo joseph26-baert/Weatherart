@@ -8398,5 +8398,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-25T16:06:09.503Z"
+ },
+ "GENÈVE+2026-10-26": {
+  "id": "freundlich-composition-1937",
+  "artiste": "Otto Freundlich",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, ces formes de pierre paraissent encore plus graves.",
+  "meteo": {
+   "temp": 9,
+   "temp_ressentie": 8,
+   "temp_max": 13,
+   "temp_min": 3,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 0,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T00:15:13.518Z"
+ },
+ "PARIS+2026-10-26": {
+  "id": "klee-en-rythme",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce rythme de gris et de blancs semble battre la mesure.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 10,
+   "temp_max": 14,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T00:15:13.518Z"
+ },
+ "LONDRES+2026-10-26": {
+  "id": "homer-northeaster",
+  "artiste": "Winslow Homer",
+  "categorie": "figuratif",
+  "echo": "Sous cette pluie battante, on comprend pourquoi Homer a effacé les hommes du tableau.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 12,
+   "temp_max": 16,
+   "temp_min": 9,
+   "precip_mm": 7.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T00:15:13.518Z"
+ },
+ "ROME+2026-10-26": {
+  "id": "caravage-les-musiciens",
+  "artiste": "Le Caravage",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur, on entendrait presque le luth qu'on accorde.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 17,
+   "temp_max": 22,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T00:15:13.518Z"
+ },
+ "AMSTERDAM+2026-10-26": {
+  "id": "durer-melencolia",
+  "artiste": "Albrecht Dürer",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la mélancolie a bonne presse depuis Dürer.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 8,
+   "temp_max": 14,
+   "temp_min": 11,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 20,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T00:15:13.518Z"
  }
 }
