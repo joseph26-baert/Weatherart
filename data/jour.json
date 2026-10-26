@@ -8538,5 +8538,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-26T19:13:16.977Z"
+ },
+ "GENÈVE+2026-10-27": {
+  "id": "hammershoi-soleil-sur-le-plancher",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Une journée calme : ce tableau en est la définition.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 10,
+   "temp_max": 15,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 0,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T23:48:36.246Z"
+ },
+ "PARIS+2026-10-27": {
+  "id": "millet-meules-automne",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 14,
+   "temp_max": 19,
+   "temp_min": 11,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T23:48:36.246Z"
+ },
+ "ROME+2026-10-27": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 21,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T23:48:36.246Z"
+ },
+ "AMSTERDAM+2026-10-27": {
+  "id": "qu-ding-montagnes-d-ete",
+  "artiste": "Qu Ding (attribué à)",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et voilé est celui des montagnes chinoises en été.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 11,
+   "temp_max": 15,
+   "temp_min": 12,
+   "precip_mm": 4,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 20,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T23:48:36.246Z"
  }
 }
