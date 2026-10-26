@@ -8498,5 +8498,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-26T00:15:13.518Z"
+ },
+ "NEW YORK+2026-10-26": {
+  "id": "kandinsky-bleu-de-ciel",
+  "artiste": "Vassily Kandinsky",
+  "categorie": "abstrait",
+  "echo": "Ce ciel bleu d'aujourd'hui est celui que Kandinsky voyait de sa fenêtre.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 12,
+   "temp_max": 22,
+   "temp_min": 5,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-26T06:04:49.669Z"
  }
 }
