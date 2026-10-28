@@ -8538,5 +8538,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-28T08:21:28.168Z"
+ },
+ "TOKYO+2026-10-29": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil qui perce, la brume de Monet s'en va.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 14,
+   "temp_max": 17,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-28T15:57:21.671Z"
  }
 }
