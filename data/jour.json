@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-08-28": {
-  "id": "bruegel-moisson",
-  "artiste": "Pieter Bruegel l'Ancien",
-  "categorie": "figuratif",
-  "echo": "Par cette canicule, on comprend le paysan endormi sous l'arbre.",
-  "meteo": {
-   "temp": 28,
-   "temp_ressentie": 34,
-   "temp_max": 32,
-   "temp_min": 23,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 0,
-   "humidite_pct": 80,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-27T20:29:33.131Z"
- },
- "GENÈVE+2026-08-28": {
-  "id": "hokusai-orage-sous-le-sommet",
-  "artiste": "Katsushika Hokusai",
-  "categorie": "figuratif",
-  "echo": "Par ce temps d'orage, l'éclair rouge d'Hokusai zigzague sur votre ville.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 24,
-   "temp_max": 25,
-   "temp_min": 20,
-   "precip_mm": 25.5,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 96,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-28T06:30:24.341Z"
- },
- "PARIS+2026-08-28": {
-  "id": "beraud-boulevard-poissonniere-sous-la-pluie",
-  "artiste": "Jean Béraud",
-  "categorie": "figuratif",
-  "echo": "Sous cette pluie, le boulevard de Béraud est exactement le vôtre.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 20,
-   "temp_max": 23,
-   "temp_min": 18,
-   "precip_mm": 16,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 95,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-28T06:30:24.341Z"
- },
- "LONDRES+2026-08-28": {
-  "id": "kandinsky-maisons-a-murnau",
-  "artiste": "Vassily Kandinsky",
-  "categorie": "abstrait",
-  "echo": "Un ciel changeant, comme aujourd'hui, convient à ces couleurs qui n'ont pas encore choisi.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 19,
-   "temp_max": 24,
-   "temp_min": 17,
-   "precip_mm": 0.5,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 15,
-   "humidite_pct": 60,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-28T06:30:24.341Z"
- },
- "ROME+2026-08-28": {
-  "id": "courbet-demoiselles-des-bords-de-la-seine",
-  "artiste": "Gustave Courbet",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, on s'allongerait dans l'herbe comme ces deux-là.",
-  "meteo": {
-   "temp": 32,
-   "temp_ressentie": 35,
-   "temp_max": 39,
-   "temp_min": 25,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 40,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-28T06:30:24.341Z"
- },
- "NEW YORK+2026-08-28": {
-  "id": "millet-l-homme-a-la-houe",
-  "artiste": "Jean-François Millet",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, on comprend cet homme qui s'appuie sur sa houe.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 27,
-   "temp_max": 27,
-   "temp_min": 20,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 5,
-   "humidite_pct": 80,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-28T06:30:24.341Z"
- },
- "AMSTERDAM+2026-08-28": {
-  "id": "caravage-les-musiciens",
-  "artiste": "Le Caravage",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, cet intérieur chaud et musical fait envie.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 19,
-   "temp_max": 22,
-   "temp_min": 18,
-   "precip_mm": 2.5,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 15,
-   "humidite_pct": 80,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-28T06:30:24.341Z"
- },
  "TOKYO+2026-08-29": {
   "id": "qu-ding-montagnes-d-ete",
   "artiste": "Qu Ding (attribué à)",
@@ -8558,5 +8418,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-27T16:30:46.051Z"
+ },
+ "GENÈVE+2026-10-28": {
+  "id": "jawlensky-variation-arbres",
+  "artiste": "Alexej von Jawlensky",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces couleurs tendres paraissent naturelles.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 11,
+   "temp_max": 15,
+   "temp_min": 8,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-28T01:15:27.713Z"
+ },
+ "PARIS+2026-10-28": {
+  "id": "holzel-composition-abstraite-paysage",
+  "artiste": "Adolf Hölzel",
+  "categorie": "abstrait",
+  "echo": "Un ciel qui change, un vitrail qui bouge.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 11,
+   "temp_max": 15,
+   "temp_min": 8,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-28T01:15:27.713Z"
+ },
+ "LONDRES+2026-10-28": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 11,
+   "temp_max": 15,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-28T01:15:27.713Z"
+ },
+ "ROME+2026-10-28": {
+  "id": "lundstrom-composition-2",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 15,
+   "temp_max": 20,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-28T01:15:27.713Z"
+ },
+ "AMSTERDAM+2026-10-28": {
+  "id": "schiele-autoportrait-1911",
+  "artiste": "Egon Schiele",
+  "categorie": "figuratif",
+  "echo": "Cet automne viennois de 1911 n'était sans doute pas très différent d'aujourd'hui.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 10,
+   "temp_max": 15,
+   "temp_min": 9,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-28T01:15:27.713Z"
  }
 }
