@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-28T01:15:27.713Z"
+ },
+ "NEW YORK+2026-10-28": {
+  "id": "freundlich-composition-1937",
+  "artiste": "Otto Freundlich",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, le noir et blanc de Freundlich est de saison.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 9,
+   "temp_max": 16,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-28T08:21:28.168Z"
  }
 }
