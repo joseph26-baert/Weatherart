@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-30T00:52:40.436Z"
+ },
+ "NEW YORK+2026-10-30": {
+  "id": "hiroshige-jardin-de-pruniers-kamata",
+  "artiste": "Utagawa Hiroshige",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil pâle, ces fleurs roses ont l'air de trembler.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 13,
+   "temp_max": 22,
+   "temp_min": 8,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-30T07:02:26.765Z"
  }
 }
