@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-08-31": {
-  "id": "caravage-les-musiciens",
-  "artiste": "Le Caravage",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
-  "meteo": {
-   "temp": 27,
-   "temp_ressentie": 31,
-   "temp_max": 29,
-   "temp_min": 22,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 5,
-   "humidite_pct": 80,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-30T15:14:57.347Z"
- },
- "GENÈVE+2026-08-31": {
-  "id": "klee-senecio",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Par cette chaleur, ces rouges et ces orange sont de saison.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 22,
-   "temp_max": 26,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 40,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-30T22:14:44.045Z"
- },
- "PARIS+2026-08-31": {
-  "id": "luce-pont-saint-michel",
-  "artiste": "Maximilien Luce",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur, les quais de Luce à la fin du jour.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 19,
-   "temp_max": 23,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 15,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-30T22:14:44.045Z"
- },
- "ROME+2026-08-31": {
-  "id": "af-klint-retable-1",
-  "artiste": "Hilma af Klint",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
-  "meteo": {
-   "temp": 29,
-   "temp_ressentie": 32,
-   "temp_max": 35,
-   "temp_min": 23,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 0,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-30T22:14:44.045Z"
- },
- "AMSTERDAM+2026-08-31": {
-  "id": "krishna-dompte-le-serpent-kaliya",
-  "artiste": "Anonyme (royaume de Mewar, Rajasthan)",
-  "categorie": "figuratif",
-  "echo": "Sous cette pluie, les eaux de la Yamuna montent et Krishna danse.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 16,
-   "temp_max": 19,
-   "temp_min": 17,
-   "precip_mm": 21,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 20,
-   "humidite_pct": 80,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-30T22:14:44.045Z"
- },
- "LONDRES+2026-08-31": {
-  "id": "vermeer-la-ruelle",
-  "artiste": "Johannes Vermeer",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur, on s'assiérait sur le seuil comme cette femme qui coud.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 17,
-   "temp_max": 22,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 15,
-   "humidite_pct": 60,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-30T23:14:52.505Z"
- },
- "NEW YORK+2026-08-31": {
-  "id": "kandinsky-maisons-a-murnau",
-  "artiste": "Vassily Kandinsky",
-  "categorie": "abstrait",
-  "echo": "Cette douceur d'été rappelle celle des séjours bavarois de Kandinsky.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 25,
-   "temp_max": 25,
-   "temp_min": 20,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 5,
-   "humidite_pct": 80,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-08-31T04:14:48.138Z"
- },
  "TOKYO+2026-09-01": {
   "id": "bonnard-salle-a-manger-a-la-campagne",
   "artiste": "Pierre Bonnard",
@@ -8638,5 +8498,45 @@
    "is_day": 1
   },
   "fixe_le": "2026-10-30T23:41:06.730Z"
+ },
+ "LONDRES+2026-10-31": {
+  "id": "klee-haus-der-firma-z",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Une journée calme comme aujourd'hui convient à ce dessin patient.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 10,
+   "temp_max": 14,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-31T05:28:31.717Z"
+ },
+ "NEW YORK+2026-10-31": {
+  "id": "popova-architectonique-picturale",
+  "artiste": "Lioubov Popova",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, la solidité de Popova rassure.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 8,
+   "temp_max": 15,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-10-31T05:28:31.717Z"
  }
 }
