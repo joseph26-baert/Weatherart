@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-02": {
-  "id": "kandinsky-paysage-deux-peupliers",
-  "artiste": "Vassily Kandinsky",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, les jaunes et les rouges de Kandinsky chantent.",
-  "meteo": {
-   "temp": 28,
-   "temp_ressentie": 33,
-   "temp_max": 31,
-   "temp_min": 23,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 40,
-   "vent_kmh": 5,
-   "humidite_pct": 80,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-01T15:39:59.718Z"
- },
- "GENÈVE+2026-09-02": {
-  "id": "caravage-les-musiciens",
-  "artiste": "Le Caravage",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 24,
-   "temp_max": 29,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-01T22:19:27.446Z"
- },
- "PARIS+2026-09-02": {
-  "id": "torres-garcia-composition-universelle",
-  "artiste": "Joaquín Torres-García",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 21,
-   "temp_max": 25,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-01T22:19:27.446Z"
- },
- "ROME+2026-09-02": {
-  "id": "lorrain-troyennes-incendiant-leur-flotte",
-  "artiste": "Claude Lorrain",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur dorée, la mer de Claude est tout près.",
-  "meteo": {
-   "temp": 29,
-   "temp_ressentie": 31,
-   "temp_max": 35,
-   "temp_min": 22,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-01T22:19:27.446Z"
- },
- "AMSTERDAM+2026-09-02": {
-  "id": "cezanne-nature-morte-aux-pommes-getty",
-  "artiste": "Paul Cézanne",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 19,
-   "temp_max": 21,
-   "temp_min": 16,
-   "precip_mm": 1.5,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 15,
-   "humidite_pct": 70,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-01T22:19:27.446Z"
- },
- "LONDRES+2026-09-02": {
-  "id": "degas-chez-la-modiste",
-  "artiste": "Edgar Degas",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 18,
-   "temp_max": 21,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 15,
-   "humidite_pct": 70,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-01T23:17:43.405Z"
- },
- "NEW YORK+2026-09-02": {
-  "id": "klee-haus-der-firma-z",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 24,
-   "temp_max": 23,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 10,
-   "humidite_pct": 90,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-02T04:23:17.449Z"
- },
  "TOKYO+2026-09-03": {
   "id": "klee-senecio",
   "artiste": "Paul Klee",
@@ -8638,5 +8498,45 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-01T23:31:58.456Z"
+ },
+ "LONDRES+2026-11-02": {
+  "id": "friedrich-deux-hommes-lune",
+  "artiste": "Caspar David Friedrich",
+  "categorie": "figuratif",
+  "echo": "Le froid d'aujourd'hui invite à cette même immobilité recueillie.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 7,
+   "temp_max": 12,
+   "temp_min": 9,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-02T05:53:54.017Z"
+ },
+ "NEW YORK+2026-11-02": {
+  "id": "klee-en-rythme",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce rythme de gris et de blancs semble battre la mesure.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 11,
+   "temp_max": 19,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-02T05:53:54.017Z"
  }
 }
