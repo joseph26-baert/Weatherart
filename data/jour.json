@@ -8538,5 +8538,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-03T06:39:05.252Z"
+ },
+ "TOKYO+2026-11-04": {
+  "id": "schiele-autoportrait-1911",
+  "artiste": "Egon Schiele",
+  "categorie": "figuratif",
+  "echo": "Cet automne viennois de 1911 n'était sans doute pas très différent d'aujourd'hui.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 13,
+   "temp_max": 16,
+   "temp_min": 12,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 51,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-03T15:01:43.672Z"
  }
 }
