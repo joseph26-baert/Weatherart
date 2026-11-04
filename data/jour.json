@@ -8558,5 +8558,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-04T17:09:22.140Z"
+ },
+ "GENÈVE+2026-11-05": {
+  "id": "malevitch-croix-noire",
+  "artiste": "Kazimir Malevitch",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, la Croix noire ne demande rien.",
+  "meteo": {
+   "temp": 9,
+   "temp_ressentie": 7,
+   "temp_max": 11,
+   "temp_min": 6,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-04T23:35:56.282Z"
+ },
+ "PARIS+2026-11-05": {
+  "id": "lundstrom-composition-2",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 6,
+   "temp_max": 11,
+   "temp_min": 5,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-04T23:35:56.282Z"
+ },
+ "ROME+2026-11-05": {
+  "id": "taeuber-arp-composition-verticale-horizontale",
+  "artiste": "Sophie Taeuber-Arp",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces tons feutrés sont de saison.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 14,
+   "temp_max": 19,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-04T23:35:56.282Z"
+ },
+ "AMSTERDAM+2026-11-05": {
+  "id": "degas-classe-de-danse",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la salle de répétition paraît un refuge tiède et bruissant.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 4,
+   "temp_max": 10,
+   "temp_min": 5,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-04T23:35:56.282Z"
  }
 }
