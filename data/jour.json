@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-04T01:17:19.071Z"
+ },
+ "NEW YORK+2026-11-04": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 15,
+   "temp_max": 20,
+   "temp_min": 11,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-04T09:02:25.508Z"
  }
 }
