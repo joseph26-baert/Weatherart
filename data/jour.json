@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-05": {
-  "id": "dove-nature-symbolisee-2",
-  "artiste": "Arthur Dove",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel voilé, ces verts et ces bruns sont de saison.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 27,
-   "temp_max": 25,
-   "temp_min": 21,
-   "precip_mm": 1.5,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 80,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-04T15:22:30.763Z"
- },
- "GENÈVE+2026-09-05": {
-  "id": "bonnard-salle-a-manger-a-la-campagne",
-  "artiste": "Pierre Bonnard",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, on ouvrirait porte et fenêtre comme chez Bonnard.",
-  "meteo": {
-   "temp": 26,
-   "temp_ressentie": 26,
-   "temp_max": 30,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-04T22:20:05.279Z"
- },
- "PARIS+2026-09-05": {
-  "id": "degas-chez-la-modiste",
-  "artiste": "Edgar Degas",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 21,
-   "temp_max": 24,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-04T22:20:05.279Z"
- },
- "ROME+2026-09-05": {
-  "id": "klee-vue-sur-le-pays-fertile",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Par cette chaleur, on pense au Nil de Klee, ligne bleue dans le désert.",
-  "meteo": {
-   "temp": 28,
-   "temp_ressentie": 30,
-   "temp_max": 34,
-   "temp_min": 21,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 0,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-04T22:20:05.279Z"
- },
- "AMSTERDAM+2026-09-05": {
-  "id": "marc-le-taureau",
-  "artiste": "Franz Marc",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, ce noir et blanc a la force tranquille du taureau.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 16,
-   "temp_max": 20,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 20,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-04T22:20:05.279Z"
- },
- "LONDRES+2026-09-05": {
-  "id": "taeuber-arp-composition-verticale-horizontale",
-  "artiste": "Sophie Taeuber-Arp",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 17,
-   "temp_max": 21,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-04T23:18:27.184Z"
- },
- "NEW YORK+2026-09-05": {
-  "id": "torres-garcia-composition-universelle",
-  "artiste": "Joaquín Torres-García",
-  "categorie": "abstrait",
-  "echo": "Le soleil d'aujourd'hui figure sans doute quelque part dans cette grille.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 23,
-   "temp_max": 27,
-   "temp_min": 18,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-05T04:20:48.297Z"
- },
  "TOKYO+2026-09-06": {
   "id": "corot-ville-d-avray",
   "artiste": "Camille Corot",
@@ -8638,5 +8498,45 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-04T23:35:56.282Z"
+ },
+ "LONDRES+2026-11-05": {
+  "id": "malevitch-carre-noir",
+  "artiste": "Kazimir Malevitch",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel plombé, le noir de Malevitch est de saison.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 7,
+   "temp_max": 11,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-05T06:35:08.402Z"
+ },
+ "NEW YORK+2026-11-05": {
+  "id": "pissarro-pont-royal-pavillon-de-flore",
+  "artiste": "Camille Pissarro",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et calme, c'est la Seine de Pissarro.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 20,
+   "temp_max": 23,
+   "temp_min": 16,
+   "precip_mm": 3,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-05T06:35:08.402Z"
  }
 }
