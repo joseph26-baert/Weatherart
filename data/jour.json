@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-06": {
-  "id": "corot-ville-d-avray",
-  "artiste": "Camille Corot",
-  "categorie": "figuratif",
-  "echo": "Ce temps humide et doux est celui de l'étang de Corot.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 24,
-   "temp_max": 23,
-   "temp_min": 21,
-   "precip_mm": 52,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 5,
-   "humidite_pct": 90,
-   "code_wmo": 65,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-05T15:19:37.482Z"
- },
- "GENÈVE+2026-09-06": {
-  "id": "mondrian-composition-ii-rouge-bleu-jaune",
-  "artiste": "Piet Mondrian",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, ce rouge éclate et ces lignes noires tiennent tout.",
-  "meteo": {
-   "temp": 25,
-   "temp_ressentie": 26,
-   "temp_max": 30,
-   "temp_min": 18,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-05T22:19:20.411Z"
- },
- "PARIS+2026-09-06": {
-  "id": "caravage-les-musiciens",
-  "artiste": "Le Caravage",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 22,
-   "temp_max": 28,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 40,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-05T22:19:20.411Z"
- },
- "ROME+2026-09-06": {
-  "id": "millet-l-homme-a-la-houe",
-  "artiste": "Jean-François Millet",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, on comprend cet homme qui s'appuie sur sa houe.",
-  "meteo": {
-   "temp": 28,
-   "temp_ressentie": 31,
-   "temp_max": 32,
-   "temp_min": 22,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-05T22:19:20.411Z"
- },
- "AMSTERDAM+2026-09-06": {
-  "id": "ancher-mere-dans-la-piece-rouge",
-  "artiste": "Anna Ancher",
-  "categorie": "figuratif",
-  "echo": "Ce soleil qui entre par la fenêtre dessine chez vous les mêmes colonnes de lumière.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 18,
-   "temp_max": 23,
-   "temp_min": 13,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 40,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-05T22:19:20.411Z"
- },
- "LONDRES+2026-09-06": {
-  "id": "monet-meule-soleil-dans-la-brume",
-  "artiste": "Claude Monet",
-  "categorie": "figuratif",
-  "echo": "Sous ce soleil qui perce, la brume de Monet s'en va.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 21,
-   "temp_max": 27,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-05T23:18:48.254Z"
- },
- "NEW YORK+2026-09-06": {
-  "id": "af-klint-retable-1",
-  "artiste": "Hilma af Klint",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 22,
-   "temp_max": 25,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-06T04:21:20.304Z"
- },
  "TOKYO+2026-09-07": {
   "id": "sargent-madame-x",
   "artiste": "John Singer Sargent",
@@ -8558,5 +8418,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-05T15:24:37.152Z"
+ },
+ "GENÈVE+2026-11-06": {
+  "id": "freundlich-composition-1937",
+  "artiste": "Otto Freundlich",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, ces formes de pierre paraissent encore plus graves.",
+  "meteo": {
+   "temp": 9,
+   "temp_ressentie": 8,
+   "temp_max": 11,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 0,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-06T02:20:32.173Z"
+ },
+ "PARIS+2026-11-06": {
+  "id": "sargent-madame-x",
+  "artiste": "John Singer Sargent",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, ce portrait en noir et blanc se suffit à lui-même.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 9,
+   "temp_max": 13,
+   "temp_min": 8,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-06T02:20:32.173Z"
+ },
+ "LONDRES+2026-11-06": {
+  "id": "mondrian-arbre-gris",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, cet arbre nu est de saison.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 9,
+   "temp_max": 12,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-06T02:20:32.173Z"
+ },
+ "ROME+2026-11-06": {
+  "id": "durer-melencolia",
+  "artiste": "Albrecht Dürer",
+  "categorie": "figuratif",
+  "echo": "Un jour de pluie, on s'assied comme lui, le menton dans la main.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 14,
+   "temp_max": 16,
+   "temp_min": 13,
+   "precip_mm": 3,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-06T02:20:32.173Z"
+ },
+ "AMSTERDAM+2026-11-06": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, l'animal de Marc se ramasse comme nous.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 4,
+   "temp_max": 9,
+   "temp_min": 5,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-06T02:20:32.173Z"
  }
 }
