@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-06T02:20:32.173Z"
+ },
+ "NEW YORK+2026-11-06": {
+  "id": "cassatt-le-bain-de-l-enfant",
+  "artiste": "Mary Cassatt",
+  "categorie": "figuratif",
+  "echo": "Un jour de pluie, ce moment de tendresse à la maison.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 20,
+   "temp_max": 20,
+   "temp_min": 14,
+   "precip_mm": 31.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 100,
+   "code_wmo": 65,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-06T10:44:47.225Z"
  }
 }
