@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-07T02:44:30.865Z"
+ },
+ "NEW YORK+2026-11-07": {
+  "id": "mondrian-composition-ii-rouge-bleu-jaune",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, ce rouge éclate et ces lignes noires tiennent tout.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 10,
+   "temp_max": 16,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-07T09:57:24.606Z"
  }
 }
