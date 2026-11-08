@@ -8538,5 +8538,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-08T07:14:20.941Z"
+ },
+ "TOKYO+2026-11-09": {
+  "id": "hammershoi-soir-dans-le-salon",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Par cette pluie, l'intérieur silencieux de Hammershøi fait envie.",
+  "meteo": {
+   "temp": 9,
+   "temp_ressentie": 7,
+   "temp_max": 11,
+   "temp_min": 8,
+   "precip_mm": 8.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-08T15:04:57.309Z"
  }
 }
