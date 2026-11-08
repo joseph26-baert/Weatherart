@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-08": {
-  "id": "cassatt-le-bain-de-l-enfant",
-  "artiste": "Mary Cassatt",
-  "categorie": "figuratif",
-  "echo": "Un jour de pluie, ce moment de tendresse à la maison.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 28,
-   "temp_max": 25,
-   "temp_min": 22,
-   "precip_mm": 10,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 5,
-   "humidite_pct": 90,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-07T15:22:21.271Z"
- },
- "GENÈVE+2026-09-08": {
-  "id": "turner-rome-moderne",
-  "artiste": "Joseph Mallord William Turner",
-  "categorie": "figuratif",
-  "echo": "Avec la chaleur d'aujourd'hui à Genève, cette image trouve un air de saison.",
-  "meteo": {
-   "temp": 29,
-   "temp_ressentie": 29,
-   "temp_max": 35,
-   "temp_min": 20,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 10,
-   "humidite_pct": 40,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-07T22:20:32.291Z"
- },
- "PARIS+2026-09-08": {
-  "id": "qu-ding-montagnes-d-ete",
-  "artiste": "Qu Ding (attribué à)",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur d'été, on prendrait le chemin du temple, à l'ombre des pins.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 21,
-   "temp_max": 26,
-   "temp_min": 18,
-   "precip_mm": 6,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-07T22:20:32.291Z"
- },
- "ROME+2026-09-08": {
-  "id": "caravage-les-musiciens",
-  "artiste": "Le Caravage",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
-  "meteo": {
-   "temp": 28,
-   "temp_ressentie": 32,
-   "temp_max": 33,
-   "temp_min": 23,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 5,
-   "humidite_pct": 70,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-07T22:20:32.291Z"
- },
- "AMSTERDAM+2026-09-08": {
-  "id": "hiroshige-averse-ohashi",
-  "artiste": "Utagawa Hiroshige",
-  "categorie": "figuratif",
-  "echo": "L'averse qui tombe aujourd'hui sur la ville a exactement ce rythme pressé.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 17,
-   "temp_max": 21,
-   "temp_min": 16,
-   "precip_mm": 12.5,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 15,
-   "humidite_pct": 80,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-07T22:20:32.291Z"
- },
- "LONDRES+2026-09-08": {
-  "id": "caillebotte-rue-de-paris-temps-de-pluie",
-  "artiste": "Gustave Caillebotte",
-  "categorie": "figuratif",
-  "echo": "La pluie d'aujourd'hui donne aux trottoirs de la ville ce même éclat de miroir.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 15,
-   "temp_max": 20,
-   "temp_min": 15,
-   "precip_mm": 6,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 61,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-07T23:20:08.321Z"
- },
- "NEW YORK+2026-09-08": {
-  "id": "klee-senecio",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Par cette chaleur, ces rouges et ces orange sont de saison.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 23,
-   "temp_max": 28,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 40,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-08T04:22:36.217Z"
- },
  "TOKYO+2026-09-09": {
   "id": "qu-ding-montagnes-d-ete",
   "artiste": "Qu Ding (attribué à)",
@@ -8558,5 +8418,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-07T16:22:16.282Z"
+ },
+ "GENÈVE+2026-11-08": {
+  "id": "friedrich-deux-hommes-lune",
+  "artiste": "Caspar David Friedrich",
+  "categorie": "figuratif",
+  "echo": "Le froid d'aujourd'hui invite à cette même immobilité recueillie.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 7,
+   "temp_max": 14,
+   "temp_min": 1,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 0,
+   "humidite_pct": 80,
+   "code_wmo": 45,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-08T00:30:12.133Z"
+ },
+ "PARIS+2026-11-08": {
+  "id": "schiele-autoportrait-1911",
+  "artiste": "Egon Schiele",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la nudité nerveuse de ce dessin fait frissonner.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 5,
+   "temp_max": 9,
+   "temp_min": 5,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 45,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-08T00:30:12.133Z"
+ },
+ "LONDRES+2026-11-08": {
+  "id": "millet-meules-automne",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 8,
+   "temp_max": 11,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-08T00:30:12.133Z"
+ },
+ "ROME+2026-11-08": {
+  "id": "vermeer-la-ruelle",
+  "artiste": "Johannes Vermeer",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris clair, la brique de Delft prend exactement ces tons.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 13,
+   "temp_max": 17,
+   "temp_min": 8,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-08T00:30:12.133Z"
+ },
+ "AMSTERDAM+2026-11-08": {
+  "id": "bahram-gur-pavillon-noir",
+  "artiste": "Anonyme (Hérat), texte de Nizami",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, un pavillon chaud et une histoire à écouter.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 6,
+   "temp_max": 9,
+   "temp_min": 7,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-08T00:30:12.133Z"
  }
 }
