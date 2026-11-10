@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-10T01:27:54.854Z"
+ },
+ "NEW YORK+2026-11-10": {
+  "id": "lissitzky-proun-19d",
+  "artiste": "El Lissitzky",
+  "categorie": "abstrait",
+  "echo": "Par ce temps clair, ces volumes flottent dans un air parfaitement net.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 9,
+   "temp_max": 17,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 15,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-10T09:40:42.240Z"
  }
 }
