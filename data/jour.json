@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-11": {
-  "id": "mondrian-composition-10-jetee-et-ocean",
-  "artiste": "Piet Mondrian",
-  "categorie": "abstrait",
-  "echo": "Ce temps humide et gris, c'est la plage de Domburg en hiver.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 22,
-   "temp_max": 20,
-   "temp_min": 19,
-   "precip_mm": 64,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 100,
-   "code_wmo": 65,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-10T15:22:54.468Z"
- },
- "GENÈVE+2026-09-11": {
-  "id": "torres-garcia-composition-universelle",
-  "artiste": "Joaquín Torres-García",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 18,
-   "temp_max": 23,
-   "temp_min": 12,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-10T22:19:58.025Z"
- },
- "PARIS+2026-09-11": {
-  "id": "lundstrom-composition-2",
-  "artiste": "Vilhelm Lundstrøm",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 20,
-   "temp_max": 24,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-10T22:19:58.025Z"
- },
- "ROME+2026-09-11": {
-  "id": "lorrain-troyennes-incendiant-leur-flotte",
-  "artiste": "Claude Lorrain",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur dorée, la mer de Claude est tout près.",
-  "meteo": {
-   "temp": 26,
-   "temp_ressentie": 28,
-   "temp_max": 29,
-   "temp_min": 22,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 40,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-10T22:19:58.025Z"
- },
- "AMSTERDAM+2026-09-11": {
-  "id": "qu-ding-montagnes-d-ete",
-  "artiste": "Qu Ding (attribué à)",
-  "categorie": "figuratif",
-  "echo": "Ce temps humide et voilé est celui des montagnes chinoises en été.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 16,
-   "temp_max": 19,
-   "temp_min": 14,
-   "precip_mm": 1,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 15,
-   "humidite_pct": 90,
-   "code_wmo": 51,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-10T22:19:58.025Z"
- },
- "LONDRES+2026-09-11": {
-  "id": "cassatt-le-bain-de-l-enfant",
-  "artiste": "Mary Cassatt",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur, ce geste tranquille.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 19,
-   "temp_max": 22,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-10T23:18:37.270Z"
- },
- "NEW YORK+2026-09-11": {
-  "id": "millet-meules-automne",
-  "artiste": "Jean-François Millet",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 23,
-   "temp_max": 28,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-11T04:23:00.928Z"
- },
  "GENÈVE+2026-09-12": {
   "id": "vermeer-la-ruelle",
   "artiste": "Johannes Vermeer",
@@ -8638,5 +8498,45 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-10T23:13:00.329Z"
+ },
+ "LONDRES+2026-11-11": {
+  "id": "david-adieux-de-telemaque-et-eucharis",
+  "artiste": "Jacques-Louis David",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la lumière lisse et fraîche de David convient.",
+  "meteo": {
+   "temp": 9,
+   "temp_ressentie": 7,
+   "temp_max": 10,
+   "temp_min": 8,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-11T06:01:33.068Z"
+ },
+ "NEW YORK+2026-11-11": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 11,
+   "temp_max": 18,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-11T06:01:33.068Z"
  }
 }
