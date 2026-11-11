@@ -8538,5 +8538,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-11T06:01:33.068Z"
+ },
+ "TOKYO+2026-11-12": {
+  "id": "klee-senecio",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, le visage orange de Senecio est un petit soleil de plus.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 12,
+   "temp_max": 17,
+   "temp_min": 8,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-11T21:52:26.990Z"
  }
 }
