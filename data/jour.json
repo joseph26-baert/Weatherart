@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-13": {
-  "id": "dove-nature-symbolisee-2",
-  "artiste": "Arthur Dove",
-  "categorie": "abstrait",
-  "echo": "Un jour d'automne, la nature symbolisée de Dove est en couleurs.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 28,
-   "temp_max": 25,
-   "temp_min": 21,
-   "precip_mm": 1.5,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 0,
-   "humidite_pct": 90,
-   "code_wmo": 53,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-12T15:19:51.231Z"
- },
- "GENÈVE+2026-09-13": {
-  "id": "jawlensky-variation-arbres",
-  "artiste": "Alexej von Jawlensky",
-  "categorie": "abstrait",
-  "echo": "Avec la chaleur d'aujourd'hui à Genève, cette image trouve un air de saison.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 21,
-   "temp_max": 26,
-   "temp_min": 13,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-12T22:19:56.247Z"
- },
- "PARIS+2026-09-13": {
-  "id": "degas-chez-la-modiste",
-  "artiste": "Edgar Degas",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 22,
-   "temp_max": 27,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-12T22:19:56.247Z"
- },
- "ROME+2026-09-13": {
-  "id": "leger-la-ville",
-  "artiste": "Fernand Léger",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, la ville de Léger claque comme une affiche.",
-  "meteo": {
-   "temp": 25,
-   "temp_ressentie": 27,
-   "temp_max": 30,
-   "temp_min": 20,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-12T22:19:56.247Z"
- },
- "AMSTERDAM+2026-09-13": {
-  "id": "klee-magie-des-poissons",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Sous cette pluie, on est un peu dans cet aquarium enchanté.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 19,
-   "temp_max": 20,
-   "temp_min": 17,
-   "precip_mm": 6.5,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 10,
-   "humidite_pct": 80,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-12T22:19:56.247Z"
- },
- "LONDRES+2026-09-13": {
-  "id": "gentileschi-esther-devant-assuerus",
-  "artiste": "Artemisia Gentileschi",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel dramatique, l'évanouissement d'Esther.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 21,
-   "temp_max": 22,
-   "temp_min": 19,
-   "precip_mm": 1.5,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 10,
-   "humidite_pct": 80,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-12T23:19:51.949Z"
- },
- "NEW YORK+2026-09-13": {
-  "id": "greco-vue-de-tolede",
-  "artiste": "Le Greco",
-  "categorie": "figuratif",
-  "echo": "Aujourd'hui, sous la pluie de New York, ce tableau prend une lumière différente.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 26,
-   "temp_max": 25,
-   "temp_min": 20,
-   "precip_mm": 13.5,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 90,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-13T04:21:30.215Z"
- },
  "TOKYO+2026-09-14": {
   "id": "church-crepuscule-nature-sauvage",
   "artiste": "Frederic Edwin Church",
@@ -8558,5 +8418,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-12T18:51:17.379Z"
+ },
+ "GENÈVE+2026-11-13": {
+  "id": "mondrian-arbre-gris",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, les branches nues dessinent des grilles dans le ciel.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 3,
+   "temp_max": 12,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 25,
+   "humidite_pct": 70,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-13T00:13:10.351Z"
+ },
+ "PARIS+2026-11-13": {
+  "id": "hammershoi-soleil-sur-le-plancher",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Ce soleil d'aujourd'hui, entrant par une fenêtre, dessine les mêmes rectangles sur le sol.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 5,
+   "temp_max": 11,
+   "temp_min": 4,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-13T00:13:10.351Z"
+ },
+ "LONDRES+2026-11-13": {
+  "id": "ancher-mere-dans-la-piece-rouge",
+  "artiste": "Anna Ancher",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la pièce rouge d'Anna Ancher est un refuge idéal.",
+  "meteo": {
+   "temp": 5,
+   "temp_ressentie": 2,
+   "temp_max": 7,
+   "temp_min": 3,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-13T00:13:10.351Z"
+ },
+ "ROME+2026-11-13": {
+  "id": "leger-la-noce",
+  "artiste": "Fernand Léger",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris et blanc, les nuées de Léger ont la même matière.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 18,
+   "temp_max": 21,
+   "temp_min": 16,
+   "precip_mm": 2,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-13T00:13:10.351Z"
+ },
+ "AMSTERDAM+2026-11-13": {
+  "id": "degas-classe-de-danse",
+  "artiste": "Edgar Degas",
+  "categorie": "figuratif",
+  "echo": "Un jour de pluie, on comprend le plaisir de cette lumière douce qui entre par les hautes fenêtres.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 5,
+   "temp_max": 10,
+   "temp_min": 5,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 53,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-13T00:13:10.351Z"
  }
 }
