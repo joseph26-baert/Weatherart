@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-14": {
-  "id": "church-crepuscule-nature-sauvage",
-  "artiste": "Frederic Edwin Church",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, le ciel du soir prend ces couleurs de braise.",
-  "meteo": {
-   "temp": 28,
-   "temp_ressentie": 33,
-   "temp_max": 31,
-   "temp_min": 23,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-13T15:20:16.147Z"
- },
- "GENÈVE+2026-09-14": {
-  "id": "lorrain-troyennes-incendiant-leur-flotte",
-  "artiste": "Claude Lorrain",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur dorée, la mer de Claude est tout près.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 23,
-   "temp_max": 28,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-13T22:20:24.031Z"
- },
- "PARIS+2026-09-14": {
-  "id": "klee-vue-sur-le-pays-fertile",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Par cette chaleur, on pense au Nil de Klee, ligne bleue dans le désert.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 25,
-   "temp_max": 28,
-   "temp_min": 18,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-13T22:20:24.031Z"
- },
- "ROME+2026-09-14": {
-  "id": "torres-garcia-composition-universelle",
-  "artiste": "Joaquín Torres-García",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel voilé, ces signes en ocre et gris ont la douceur d'un vieux mur.",
-  "meteo": {
-   "temp": 25,
-   "temp_ressentie": 25,
-   "temp_max": 30,
-   "temp_min": 18,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-13T22:20:24.031Z"
- },
- "AMSTERDAM+2026-09-14": {
-  "id": "degas-chez-la-modiste",
-  "artiste": "Edgar Degas",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 20,
-   "temp_max": 22,
-   "temp_min": 16,
-   "precip_mm": 0.5,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 10,
-   "humidite_pct": 90,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-13T22:20:24.031Z"
- },
- "LONDRES+2026-09-14": {
-  "id": "taeuber-arp-composition-verticale-horizontale",
-  "artiste": "Sophie Taeuber-Arp",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 22,
-   "temp_max": 25,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-13T23:19:10.728Z"
- },
- "NEW YORK+2026-09-14": {
-  "id": "monet-meule-soleil-dans-la-brume",
-  "artiste": "Claude Monet",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 19,
-   "temp_max": 23,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 15,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-14T04:23:13.290Z"
- },
  "TOKYO+2026-09-15": {
   "id": "turner-incendie-parlement",
   "artiste": "Joseph Mallord William Turner",
@@ -8538,5 +8398,125 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-13T07:51:18.653Z"
+ },
+ "GENÈVE+2026-11-14": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, l'animal de Marc se ramasse comme nous.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 4,
+   "temp_max": 8,
+   "temp_min": 4,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-14T03:07:28.014Z"
+ },
+ "PARIS+2026-11-14": {
+  "id": "af-klint-retable-1",
+  "artiste": "Hilma af Klint",
+  "categorie": "abstrait",
+  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 3,
+   "temp_max": 10,
+   "temp_min": 3,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-14T03:07:28.014Z"
+ },
+ "LONDRES+2026-11-14": {
+  "id": "moholy-nagy-composition-a-xx",
+  "artiste": "László Moholy-Nagy",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, ce constructivisme calme convient.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 3,
+   "temp_max": 9,
+   "temp_min": 0,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-14T03:07:28.014Z"
+ },
+ "ROME+2026-11-14": {
+  "id": "taeuber-arp-composition-verticale-horizontale",
+  "artiste": "Sophie Taeuber-Arp",
+  "categorie": "abstrait",
+  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 16,
+   "temp_max": 18,
+   "temp_min": 13,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-14T03:07:28.014Z"
+ },
+ "TOKYO+2026-11-14": {
+  "id": "millet-meules-automne",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 14,
+   "temp_max": 18,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-14T03:07:28.014Z"
+ },
+ "AMSTERDAM+2026-11-14": {
+  "id": "klee-en-rythme",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce rythme de gris et de blancs semble battre la mesure.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 3,
+   "temp_max": 8,
+   "temp_min": 3,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-14T03:07:28.014Z"
  }
 }
