@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-16": {
-  "id": "degas-chez-la-modiste",
-  "artiste": "Edgar Degas",
-  "categorie": "figuratif",
-  "echo": "Un jour de pluie, cette boutique tranquille et ses chapeaux de paille font rêver de beau temps.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 25,
-   "temp_max": 23,
-   "temp_min": 19,
-   "precip_mm": 33.5,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 100,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-15T15:21:45.703Z"
- },
- "GENÈVE+2026-09-16": {
-  "id": "guo-xi-vieux-arbres-lointain-plat",
-  "artiste": "Guo Xi",
-  "categorie": "figuratif",
-  "echo": "Un jour d'automne, ces arbres nus et ce lointain.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 21,
-   "temp_max": 25,
-   "temp_min": 18,
-   "precip_mm": 1.5,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-15T22:21:01.961Z"
- },
- "PARIS+2026-09-16": {
-  "id": "la-tour-diseuse-de-bonne-aventure",
-  "artiste": "Georges de La Tour",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, ces couleurs de brocart réchauffent.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 17,
-   "temp_max": 23,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-15T22:21:01.961Z"
- },
- "ROME+2026-09-16": {
-  "id": "macke-formes-colorees-i",
-  "artiste": "August Macke",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, ces plans de couleur brillent comme un vitrail.",
-  "meteo": {
-   "temp": 25,
-   "temp_ressentie": 26,
-   "temp_max": 30,
-   "temp_min": 18,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 0,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-15T22:21:01.961Z"
- },
- "AMSTERDAM+2026-09-16": {
-  "id": "hiroshige-averse-ohashi",
-  "artiste": "Utagawa Hiroshige",
-  "categorie": "figuratif",
-  "echo": "L'averse qui tombe aujourd'hui sur la ville a exactement ce rythme pressé.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 17,
-   "temp_max": 19,
-   "temp_min": 16,
-   "precip_mm": 9,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-15T22:21:01.961Z"
- },
- "LONDRES+2026-09-16": {
-  "id": "lundstrom-composition-2",
-  "artiste": "Vilhelm Lundstrøm",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 15,
-   "temp_max": 20,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-15T23:19:44.054Z"
- },
- "NEW YORK+2026-09-16": {
-  "id": "kandinsky-paysage-deux-peupliers",
-  "artiste": "Vassily Kandinsky",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, les jaunes et les rouges de Kandinsky chantent.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 23,
-   "temp_max": 26,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-16T04:22:27.954Z"
- },
  "TOKYO+2026-09-17": {
   "id": "jawlensky-variation-arbres",
   "artiste": "Alexej von Jawlensky",
@@ -8538,5 +8398,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-15T17:40:15.001Z"
+ },
+ "GENÈVE+2026-11-16": {
+  "id": "schiele-autoportrait-1911",
+  "artiste": "Egon Schiele",
+  "categorie": "figuratif",
+  "echo": "Cet automne viennois de 1911 n'était sans doute pas très différent d'aujourd'hui.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 13,
+   "temp_min": 11,
+   "precip_mm": 2,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-16T02:41:50.390Z"
+ },
+ "PARIS+2026-11-16": {
+  "id": "greco-vue-de-tolede",
+  "artiste": "Le Greco",
+  "categorie": "figuratif",
+  "echo": "Aujourd'hui, sous la pluie de Paris, ce tableau prend une lumière différente.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 13,
+   "temp_min": 11,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-16T02:41:50.390Z"
+ },
+ "LONDRES+2026-11-16": {
+  "id": "lundstrom-composition-2",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 3,
+   "temp_max": 8,
+   "temp_min": 5,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-16T02:41:50.390Z"
+ },
+ "ROME+2026-11-16": {
+  "id": "klee-magie-des-poissons",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous cette pluie, on est un peu dans cet aquarium enchanté.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 17,
+   "temp_max": 20,
+   "temp_min": 14,
+   "precip_mm": 16.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 95,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-16T02:41:50.390Z"
+ },
+ "AMSTERDAM+2026-11-16": {
+  "id": "homer-northeaster",
+  "artiste": "Winslow Homer",
+  "categorie": "figuratif",
+  "echo": "Sous cette pluie battante, on comprend pourquoi Homer a effacé les hommes du tableau.",
+  "meteo": {
+   "temp": 9,
+   "temp_ressentie": 6,
+   "temp_max": 11,
+   "temp_min": 4,
+   "precip_mm": 7,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-16T02:41:50.390Z"
  }
 }
