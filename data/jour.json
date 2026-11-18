@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-18": {
-  "id": "luce-pont-saint-michel",
-  "artiste": "Maximilien Luce",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur, les quais de Luce à la fin du jour.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 23,
-   "temp_max": 23,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 80,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-17T15:22:29.711Z"
- },
- "GENÈVE+2026-09-18": {
-  "id": "marc-le-taureau",
-  "artiste": "Franz Marc",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, ce noir et blanc a la force tranquille du taureau.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 18,
-   "temp_max": 23,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-17T22:20:14.248Z"
- },
- "PARIS+2026-09-18": {
-  "id": "caravage-les-musiciens",
-  "artiste": "Le Caravage",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur, on entendrait presque le luth qu'on accorde.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 17,
-   "temp_max": 22,
-   "temp_min": 13,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-17T22:20:14.248Z"
- },
- "ROME+2026-09-18": {
-  "id": "la-tour-diseuse-de-bonne-aventure",
-  "artiste": "Georges de La Tour",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, ces couleurs de brocart réchauffent.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 26,
-   "temp_max": 28,
-   "temp_min": 20,
-   "precip_mm": 1,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 5,
-   "humidite_pct": 70,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-17T22:20:14.248Z"
- },
- "AMSTERDAM+2026-09-18": {
-  "id": "monet-meule-soleil-dans-la-brume",
-  "artiste": "Claude Monet",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 15,
-   "temp_max": 19,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 15,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-17T22:20:14.248Z"
- },
- "LONDRES+2026-09-18": {
-  "id": "jawlensky-variation-arbres",
-  "artiste": "Alexej von Jawlensky",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, ces pastels de Jawlensky sont exactement le temps qu'il fait.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 15,
-   "temp_max": 20,
-   "temp_min": 13,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 15,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-17T23:18:07.504Z"
- },
- "NEW YORK+2026-09-18": {
-  "id": "klee-ad-parnassum",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Par cette chaleur, cette mosaïque de points vibre comme l'air.",
-  "meteo": {
-   "temp": 25,
-   "temp_ressentie": 26,
-   "temp_max": 28,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-18T04:21:42.192Z"
- },
  "TOKYO+2026-09-19": {
   "id": "beraud-boulevard-poissonniere-sous-la-pluie",
   "artiste": "Jean Béraud",
@@ -8538,5 +8398,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-17T22:15:04.142Z"
+ },
+ "GENÈVE+2026-11-18": {
+  "id": "freundlich-composition-1937",
+  "artiste": "Otto Freundlich",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, le noir et blanc de Freundlich est de saison.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 11,
+   "temp_max": 15,
+   "temp_min": 11,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-18T04:12:22.355Z"
+ },
+ "PARIS+2026-11-18": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
+  "meteo": {
+   "temp": 13,
+   "temp_ressentie": 10,
+   "temp_max": 15,
+   "temp_min": 12,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-18T04:12:22.355Z"
+ },
+ "LONDRES+2026-11-18": {
+  "id": "grimshaw-chemin-la-nuit",
+  "artiste": "John Atkinson Grimshaw",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, ce chemin humide sous la lune.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 8,
+   "temp_max": 11,
+   "temp_min": 9,
+   "precip_mm": 3.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 55,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-18T04:12:22.355Z"
+ },
+ "ROME+2026-11-18": {
+  "id": "dove-nature-symbolisee-2",
+  "artiste": "Arthur Dove",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces verts et ces bruns sont de saison.",
+  "meteo": {
+   "temp": 19,
+   "temp_ressentie": 19,
+   "temp_max": 21,
+   "temp_min": 17,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-18T04:12:22.355Z"
+ },
+ "AMSTERDAM+2026-11-18": {
+  "id": "malevitch-croix-noire",
+  "artiste": "Kazimir Malevitch",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, la Croix noire ne demande rien.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 7,
+   "temp_max": 11,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-18T04:12:22.355Z"
  }
 }
