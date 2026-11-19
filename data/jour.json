@@ -8498,5 +8498,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-19T03:17:19.822Z"
+ },
+ "NEW YORK+2026-11-19": {
+  "id": "hammershoi-soleil-sur-le-plancher",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Ce soleil d'aujourd'hui, entrant par une fenêtre, dessine les mêmes rectangles sur le sol.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 17,
+   "temp_min": 5,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 5,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-19T12:54:55.123Z"
  }
 }
