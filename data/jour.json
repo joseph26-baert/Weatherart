@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-19T12:54:55.123Z"
+ },
+ "TOKYO+2026-11-20": {
+  "id": "david-adieux-de-telemaque-et-eucharis",
+  "artiste": "Jacques-Louis David",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la lumière lisse et fraîche de David convient.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 7,
+   "temp_max": 14,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 10,
+   "humidite_pct": 40,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-19T21:25:55.319Z"
  }
 }
