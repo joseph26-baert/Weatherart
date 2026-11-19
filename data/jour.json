@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-19": {
-  "id": "beraud-boulevard-poissonniere-sous-la-pluie",
-  "artiste": "Jean Béraud",
-  "categorie": "figuratif",
-  "echo": "Sous cette pluie, le boulevard de Béraud est exactement le vôtre.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 23,
-   "temp_max": 21,
-   "temp_min": 20,
-   "precip_mm": 4.5,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 90,
-   "code_wmo": 53,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-18T15:21:06.388Z"
- },
- "GENÈVE+2026-09-19": {
-  "id": "sisley-eglise-de-moret-le-soir",
-  "artiste": "Alfred Sisley",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur de fin de journée, la place de Moret.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 19,
-   "temp_max": 24,
-   "temp_min": 12,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-18T22:20:23.837Z"
- },
- "PARIS+2026-09-19": {
-  "id": "klee-haus-der-firma-z",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 20,
-   "temp_max": 25,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-18T22:20:23.837Z"
- },
- "ROME+2026-09-19": {
-  "id": "ruisdael-champs-de-ble",
-  "artiste": "Jacob van Ruisdael",
-  "categorie": "figuratif",
-  "echo": "Sous ces gros nuages blancs, les champs prennent ces mêmes ors et ces mêmes verts.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 26,
-   "temp_max": 27,
-   "temp_min": 19,
-   "precip_mm": 3,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 5,
-   "humidite_pct": 70,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-18T22:20:23.837Z"
- },
- "AMSTERDAM+2026-09-19": {
-  "id": "schwitters-das-undbild",
-  "artiste": "Kurt Schwitters",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, ces bruns et ces gris de rue sont de saison.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 17,
-   "temp_max": 19,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 25,
-   "humidite_pct": 80,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-18T22:20:23.837Z"
- },
- "LONDRES+2026-09-19": {
-  "id": "millet-meules-automne",
-  "artiste": "Jean-François Millet",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 19,
-   "temp_max": 22,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 20,
-   "humidite_pct": 70,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-18T23:20:20.853Z"
- },
- "NEW YORK+2026-09-19": {
-  "id": "taeuber-arp-composition-verticale-horizontale",
-  "artiste": "Sophie Taeuber-Arp",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 17,
-   "temp_max": 23,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-19T04:20:46.232Z"
- },
  "TOKYO+2026-09-20": {
   "id": "courbet-la-mer",
   "artiste": "Gustave Courbet",
@@ -8538,5 +8398,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-18T21:52:16.138Z"
+ },
+ "GENÈVE+2026-11-19": {
+  "id": "beraud-boulevard-poissonniere-sous-la-pluie",
+  "artiste": "Jean Béraud",
+  "categorie": "figuratif",
+  "echo": "Sous cette pluie, le boulevard de Béraud est exactement le vôtre.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 8,
+   "temp_max": 13,
+   "temp_min": 9,
+   "precip_mm": 18,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 81,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-19T03:17:19.822Z"
+ },
+ "PARIS+2026-11-19": {
+  "id": "malevitch-croix-noire",
+  "artiste": "Kazimir Malevitch",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce signe noir et blanc a la simplicité du jour.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 14,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-19T03:17:19.822Z"
+ },
+ "LONDRES+2026-11-19": {
+  "id": "taeuber-arp-composition-verticale-horizontale",
+  "artiste": "Sophie Taeuber-Arp",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, on se couvrirait volontiers de cette composition.",
+  "meteo": {
+   "temp": 9,
+   "temp_ressentie": 8,
+   "temp_max": 11,
+   "temp_min": 8,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-19T03:17:19.822Z"
+ },
+ "ROME+2026-11-19": {
+  "id": "hiroshige-averse-ohashi",
+  "artiste": "Utagawa Hiroshige",
+  "categorie": "figuratif",
+  "echo": "Par ce temps d'orage, on se sent l'un de ces passants qui courent vers l'abri.",
+  "meteo": {
+   "temp": 18,
+   "temp_ressentie": 17,
+   "temp_max": 20,
+   "temp_min": 13,
+   "precip_mm": 13,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 95,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-19T03:17:19.822Z"
+ },
+ "AMSTERDAM+2026-11-19": {
+  "id": "caillebotte-rue-de-paris-temps-de-pluie",
+  "artiste": "Gustave Caillebotte",
+  "categorie": "figuratif",
+  "echo": "La pluie d'aujourd'hui donne aux trottoirs de la ville ce même éclat de miroir.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 7,
+   "temp_max": 11,
+   "temp_min": 6,
+   "precip_mm": 8,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-19T03:17:19.822Z"
  }
 }
