@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-20": {
-  "id": "courbet-la-mer",
-  "artiste": "Gustave Courbet",
-  "categorie": "figuratif",
-  "echo": "Ce temps humide et bas est celui de Trouville chez Courbet.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 25,
-   "temp_max": 23,
-   "temp_min": 21,
-   "precip_mm": 67.5,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 5,
-   "humidite_pct": 100,
-   "code_wmo": 65,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-19T15:19:54.176Z"
- },
- "GENÈVE+2026-09-20": {
-  "id": "klee-haus-der-firma-z",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 21,
-   "temp_max": 27,
-   "temp_min": 13,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-19T22:19:47.668Z"
- },
- "PARIS+2026-09-20": {
-  "id": "monet-meule-soleil-dans-la-brume",
-  "artiste": "Claude Monet",
-  "categorie": "figuratif",
-  "echo": "Par cette douceur d'automne, cette lumière rose est de saison.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 20,
-   "temp_max": 24,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-19T22:19:47.668Z"
- },
- "ROME+2026-09-20": {
-  "id": "cezanne-sainte-victoire-viaduc",
-  "artiste": "Paul Cézanne",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, on entend presque les cigales autour du pin de Cézanne.",
-  "meteo": {
-   "temp": 25,
-   "temp_ressentie": 27,
-   "temp_max": 31,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-19T22:19:47.668Z"
- },
- "AMSTERDAM+2026-09-20": {
-  "id": "torres-garcia-composition-universelle",
-  "artiste": "Joaquín Torres-García",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 15,
-   "temp_max": 19,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 60,
-   "vent_kmh": 20,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-19T22:19:47.668Z"
- },
- "LONDRES+2026-09-20": {
-  "id": "degas-chez-la-modiste",
-  "artiste": "Edgar Degas",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 16,
-   "temp_max": 20,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-19T23:18:34.796Z"
- },
- "NEW YORK+2026-09-20": {
-  "id": "beraud-boulevard-poissonniere-sous-la-pluie",
-  "artiste": "Jean Béraud",
-  "categorie": "figuratif",
-  "echo": "Sous cette pluie, le boulevard de Béraud est exactement le vôtre.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 20,
-   "temp_max": 20,
-   "temp_min": 17,
-   "precip_mm": 7.5,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 10,
-   "humidite_pct": 90,
-   "code_wmo": 61,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-20T04:21:35.333Z"
- },
  "TOKYO+2026-09-21": {
   "id": "hiroshige-averse-ohashi",
   "artiste": "Utagawa Hiroshige",
@@ -8538,5 +8398,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-19T21:25:55.319Z"
+ },
+ "GENÈVE+2026-11-20": {
+  "id": "caillebotte-rue-de-paris-temps-de-pluie",
+  "artiste": "Gustave Caillebotte",
+  "categorie": "figuratif",
+  "echo": "La pluie d'aujourd'hui donne aux trottoirs de la ville ce même éclat de miroir.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 7,
+   "temp_max": 11,
+   "temp_min": 9,
+   "precip_mm": 8.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-20T03:04:24.860Z"
+ },
+ "PARIS+2026-11-20": {
+  "id": "freundlich-composition-1937",
+  "artiste": "Otto Freundlich",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, le noir et blanc de Freundlich est de saison.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 9,
+   "temp_max": 13,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-20T03:04:24.860Z"
+ },
+ "LONDRES+2026-11-20": {
+  "id": "mondrian-arbre-gris",
+  "artiste": "Piet Mondrian",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, les branches nues dessinent des grilles dans le ciel.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 6,
+   "temp_max": 10,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-20T03:04:24.860Z"
+ },
+ "ROME+2026-11-20": {
+  "id": "torres-garcia-composition-universelle",
+  "artiste": "Joaquín Torres-García",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel voilé, ces signes en ocre et gris ont la douceur d'un vieux mur.",
+  "meteo": {
+   "temp": 16,
+   "temp_ressentie": 15,
+   "temp_max": 18,
+   "temp_min": 13,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-20T03:04:24.860Z"
+ },
+ "AMSTERDAM+2026-11-20": {
+  "id": "kandinsky-petits-mondes-xii",
+  "artiste": "Vassily Kandinsky",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, la netteté de la pointe sèche est de saison.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 4,
+   "temp_max": 9,
+   "temp_min": 6,
+   "precip_mm": 0.5,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-20T03:04:24.860Z"
  }
 }
