@@ -8538,5 +8538,85 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-21T17:24:53.180Z"
+ },
+ "GENÈVE+2026-11-22": {
+  "id": "grimshaw-chemin-la-nuit",
+  "artiste": "John Atkinson Grimshaw",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, ce chemin humide sous la lune.",
+  "meteo": {
+   "temp": 9,
+   "temp_ressentie": 7,
+   "temp_max": 11,
+   "temp_min": 7,
+   "precip_mm": 38,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 90,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T23:07:25.129Z"
+ },
+ "PARIS+2026-11-22": {
+  "id": "sisley-inondation-port-marly-1872",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Après les pluies d'aujourd'hui, on pense à cette eau montée tranquillement jusqu'aux portes.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 6,
+   "temp_max": 9,
+   "temp_min": 7,
+   "precip_mm": 5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T23:07:25.129Z"
+ },
+ "ROME+2026-11-22": {
+  "id": "lundstrom-composition-1",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, les bois bruts de Lundstrøm ont quelque chose de très juste.",
+  "meteo": {
+   "temp": 17,
+   "temp_ressentie": 16,
+   "temp_max": 18,
+   "temp_min": 13,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T23:07:25.129Z"
+ },
+ "AMSTERDAM+2026-11-22": {
+  "id": "popova-architectonique-picturale",
+  "artiste": "Lioubov Popova",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, la solidité de Popova rassure.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 4,
+   "temp_max": 9,
+   "temp_min": 3,
+   "precip_mm": 1,
+   "neige_cm": 0,
+   "nuages_pct": 30,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T23:07:25.129Z"
  }
 }
