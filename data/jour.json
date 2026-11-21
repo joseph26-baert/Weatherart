@@ -8518,5 +8518,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-21T09:40:14.556Z"
+ },
+ "TOKYO+2026-11-22": {
+  "id": "guo-xi-vieux-arbres-lointain-plat",
+  "artiste": "Guo Xi",
+  "categorie": "figuratif",
+  "echo": "Une journée calme, lointaine, à la manière des Song.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 7,
+   "temp_max": 13,
+   "temp_min": 5,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 10,
+   "vent_kmh": 5,
+   "humidite_pct": 50,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T17:24:53.180Z"
  }
 }
