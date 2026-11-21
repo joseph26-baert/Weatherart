@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-21": {
-  "id": "hiroshige-averse-ohashi",
-  "artiste": "Utagawa Hiroshige",
-  "categorie": "figuratif",
-  "echo": "L'averse qui tombe aujourd'hui sur la ville a exactement ce rythme pressé.",
-  "meteo": {
-   "temp": 25,
-   "temp_ressentie": 29,
-   "temp_max": 26,
-   "temp_min": 21,
-   "precip_mm": 155,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 10,
-   "humidite_pct": 90,
-   "code_wmo": 65,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-20T15:19:58.739Z"
- },
- "GENÈVE+2026-09-21": {
-  "id": "taeuber-arp-composition-verticale-horizontale",
-  "artiste": "Sophie Taeuber-Arp",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 19,
-   "temp_max": 25,
-   "temp_min": 13,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 10,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-20T22:20:05.802Z"
- },
- "PARIS+2026-09-21": {
-  "id": "degas-chez-la-modiste",
-  "artiste": "Edgar Degas",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, la lumière douce de la vitrine paraît familière.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 17,
-   "temp_max": 22,
-   "temp_min": 13,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-20T22:20:05.802Z"
- },
- "ROME+2026-09-21": {
-  "id": "millet-l-homme-a-la-houe",
-  "artiste": "Jean-François Millet",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, on comprend cet homme qui s'appuie sur sa houe.",
-  "meteo": {
-   "temp": 26,
-   "temp_ressentie": 27,
-   "temp_max": 31,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-20T22:20:05.802Z"
- },
- "AMSTERDAM+2026-09-21": {
-  "id": "millet-meules-automne",
-  "artiste": "Jean-François Millet",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 16,
-   "temp_max": 20,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-20T22:20:05.802Z"
- },
- "LONDRES+2026-09-21": {
-  "id": "klee-senecio",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, Senecio lève un sourcil, amusé.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 17,
-   "temp_max": 22,
-   "temp_min": 13,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 5,
-   "humidite_pct": 40,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-20T23:19:19.125Z"
- },
- "NEW YORK+2026-09-21": {
-  "id": "cezanne-nature-morte-aux-pommes-getty",
-  "artiste": "Paul Cézanne",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 18,
-   "temp_max": 22,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 15,
-   "humidite_pct": 70,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-21T04:22:39.566Z"
- },
  "TOKYO+2026-09-22": {
   "id": "kandinsky-paysage-deux-peupliers",
   "artiste": "Vassily Kandinsky",
@@ -8538,5 +8398,125 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-20T20:03:20.512Z"
+ },
+ "GENÈVE+2026-11-21": {
+  "id": "hammershoi-soir-dans-le-salon",
+  "artiste": "Vilhelm Hammershøi",
+  "categorie": "figuratif",
+  "echo": "Par cette pluie, l'intérieur silencieux de Hammershøi fait envie.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 8,
+   "temp_max": 12,
+   "temp_min": 6,
+   "precip_mm": 7.5,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 0,
+   "humidite_pct": 90,
+   "code_wmo": 81,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T09:40:14.556Z"
+ },
+ "PARIS+2026-11-21": {
+  "id": "klee-en-rythme",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce rythme de gris et de blancs semble battre la mesure.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 9,
+   "temp_max": 12,
+   "temp_min": 9,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T09:40:14.556Z"
+ },
+ "LONDRES+2026-11-21": {
+  "id": "friedrich-deux-hommes-lune",
+  "artiste": "Caspar David Friedrich",
+  "categorie": "figuratif",
+  "echo": "Le froid d'aujourd'hui invite à cette même immobilité recueillie.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 4,
+   "temp_max": 9,
+   "temp_min": 4,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T09:40:14.556Z"
+ },
+ "ROME+2026-11-21": {
+  "id": "la-tour-diseuse-de-bonne-aventure",
+  "artiste": "Georges de La Tour",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, ces couleurs de brocart réchauffent.",
+  "meteo": {
+   "temp": 15,
+   "temp_ressentie": 14,
+   "temp_max": 19,
+   "temp_min": 10,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T09:40:14.556Z"
+ },
+ "NEW YORK+2026-11-21": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris, la lumière calme de Cézanne sur les fruits.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 10,
+   "temp_max": 17,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T09:40:14.556Z"
+ },
+ "AMSTERDAM+2026-11-21": {
+  "id": "vermeer-la-laitiere",
+  "artiste": "Johannes Vermeer",
+  "categorie": "figuratif",
+  "echo": "Quand il fait froid dehors, ce geste simple et chaud réconforte.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 4,
+   "temp_max": 10,
+   "temp_min": 4,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-21T09:40:14.556Z"
  }
 }
