@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-24": {
-  "id": "cezanne-sainte-victoire-viaduc",
-  "artiste": "Paul Cézanne",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, on entend presque les cigales autour du pin de Cézanne.",
-  "meteo": {
-   "temp": 25,
-   "temp_ressentie": 29,
-   "temp_max": 29,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 0,
-   "humidite_pct": 80,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-23T15:22:21.716Z"
- },
- "GENÈVE+2026-09-24": {
-  "id": "millet-meules-automne",
-  "artiste": "Jean-François Millet",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 20,
-   "temp_max": 26,
-   "temp_min": 12,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-23T22:20:41.791Z"
- },
- "PARIS+2026-09-24": {
-  "id": "torres-garcia-composition-universelle",
-  "artiste": "Joaquín Torres-García",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 21,
-   "temp_max": 25,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-23T22:20:41.791Z"
- },
- "ROME+2026-09-24": {
-  "id": "caravage-les-musiciens",
-  "artiste": "Le Caravage",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur romaine, ces jeunes gens à demi vêtus semblent à leur aise.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 22,
-   "temp_max": 27,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-23T22:20:41.791Z"
- },
- "AMSTERDAM+2026-09-24": {
-  "id": "sargent-madame-x",
-  "artiste": "John Singer Sargent",
-  "categorie": "figuratif",
-  "echo": "Sous ce ciel gris, ce portrait en noir et blanc se suffit à lui-même.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 15,
-   "temp_max": 19,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-23T22:20:41.791Z"
- },
- "LONDRES+2026-09-24": {
-  "id": "hiroshige-jardin-de-pruniers-kamata",
-  "artiste": "Utagawa Hiroshige",
-  "categorie": "figuratif",
-  "echo": "Sous ce soleil pâle, ces fleurs roses ont l'air de trembler.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 17,
-   "temp_max": 22,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-23T23:18:00.664Z"
- },
- "NEW YORK+2026-09-24": {
-  "id": "mondrian-arbre-gris",
-  "artiste": "Piet Mondrian",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, cet arbre nu est de saison.",
-  "meteo": {
-   "temp": 16,
-   "temp_ressentie": 12,
-   "temp_max": 19,
-   "temp_min": 10,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 20,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-24T04:22:17.749Z"
- },
  "TOKYO+2026-09-25": {
   "id": "monet-meule-soleil-dans-la-brume",
   "artiste": "Claude Monet",
@@ -8518,5 +8378,125 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-23T12:19:17.001Z"
+ },
+ "GENÈVE+2026-11-24": {
+  "id": "durer-melencolia",
+  "artiste": "Albrecht Dürer",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la mélancolie a bonne presse depuis Dürer.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 4,
+   "temp_max": 8,
+   "temp_min": 3,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-24T00:45:50.552Z"
+ },
+ "PARIS+2026-11-24": {
+  "id": "friedrich-deux-hommes-lune",
+  "artiste": "Caspar David Friedrich",
+  "categorie": "figuratif",
+  "echo": "Le froid d'aujourd'hui invite à cette même immobilité recueillie.",
+  "meteo": {
+   "temp": 5,
+   "temp_ressentie": 2,
+   "temp_max": 7,
+   "temp_min": 2,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-24T00:45:50.552Z"
+ },
+ "LONDRES+2026-11-24": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, l'animal de Marc se ramasse comme nous.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 2,
+   "temp_max": 7,
+   "temp_min": 3,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-24T00:45:50.552Z"
+ },
+ "ROME+2026-11-24": {
+  "id": "klee-en-rythme",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel gris, ce rythme de gris et de blancs semble battre la mesure.",
+  "meteo": {
+   "temp": 12,
+   "temp_ressentie": 11,
+   "temp_max": 16,
+   "temp_min": 6,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-24T00:45:50.552Z"
+ },
+ "TOKYO+2026-11-24": {
+  "id": "caillebotte-rue-de-paris-temps-de-pluie",
+  "artiste": "Gustave Caillebotte",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel gris uniforme, la lumière est exactement celle du tableau.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 13,
+   "temp_max": 18,
+   "temp_min": 6,
+   "precip_mm": 7,
+   "neige_cm": 0,
+   "nuages_pct": 70,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-24T00:45:50.552Z"
+ },
+ "AMSTERDAM+2026-11-24": {
+  "id": "lissitzky-proun-19d",
+  "artiste": "El Lissitzky",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, ce gris et ce métal sont de saison.",
+  "meteo": {
+   "temp": 1,
+   "temp_ressentie": -3,
+   "temp_max": 3,
+   "temp_min": -1,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 15,
+   "humidite_pct": 80,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-24T00:45:50.552Z"
  }
 }
