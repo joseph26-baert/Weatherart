@@ -8498,5 +8498,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-24T00:45:50.552Z"
+ },
+ "NEW YORK+2026-11-24": {
+  "id": "hiroshige-jardin-de-pruniers-kamata",
+  "artiste": "Utagawa Hiroshige",
+  "categorie": "figuratif",
+  "echo": "Par ce froid clair, on retrouve la fête des pruniers, qui fleurissent avant le printemps.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 1,
+   "temp_max": 10,
+   "temp_min": 0,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 0,
+   "vent_kmh": 15,
+   "humidite_pct": 40,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-24T10:51:13.990Z"
  }
 }
