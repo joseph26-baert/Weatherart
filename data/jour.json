@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-25": {
-  "id": "monet-meule-soleil-dans-la-brume",
-  "artiste": "Claude Monet",
-  "categorie": "figuratif",
-  "echo": "Sous ce soleil qui perce, la brume de Monet s'en va.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 26,
-   "temp_max": 26,
-   "temp_min": 20,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 5,
-   "humidite_pct": 70,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-24T15:23:34.315Z"
- },
- "GENÈVE+2026-09-25": {
-  "id": "af-klint-retable-1",
-  "artiste": "Hilma af Klint",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 18,
-   "temp_max": 25,
-   "temp_min": 11,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 1,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-24T22:21:46.365Z"
- },
- "PARIS+2026-09-25": {
-  "id": "lorrain-troyennes-incendiant-leur-flotte",
-  "artiste": "Claude Lorrain",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur dorée, la mer de Claude est tout près.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 20,
-   "temp_max": 28,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 0,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-24T22:21:46.365Z"
- },
- "ROME+2026-09-25": {
-  "id": "klee-ad-parnassum",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Par cette chaleur, cette mosaïque de points vibre comme l'air.",
-  "meteo": {
-   "temp": 24,
-   "temp_ressentie": 24,
-   "temp_max": 28,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-24T22:21:46.365Z"
- },
- "AMSTERDAM+2026-09-25": {
-  "id": "klee-insula-dulcamara",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, on aborde l'île douce-amère de Klee.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 16,
-   "temp_max": 22,
-   "temp_min": 12,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 20,
-   "vent_kmh": 10,
-   "humidite_pct": 60,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-24T22:21:46.365Z"
- },
- "LONDRES+2026-09-25": {
-  "id": "kandinsky-paysage-deux-peupliers",
-  "artiste": "Vassily Kandinsky",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, les jaunes et les rouges de Kandinsky chantent.",
-  "meteo": {
-   "temp": 20,
-   "temp_ressentie": 20,
-   "temp_max": 24,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 50,
-   "vent_kmh": 5,
-   "humidite_pct": 70,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-24T23:20:08.322Z"
- },
- "NEW YORK+2026-09-25": {
-  "id": "bosch-la-mort-de-l-avare",
-  "artiste": "Jérôme Bosch",
-  "categorie": "figuratif",
-  "echo": "Le ciel couvert de New York donne aujourd'hui à cette œuvre une tonalité plus feutrée.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 13,
-   "temp_max": 22,
-   "temp_min": 9,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 25,
-   "humidite_pct": 50,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-25T04:23:18.291Z"
- },
  "TOKYO+2026-09-26": {
   "id": "cassatt-le-bain-de-l-enfant",
   "artiste": "Mary Cassatt",
@@ -8538,5 +8398,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-24T21:06:57.590Z"
+ },
+ "GENÈVE+2026-11-25": {
+  "id": "courbet-la-mer",
+  "artiste": "Gustave Courbet",
+  "categorie": "figuratif",
+  "echo": "Ce temps humide et bas est celui de Trouville chez Courbet.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 4,
+   "temp_max": 7,
+   "temp_min": 4,
+   "precip_mm": 14.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 63,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-25T04:10:20.558Z"
+ },
+ "PARIS+2026-11-25": {
+  "id": "grimshaw-chemin-la-nuit",
+  "artiste": "John Atkinson Grimshaw",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, ce chemin humide sous la lune.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 3,
+   "temp_max": 7,
+   "temp_min": 4,
+   "precip_mm": 3,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-25T04:10:20.558Z"
+ },
+ "LONDRES+2026-11-25": {
+  "id": "durer-melencolia",
+  "artiste": "Albrecht Dürer",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, la mélancolie a bonne presse depuis Dürer.",
+  "meteo": {
+   "temp": 6,
+   "temp_ressentie": 2,
+   "temp_max": 7,
+   "temp_min": 4,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-25T04:10:20.558Z"
+ },
+ "ROME+2026-11-25": {
+  "id": "hokusai-grande-vague-mia",
+  "artiste": "Katsushika Hokusai",
+  "categorie": "figuratif",
+  "echo": "Par ce temps agité, la mer d'Hokusai semble particulièrement proche.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 14,
+   "temp_max": 17,
+   "temp_min": 11,
+   "precip_mm": 13.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 5,
+   "humidite_pct": 90,
+   "code_wmo": 95,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-25T04:10:20.558Z"
+ },
+ "AMSTERDAM+2026-11-25": {
+  "id": "lautrec-au-moulin-rouge",
+  "artiste": "Henri de Toulouse-Lautrec",
+  "categorie": "figuratif",
+  "echo": "Quand il fait froid dehors, ce refuge de nuit parisien fait envie.",
+  "meteo": {
+   "temp": 1,
+   "temp_ressentie": -5,
+   "temp_max": 3,
+   "temp_min": 0,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 25,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-25T04:10:20.558Z"
  }
 }
