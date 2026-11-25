@@ -8498,5 +8498,45 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-25T04:10:20.558Z"
+ },
+ "TOKYO+2026-11-26": {
+  "id": "cezanne-nature-morte-aux-pommes-getty",
+  "artiste": "Paul Cézanne",
+  "categorie": "figuratif",
+  "echo": "Un jour d'automne, des pommes : c'est la saison de Cézanne.",
+  "meteo": {
+   "temp": 10,
+   "temp_ressentie": 8,
+   "temp_max": 14,
+   "temp_min": 4,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 40,
+   "vent_kmh": 0,
+   "humidite_pct": 60,
+   "code_wmo": 1,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-25T15:29:56.288Z"
+ },
+ "NEW YORK+2026-11-25": {
+  "id": "de-hooch-la-visite",
+  "artiste": "Pieter de Hooch",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, ce petit intérieur chauffé au vin et aux huîtres fait envie.",
+  "meteo": {
+   "temp": 5,
+   "temp_ressentie": 1,
+   "temp_max": 7,
+   "temp_min": 0,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 15,
+   "humidite_pct": 70,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-25T15:29:56.288Z"
  }
 }
