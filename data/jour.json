@@ -8498,5 +8498,25 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-26T00:14:33.450Z"
+ },
+ "NEW YORK+2026-11-26": {
+  "id": "sisley-inondation-port-marly-1872",
+  "artiste": "Alfred Sisley",
+  "categorie": "figuratif",
+  "echo": "Après les pluies d'aujourd'hui, on pense à cette eau montée tranquillement jusqu'aux portes.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 2,
+   "temp_max": 12,
+   "temp_min": 5,
+   "precip_mm": 47.5,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 35,
+   "humidite_pct": 90,
+   "code_wmo": 65,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-26T09:26:16.573Z"
  }
 }
