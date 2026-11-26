@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-26": {
-  "id": "cassatt-le-bain-de-l-enfant",
-  "artiste": "Mary Cassatt",
-  "categorie": "figuratif",
-  "echo": "Un jour de pluie, ce moment de tendresse à la maison.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 22,
-   "temp_max": 21,
-   "temp_min": 18,
-   "precip_mm": 25,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 100,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-25T15:23:37.152Z"
- },
- "GENÈVE+2026-09-26": {
-  "id": "holzel-composition-abstraite-paysage",
-  "artiste": "Adolf Hölzel",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, ces éclats de couleur brillent comme un vitrail.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 20,
-   "temp_max": 28,
-   "temp_min": 12,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 0,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-25T22:21:10.082Z"
- },
- "PARIS+2026-09-26": {
-  "id": "lundstrom-composition-2",
-  "artiste": "Vilhelm Lundstrøm",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 20,
-   "temp_max": 25,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 70,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 2,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-25T22:21:10.082Z"
- },
- "ROME+2026-09-26": {
-  "id": "af-klint-retable-1",
-  "artiste": "Hilma af Klint",
-  "categorie": "abstrait",
-  "echo": "Sous ce soleil, le disque d'or de Hilma af Klint brille au sommet.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 21,
-   "temp_max": 27,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-25T22:21:10.082Z"
- },
- "AMSTERDAM+2026-09-26": {
-  "id": "taeuber-arp-composition-verticale-horizontale",
-  "artiste": "Sophie Taeuber-Arp",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, ce tissu de couleurs est chaud sans être lourd.",
-  "meteo": {
-   "temp": 18,
-   "temp_ressentie": 17,
-   "temp_max": 20,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 10,
-   "humidite_pct": 70,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-25T22:21:10.082Z"
- },
- "LONDRES+2026-09-26": {
-  "id": "hammershoi-soleil-sur-le-plancher",
-  "artiste": "Vilhelm Hammershøi",
-  "categorie": "figuratif",
-  "echo": "Ce soleil d'aujourd'hui, entrant par une fenêtre, dessine les mêmes rectangles sur le sol.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 16,
-   "temp_max": 20,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 30,
-   "vent_kmh": 5,
-   "humidite_pct": 50,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-25T23:19:35.184Z"
- },
- "NEW YORK+2026-09-26": {
-  "id": "courbet-la-mer",
-  "artiste": "Gustave Courbet",
-  "categorie": "figuratif",
-  "echo": "Par ce vent, on entend presque cette mer verte.",
-  "meteo": {
-   "temp": 14,
-   "temp_ressentie": 10,
-   "temp_max": 15,
-   "temp_min": 13,
-   "precip_mm": 6.5,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 30,
-   "humidite_pct": 80,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-26T04:21:24.611Z"
- },
  "TOKYO+2026-09-27": {
   "id": "la-tour-diseuse-de-bonne-aventure",
   "artiste": "Georges de La Tour",
@@ -8538,5 +8398,105 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-25T15:29:56.288Z"
+ },
+ "GENÈVE+2026-11-26": {
+  "id": "klee-magie-des-poissons",
+  "artiste": "Paul Klee",
+  "categorie": "abstrait",
+  "echo": "Sous cette pluie, on est un peu dans cet aquarium enchanté.",
+  "meteo": {
+   "temp": 7,
+   "temp_ressentie": 4,
+   "temp_max": 7,
+   "temp_min": 5,
+   "precip_mm": 2,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 80,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-26T00:14:33.449Z"
+ },
+ "PARIS+2026-11-26": {
+  "id": "guo-xi-vieux-arbres-lointain-plat",
+  "artiste": "Guo Xi",
+  "categorie": "figuratif",
+  "echo": "Une journée calme, lointaine, à la manière des Song.",
+  "meteo": {
+   "temp": 4,
+   "temp_ressentie": 1,
+   "temp_max": 6,
+   "temp_min": 1,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-26T00:14:33.449Z"
+ },
+ "LONDRES+2026-11-26": {
+  "id": "lundstrom-composition-2",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
+  "meteo": {
+   "temp": 5,
+   "temp_ressentie": 1,
+   "temp_max": 6,
+   "temp_min": 2,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-26T00:14:33.449Z"
+ },
+ "ROME+2026-11-26": {
+  "id": "millet-meules-automne",
+  "artiste": "Jean-François Millet",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel traversé de nuages, la campagne prend ces mêmes tons de paille et de gris.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 12,
+   "temp_max": 16,
+   "temp_min": 12,
+   "precip_mm": 1.5,
+   "neige_cm": 0,
+   "nuages_pct": 60,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-26T00:14:33.449Z"
+ },
+ "AMSTERDAM+2026-11-26": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, l'animal de Marc se ramasse comme nous.",
+  "meteo": {
+   "temp": 1,
+   "temp_ressentie": -4,
+   "temp_max": 1,
+   "temp_min": -1,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-26T00:14:33.450Z"
  }
 }
