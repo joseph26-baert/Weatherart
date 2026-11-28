@@ -1,144 +1,4 @@
 {
- "TOKYO+2026-09-28": {
-  "id": "beraud-boulevard-poissonniere-sous-la-pluie",
-  "artiste": "Jean Béraud",
-  "categorie": "figuratif",
-  "echo": "Sous cette pluie, le boulevard de Béraud est exactement le vôtre.",
-  "meteo": {
-   "temp": 21,
-   "temp_ressentie": 25,
-   "temp_max": 22,
-   "temp_min": 20,
-   "precip_mm": 28.5,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 5,
-   "humidite_pct": 100,
-   "code_wmo": 65,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-27T18:18:42.673Z"
- },
- "GENÈVE+2026-09-28": {
-  "id": "klee-haus-der-firma-z",
-  "artiste": "Paul Klee",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, cette petite maison de papier a l'air d'attendre le soleil.",
-  "meteo": {
-   "temp": 23,
-   "temp_ressentie": 23,
-   "temp_max": 28,
-   "temp_min": 15,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 80,
-   "vent_kmh": 0,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-27T22:03:57.091Z"
- },
- "PARIS+2026-09-28": {
-  "id": "gentileschi-esther-devant-assuerus",
-  "artiste": "Artemisia Gentileschi",
-  "categorie": "figuratif",
-  "echo": "Par cette chaleur, on comprend le malaise de la reine.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 23,
-   "temp_max": 26,
-   "temp_min": 19,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-27T22:03:57.091Z"
- },
- "ROME+2026-09-28": {
-  "id": "vangogh-oliviers-mia",
-  "artiste": "Vincent van Gogh",
-  "categorie": "figuratif",
-  "echo": "Sous ce soleil, ces troncs tordus ondulent dans la chaleur.",
-  "meteo": {
-   "temp": 22,
-   "temp_ressentie": 23,
-   "temp_max": 27,
-   "temp_min": 16,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 10,
-   "vent_kmh": 5,
-   "humidite_pct": 70,
-   "code_wmo": 0,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-27T22:03:57.091Z"
- },
- "AMSTERDAM+2026-09-28": {
-  "id": "torres-garcia-composition-universelle",
-  "artiste": "Joaquín Torres-García",
-  "categorie": "abstrait",
-  "echo": "Par cette douceur, on prend le temps de déchiffrer chaque case.",
-  "meteo": {
-   "temp": 19,
-   "temp_ressentie": 19,
-   "temp_max": 21,
-   "temp_min": 17,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 10,
-   "humidite_pct": 80,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-27T22:03:57.091Z"
- },
- "LONDRES+2026-09-28": {
-  "id": "marc-le-taureau",
-  "artiste": "Franz Marc",
-  "categorie": "abstrait",
-  "echo": "Sous ce ciel gris, ce noir et blanc a la force tranquille du taureau.",
-  "meteo": {
-   "temp": 17,
-   "temp_ressentie": 16,
-   "temp_max": 20,
-   "temp_min": 14,
-   "precip_mm": 0,
-   "neige_cm": 0,
-   "nuages_pct": 90,
-   "vent_kmh": 5,
-   "humidite_pct": 60,
-   "code_wmo": 3,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-28T00:40:08.153Z"
- },
- "NEW YORK+2026-09-28": {
-  "id": "hammershoi-soir-dans-le-salon",
-  "artiste": "Vilhelm Hammershøi",
-  "categorie": "figuratif",
-  "echo": "Par cette pluie, l'intérieur silencieux de Hammershøi fait envie.",
-  "meteo": {
-   "temp": 16,
-   "temp_ressentie": 15,
-   "temp_max": 17,
-   "temp_min": 15,
-   "precip_mm": 16,
-   "neige_cm": 0,
-   "nuages_pct": 100,
-   "vent_kmh": 15,
-   "humidite_pct": 90,
-   "code_wmo": 63,
-   "is_day": 1
-  },
-  "fixe_le": "2026-09-28T06:45:57.356Z"
- },
  "TOKYO+2026-09-29": {
   "id": "degas-chez-la-modiste",
   "artiste": "Edgar Degas",
@@ -8518,5 +8378,125 @@
    "is_day": 1
   },
   "fixe_le": "2026-11-27T12:03:35.676Z"
+ },
+ "GENÈVE+2026-11-28": {
+  "id": "bahram-gur-pavillon-noir",
+  "artiste": "Anonyme (Hérat), texte de Nizami",
+  "categorie": "figuratif",
+  "echo": "Par ce froid, un pavillon chaud et une histoire à écouter.",
+  "meteo": {
+   "temp": 3,
+   "temp_ressentie": 0,
+   "temp_max": 4,
+   "temp_min": 1,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 80,
+   "vent_kmh": 10,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-28T03:51:31.455Z"
+ },
+ "PARIS+2026-11-28": {
+  "id": "marc-le-taureau",
+  "artiste": "Franz Marc",
+  "categorie": "abstrait",
+  "echo": "Par ce froid, l'animal de Marc se ramasse comme nous.",
+  "meteo": {
+   "temp": 2,
+   "temp_ressentie": -2,
+   "temp_max": 4,
+   "temp_min": -1,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 10,
+   "humidite_pct": 70,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-28T03:51:31.455Z"
+ },
+ "LONDRES+2026-11-28": {
+  "id": "beraud-boulevard-poissonniere-sous-la-pluie",
+  "artiste": "Jean Béraud",
+  "categorie": "figuratif",
+  "echo": "Sous cette pluie, le boulevard de Béraud est exactement le vôtre.",
+  "meteo": {
+   "temp": 8,
+   "temp_ressentie": 5,
+   "temp_max": 11,
+   "temp_min": 5,
+   "precip_mm": 8,
+   "neige_cm": 0,
+   "nuages_pct": 100,
+   "vent_kmh": 15,
+   "humidite_pct": 90,
+   "code_wmo": 61,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-28T03:51:31.455Z"
+ },
+ "ROME+2026-11-28": {
+  "id": "monet-meule-soleil-dans-la-brume",
+  "artiste": "Claude Monet",
+  "categorie": "figuratif",
+  "echo": "Sous ce soleil qui perce, la brume de Monet s'en va.",
+  "meteo": {
+   "temp": 11,
+   "temp_ressentie": 8,
+   "temp_max": 15,
+   "temp_min": 7,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 20,
+   "vent_kmh": 10,
+   "humidite_pct": 60,
+   "code_wmo": 0,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-28T03:51:31.455Z"
+ },
+ "TOKYO+2026-11-28": {
+  "id": "ryder-travailleurs-de-la-mer",
+  "artiste": "Albert Pinkham Ryder",
+  "categorie": "figuratif",
+  "echo": "Sous ce ciel troué de lune, la barque de Ryder.",
+  "meteo": {
+   "temp": 14,
+   "temp_ressentie": 13,
+   "temp_max": 19,
+   "temp_min": 8,
+   "precip_mm": 6.5,
+   "neige_cm": 0,
+   "nuages_pct": 50,
+   "vent_kmh": 5,
+   "humidite_pct": 80,
+   "code_wmo": 2,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-28T03:51:31.455Z"
+ },
+ "AMSTERDAM+2026-11-28": {
+  "id": "lundstrom-composition-2",
+  "artiste": "Vilhelm Lundstrøm",
+  "categorie": "abstrait",
+  "echo": "Sous ce ciel couvert, cette grande forme sobre paraît solide et rassurante.",
+  "meteo": {
+   "temp": 0,
+   "temp_ressentie": -5,
+   "temp_max": 2,
+   "temp_min": -2,
+   "precip_mm": 0,
+   "neige_cm": 0,
+   "nuages_pct": 90,
+   "vent_kmh": 20,
+   "humidite_pct": 80,
+   "code_wmo": 3,
+   "is_day": 1
+  },
+  "fixe_le": "2026-11-28T03:51:31.455Z"
  }
 }
